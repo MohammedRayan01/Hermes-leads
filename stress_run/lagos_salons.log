@@ -1,0 +1,339 @@
+
+↺ Resuming: loaded 46 existing no-website leads, 65 existing has-website leads from disk
+
+  Skipping areas already fully checked in a previous run: ['Lagos, Nigeria']
+
+
+######################################################################
+# AREA: Abuja, Nigeria  (need 14 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Hair Salons  |  Location: Abuja, Nigeria  |  Region hint: NG
+#  Target: 14 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Hair Salons Abuja, Nigeria
+Cap: 150 listings
+============================================================
+
+  [1] 8/150 listings
+  [2] 16/150 listings
+  [3] 20/150 listings
+  [4] 25/150 listings
+  [5] 33/150 listings
+  [6] 37/150 listings
+  [7] 45/150 listings
+  [8] 53/150 listings
+  [9] 57/150 listings
+  [10] 65/150 listings
+  [11] 73/150 listings
+  [12] 77/150 listings
+  [13] 83/150 listings
+  [14] 91/150 listings
+  [15] 95/150 listings
+  [16] 103/150 listings
+  [17] 111/150 listings
+  [18] 115/150 listings
+  [19] 115/150 listings
+  [20] 115/150 listings
+  [21] 115/150 listings
+  [22] 115/150 listings
+  [23] 115/150 listings
+  [24] 115/150 listings
+  [25] 115/150 listings
+  [26] 115/150 listings
+  [27] 115/150 listings
+  [28] 115/150 listings
+  [29] 115/150 listings
+  [30] 115/150 listings
+
+  ✓ Discovery: 115 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 5 found, 4 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 119
+============================================================
+
+  ── 119 pass (no website) | 0 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ➤ NO-PHONE-SIGNAL: Annish Unisex Salon & Spa Abuja | ★4.8 (0) | will enrich
+  ➤ PHONE-ICON: Salonmyculture Beauty Salon & Spa | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: Preshy beauty braids Abuja | ★4.9 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Tasha Beauty And Hair Salons.. Abuja nearby | ★4.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Lamisking pixiesalon and spa Abuja | ★4.9 (0) | will enrich
+  ➤ PHONE-ICON: Beauty Emporia | Abuja Beauty Salon in Abuja | ★4.9 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: J—braids … Abuja salon | ★4.9 (0) | will enrich
+  ➤ PHONE-ICON: Hairvolution natural hair salon | ★4.4 (0) | need digits
+  ➤ PHONE-ICON: Bold and Beautiful Salon/Spa | ★4.1 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Ji Emporium Salon And Spa | ★4.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Abuja hair braids | ★5.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hair force beauty salons... Abuja Near by | ★5.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Avenue21 Beauty Salon & Spa | ★4.2 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: PHI NATURAL HAIR SALON | ★4.9 (0) | will enrich
+  ➤ PHONE-ICON: Luxor Salon and Spa Abuja | ★4.3 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Hairby2kay_ Abuja beauty salon | ★5.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Nakia Beauty Bar| Abuja Salon | ★4.8 (0) | will enrich
+  ➤ PHONE-ICON: D'divas Beauty Care Salon & Spa | ★4.5 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Ech Beauty Salon in Abuja | ★5.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Uchis Beauty Lounge | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: HAIR DISTRICT BEAUTY SALON & SPA ABUJA | ★4.5 (13) | will enrich
+  ➤ NO-PHONE-SIGNAL: Lauvee Beauty Salon Abuja | ★4.5 (118) | will enrich
+  ➤ NO-PHONE-SIGNAL: Zoo Bangs Limited | ★4.4 (149) | will enrich
+  ➤ PHONE-ICON: Abuja Salon NG (Kings cuts & beauty spa) | ★4.8 (29) | need digits
+  ➤ NO-PHONE-SIGNAL: Infinity Hair and Beauty Lounge | ★4.7 (46) | will enrich
+  ➤ NO-PHONE-SIGNAL: Beautiful U Unisex Salon & Spa | ★4.7 (15) | will enrich
+  ➤ NO-PHONE-SIGNAL: Spaholic Luxury Abuja | ★4.4 (66) | will enrich
+  ➤ NO-PHONE-SIGNAL: Abuja Cee braid | ★5.0 (25) | will enrich
+  ➤ NO-PHONE-SIGNAL: QUEENSDRIVE SPA [BEST AESTHETICS SPA, HAIR AND N | ★4.7 (35) | will enrich
+  ➤ NO-PHONE-SIGNAL: Man Cave By Modern Man | ★4.9 (41) | will enrich
+  ➤ PHONE-ICON: Home of dreadlocks and tattoos Abuja | ★4.9 (95) | need digits
+  ➤ NO-PHONE-SIGNAL: Tofboi Barbers | ★4.5 (141) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hair by Tms Abuja | ★5.0 (57) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hairbyjohn beauty salon abuja | ★5.0 (9) | will enrich
+  ➤ PHONE-ICON: OMA NATURAL HAIR SALON WUSE | ★4.5 (380) | need digits
+  ➤ NO-PHONE-SIGNAL: Abuja braider....Near Me | ★4.8 (16) | will enrich
+  ➤ PHONE-ICON: Dolce Salon and Barbershop | ★4.7 (32) | need digits
+  ➤ PHONE-ICON: Chatoyer Beauty Lounge and Spa | ★4.4 (102) | need digits
+  ➤ NO-PHONE-SIGNAL: Hartland Beauty Salon | ★4.4 (79) | will enrich
+  ➤ PHONE-ICON: Slay_braids— hair salon in Abuja | ★5.0 (85) | need digits
+  ➤ PHONE-ICON: REIGN BEAUTY PLANET | ★5.0 (65) | need digits
+  ➤ PHONE-ICON: JETANA BEAUTY LOUNGE | ★4.3 (40) | need digits
+  ➤ PHONE-ICON: Abuja hair salon in Wuse Abuja Lucky’s touch | ★5.0 (6) | need digits
+  ➤ NO-PHONE-SIGNAL: Joyful Touch Beauty Place | ★5.0 (49) | will enrich
+  ➤ NO-PHONE-SIGNAL: Cut and Chill Salon & Spa | ★4.4 (73) | will enrich
+  ➤ NO-PHONE-SIGNAL: Perfect allure beauty bar | ★4.6 (19) | will enrich
+  ➤ NO-PHONE-SIGNAL: Fhuzohairport Natural Hair Spa Abuja | ★4.9 (11) | will enrich
+  ➤ PHONE-ICON: Escape House spa | ★5.0 (3143) | need digits
+  ➤ NO-PHONE-SIGNAL: Stonecut Abuja | ★4.6 (99) | will enrich
+  ➤ PHONE-ICON: Faridaz Spa | ★4.9 (49) | need digits
+  ➤ PHONE-ICON: Mayfair Salon & Spa | ★4.4 (38) | need digits
+  ➤ NO-PHONE-SIGNAL: Pearls Essentials Natural Hair Salon Garki | ★4.4 (14) | will enrich
+  ➤ NO-PHONE-SIGNAL: Abuja lash and brows by BLF | ★5.0 (71) | will enrich
+  ➤ NO-PHONE-SIGNAL: Pelta Spa & Salon | ★4.9 (195) | will enrich
+  ➤ PHONE-ICON: Khrome's place - SALON. MEDSPA. LAUNDRY | ★4.5 (57) | need digits
+  ➤ NO-PHONE-SIGNAL: Natural Nation Wuse II | ★4.0 (62) | will enrich
+  ➤ PHONE-ICON: ABUJA HAIR SALON_ STARBOIPALACE | ★5.0 (4) | need digits
+  ➤ NO-PHONE-SIGNAL: Nifty Cuts and Spa | ★4.4 (79) | will enrich
+  ➤ NO-PHONE-SIGNAL: Envy Salon and Spa | ★4.7 (40) | will enrich
+  ➤ NO-PHONE-SIGNAL: KVL Unisex Salon & Spa | ★4.9 (17) | will enrich
+  ➤ NO-PHONE-SIGNAL: NatureStrands Hair Clinic, Abuja | ★4.8 (11) | will enrich
+  ➤ PHONE-ICON: Ikani Salon | ★4.4 (86) | need digits
+  ➤ NO-PHONE-SIGNAL: Luxor Salon and Spa Abuja ( Maitama) | ★4.5 (13) | will enrich
+  ➤ NO-PHONE-SIGNAL: HAIR STYLIST IN ABUJA(FAVHAIR EMPIRE) | ★5.0 (1) | will enrich
+  ➤ NO-PHONE-SIGNAL: Washpee Beauty Hub | ★5.0 (37) | will enrich
+  ➤ NO-PHONE-SIGNAL: U nailzsalonabuja | ★4.9 (207) | will enrich
+  ➤ NO-PHONE-SIGNAL: Skin Therapy Beauty and Spa Abuja | ★4.7 (397) | will enrich
+  ➤ NO-PHONE-SIGNAL: FAB Naturals Hair Salon | ★4.4 (8) | will enrich
+  ➤ NO-PHONE-SIGNAL: Citybuzz Barbers | ★4.9 (101) | will enrich
+  ➤ NO-PHONE-SIGNAL: Abuja hair salon (SOPAG BEAUTY) | ★5.0 (7) | will enrich
+  ➤ PHONE-ICON: QueenTee Fashion & Beauty Empire, Abuja beauty a | ★4.7 (152) | need digits
+  ➤ NO-PHONE-SIGNAL: Stellbeauty massage spa abuja | ★4.8 (108) | will enrich
+  ➤ NO-PHONE-SIGNAL: Elly's Beauty Touch | ★5.0 (23) | will enrich
+  ➤ NO-PHONE-SIGNAL: Premium Cutz & Spa | Saloon in Abuja | Abuja Spa | ★4.7 (25) | will enrich
+  ➤ NO-PHONE-SIGNAL: FAB NATURALS HAIR SALON & BEAUTY SPA | ★5.0 (1) | will enrich
+  ➤ NO-PHONE-SIGNAL: Lillies Salon & Spa | ★4.5 (28) | will enrich
+  ➤ NO-PHONE-SIGNAL: Obinocious Signature | ★4.9 (43) | will enrich
+  ➤ NO-PHONE-SIGNAL: BraidsJunkie Beauty Salon | ★4.2 (33) | will enrich
+  ➤ NO-PHONE-SIGNAL: Halit Unisex Salon - The Elixir | ★4.4 (22) | will enrich
+  ➤ NO-PHONE-SIGNAL: Kemi Black Beauty Salon | ★5.0 (29) | will enrich
+  ➤ NO-PHONE-SIGNAL: Beauty Secrets MedSpa | ★4.5 (332) | will enrich
+  ➤ NO-PHONE-SIGNAL: Signature Spa | ★4.8 (10) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hair professional barbers | ★4.2 (25) | will enrich
+  ➤ NO-PHONE-SIGNAL: Wale Beauty Palace | ★4.8 (48) | will enrich
+  ➤ NO-PHONE-SIGNAL: Abuja polygel Wizzypronails | ★4.8 (81) | will enrich
+  ➤ NO-PHONE-SIGNAL: 1193Natural Hair Salon | ★4.1 (23) | will enrich
+  ➤ NO-PHONE-SIGNAL: Candy Wellness massage Spa Abuja | ★4.9 (168) | will enrich
+  ➤ NO-PHONE-SIGNAL: Harmony Dreadlocks and Tattoo Abuja | ★4.8 (33) | will enrich
+  ➤ NO-PHONE-SIGNAL: Elevoire Beauty Lounge | ★4.7 (14) | will enrich
+  ➤ NO-PHONE-SIGNAL: Rex Hair Salon | ★4.8 (8) | will enrich
+  ➤ PHONE-ICON: De Headshots | ★4.5 (89) | need digits
+  ➤ NO-PHONE-SIGNAL: Ace Of Fades Luxury Barber Shop | ★4.6 (123) | will enrich
+  ➤ NO-PHONE-SIGNAL: Daniel's Salon and Spa | ★4.2 (77) | will enrich
+  ➤ PHONE-ICON: Gabby Salon | ★4.9 (16) | need digits
+  ➤ NO-PHONE-SIGNAL: HATZ BARBING SALON | ★4.5 (11) | will enrich
+  ➤ PHONE-ICON: JudeTivfa-classic-cut | ★4.9 (128) | need digits
+  ➤ NO-PHONE-SIGNAL: HairBar | ★5.0 (57) | will enrich
+  ➤ NO-PHONE-SIGNAL: Ronnie's Hair Salon | ★4.4 (17) | will enrich
+  ➤ PHONE-ICON: Hair Essentials Studios ( Formerly SB Hair) | ★4.5 (44) | need digits
+  ➤ NO-PHONE-SIGNAL: Natural hair salon in abuja (Zike Naturals) | ★5.0 (6) | will enrich
+  ➤ NO-PHONE-SIGNAL: TThouseofbeauty | ★4.9 (14) | will enrich
+  ➤ PHONE-ICON: Emoslink Beauty Parlor and Nails Studio | ★5.0 (29) | need digits
+  ➤ NO-PHONE-SIGNAL: BB Daily Massage Spa Abuja | ★4.9 (155) | will enrich
+  ➤ NO-PHONE-SIGNAL: HairByBankz | ★4.5 (12) | will enrich
+  ➤ NO-PHONE-SIGNAL: HAIR BY TEGA BEAUTY SALON | ★4.9 (9) | will enrich
+  ➤ NO-PHONE-SIGNAL: De Prime Touch Barbershop | ★4.6 (20) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hairsmith Beauty | ★5.0 (5) | will enrich
+  ➤ NO-PHONE-SIGNAL: Jasmine Harrison Beauty | ★4.4 (31) | will enrich
+  ➤ NO-PHONE-SIGNAL: Chibest Salon & Spa Equipment | ★5.0 (69) | will enrich
+  ➤ NO-PHONE-SIGNAL: Ulibia Beauty | ★5.0 (1) | will enrich
+  ➤ PHONE-ICON: Be-girl Beauties Nail salon Abuja | ★5.0 (32) | need digits
+  ➤ PHONE-ICON: Raw Beauty Bar | ★4.7 (23) | need digits
+  ➤ NO-PHONE-SIGNAL: Ze Discreet Spa & Massage Abuja | ★4.8 (80) | will enrich
+  ➤ NO-PHONE-SIGNAL: Fortune Braids Abuja (Wuse zone 3) | ★4.9 (9) | will enrich
+  ➤ NO-PHONE-SIGNAL: David Dread Locs | ★4.9 (28) | will enrich
+  ✗ DUMP (low activity): Tulip Hair Salon & Spa | ★0.0 (0)
+  ✗ DUMP (low activity): BIG LEAGUES | ★0.0 (0)
+  ✗ DUMP (low activity): Binta Beauty Ultimate Salon | ★0.0 (0)
+  ✓ QUAL: Bigtimers Barbershop | ★0.0 (0) | 📞 +2348065694857
+
+  ── 1 qualified + 115 phone-icon-needs-enrich | 3 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 14 confirmed no-website
+Pool: 116 candidates
+============================================================
+
+  [1/116] Bigtimers Barbershop...
+     ✓ CONFIRMED no-website lead (1/14)
+  [2/116] Annish Unisex Salon & Spa Abuja...
+     📞 +234 803 384 5944 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://annishsalonspa.com.ng/) — 1 so far
+  [3/116] Salonmyculture Beauty Salon & Spa...
+     📞 +234 803 899 9827 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://salonmyculture.online/) — 2 so far
+  [4/116] Preshy beauty braids Abuja...
+     📞 +234 707 333 8554 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (2/14)
+  [5/116] Tasha Beauty And Hair Salons.. Abuja nearby...
+     📞 +234 903 322 3399 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (3/14)
+  [6/116] Lamisking pixiesalon and spa Abuja...
+     📞 +234 901 828 7564 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/14)
+  [7/116] Beauty Emporia | Abuja Beauty Salon in Abuja...
+     📞 +234 805 488 5901 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (5/14)
+  [8/116] J—braids … Abuja salon...
+     📞 +234 916 014 0459 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (6/14)
+  [9/116] Hairvolution natural hair salon...
+     📞 +234 708 870 0052 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://hairvolutionnaturals.wordpress.com/about/) — 3 so far
+  [10/116] Bold and Beautiful Salon/Spa...
+     📞 +234 209 290 5223 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://boldandbeautifulsalon.com/) — 4 so far
+  [11/116] Ji Emporium Salon And Spa...
+     📞 +234 916 292 4979 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://jiemporium.com/) — 5 so far
+  [12/116] Abuja hair braids...
+     📞 +234 810 488 5569 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.mide.live/) — 6 so far
+  [13/116] Hair force beauty salons... Abuja Near by...
+     📞 +234 803 303 5941 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (7/14)
+  [14/116] Avenue21 Beauty Salon & Spa...
+     📞 +234 806 879 6071 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/14)
+  [15/116] PHI NATURAL HAIR SALON...
+     📞 +234 911 513 2218 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://sites.google.com/view/phi-natural-hair-salon) — 7 so far
+  [16/116] Luxor Salon and Spa Abuja...
+     📞 +234 701 888 0100 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.luxorsalonandspa.com/) — 8 so far
+  [17/116] Hairby2kay_ Abuja beauty salon...
+     📞 +234 703 700 3310 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://eclectic-cuchufli-61378c.netlify.app/) — 9 so far
+  [18/116] Nakia Beauty Bar| Abuja Salon...
+     📞 +234 810 783 4886 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (9/14)
+  [19/116] D'divas Beauty Care Salon & Spa...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [20/116] Ech Beauty Salon in Abuja...
+     📞 +234 707 778 6937 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (10/14)
+  [21/116] Uchis Beauty Lounge...
+     📞 +234 905 551 1127 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (11/14)
+  [22/116] HAIR DISTRICT BEAUTY SALON & SPA ABUJA...
+     📞 +234 701 142 2358 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (12/14)
+  [23/116] Lauvee Beauty Salon Abuja...
+     📞 +234 915 360 7927 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (13/14)
+  [24/116] Zoo Bangs Limited...
+     📞 +234 806 362 1019 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (14/14)
+
+  ── Reached 14 confirmed no-website leads, stopping early
+
+
+  ── Final: 14/14 confirmed no-website leads, 9 has-website leads (checked 24/116 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Hair Salons in Abuja, Nigeria
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Bigtimers Barbershop                   +2348065694857     0.0   0    
+2   Preshy beauty braids Abuja             +234 707 333 855   4.9   59   
+3   Tasha Beauty And Hair Salons.. Abuja   +234 903 322 339   4.9   22   
+4   Lamisking pixiesalon and spa Abuja     +234 901 828 756   4.9   132  
+5   Beauty Emporia | Abuja Beauty Salon    +234 805 488 590   4.9   146  
+6   J—braids … Abuja salon                 +234 916 014 045   4.9   152  
+7   Hair force beauty salons... Abuja Ne   +234 803 303 594   5.0   69   
+8   Avenue21 Beauty Salon & Spa            +234 806 879 607   4.2   241  
+9   Nakia Beauty Bar| Abuja Salon          +234 810 783 488   4.8   84   
+10  Ech Beauty Salon in Abuja              +234 707 778 693   5.0   50   
+11  Uchis Beauty Lounge                    +234 905 551 112   4.6   46   
+12  HAIR DISTRICT BEAUTY SALON & SPA ABU   +234 701 142 235   4.5   13   
+13  Lauvee Beauty Salon Abuja              +234 915 360 792   4.5   118  
+14  Zoo Bangs Limited                      +234 806 362 101   4.4   149  
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Hair Salons in Abuja, Nigeria
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Annish Unisex Salon & Spa Abuja        +234 803 384 594   4.8   334  
+2   Salonmyculture Beauty Salon & Spa      +234 803 899 982   4.7   117  
+3   Hairvolution natural hair salon        +234 708 870 005   4.4   114  
+4   Bold and Beautiful Salon/Spa           +234 209 290 522   4.1   463  
+5   Ji Emporium Salon And Spa              +234 916 292 497   4.9   134  
+6   Abuja hair braids                      +234 810 488 556   5.0   230  
+7   PHI NATURAL HAIR SALON                 +234 911 513 221   4.9   35   
+8   Luxor Salon and Spa Abuja              +234 701 888 010   4.3   361  
+9   Hairby2kay_ Abuja beauty salon         +234 703 700 331   5.0   67   
+================================================================================
+
+
+  ── Area 'Abuja, Nigeria' contributed 14 new no-website leads, 9 new has-website leads (running total: 60/60 no-website, 74 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/lagos_salons.csv (60 rows), /workspaces/Hermes-leads/stress_run/lagos_salons_has_website.csv (74 rows)
+
+
+✓ Target of 60 already reached — skipping remaining areas: ['Port Harcourt, Nigeria', 'Ibadan, Nigeria']
+
+
+================================================================================
+MULTI-AREA SUMMARY — Hair Salons
+================================================================================
+  Abuja, Nigeria                           14 no-website | 9 has-website
+--------------------------------------------------------------------------------
+  TOTAL: 60/60 confirmed unique no-website leads
+  TOTAL: 74 confirmed unique has-website leads (bonus list)
+
+  ✓ No-website target reached.
+================================================================================
+
+✓ No-website CSV: /workspaces/Hermes-leads/stress_run/lagos_salons.csv
+✓ Has-website CSV: /workspaces/Hermes-leads/stress_run/lagos_salons_has_website.csv
+✓ Status: /workspaces/Hermes-leads/stress_run/lagos_salons.status.json
+

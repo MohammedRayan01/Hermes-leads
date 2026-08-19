@@ -1,0 +1,566 @@
+
+↺ Resuming: loaded 43 existing no-website leads, 412 existing has-website leads from disk
+
+  Skipping areas already fully checked in a previous run: ['Cape Town, South Africa', 'Durban, South Africa', 'Hermanus, South Africa', 'Johannesburg, South Africa', 'Kruger National Park, South Africa', 'Pretoria, South Africa', 'Sandton, South Africa', 'Stellenbosch, South Africa']
+
+
+######################################################################
+# AREA: Mombasa, Kenya  (need 17 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Hotels  |  Location: Mombasa, Kenya  |  Region hint: KE
+#  Target: 17 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Hotels Mombasa, Kenya
+Cap: 150 listings
+============================================================
+
+  [1] 8/150 listings
+  [2] 16/150 listings
+  [3] 20/150 listings
+  [4] 26/150 listings
+  [5] 33/150 listings
+  [6] 35/150 listings
+  [7] 40/150 listings
+  [8] 48/150 listings
+  [9] 51/150 listings
+  [10] 59/150 listings
+  [11] 66/150 listings
+  [12] 70/150 listings
+  [13] 78/150 listings
+  [14] 85/150 listings
+  [15] 88/150 listings
+  [16] 88/150 listings
+  [17] 93/150 listings
+  [18] 100/150 listings
+  [19] 102/150 listings
+  [20] 102/150 listings
+  [21] 102/150 listings
+  [22] 102/150 listings
+  [23] 102/150 listings
+  [24] 102/150 listings
+  [25] 102/150 listings
+  [26] 102/150 listings
+  [27] 102/150 listings
+  [28] 102/150 listings
+  [29] 102/150 listings
+  [30] 102/150 listings
+
+  ✓ Discovery: 102 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 156 found, 124 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 226
+============================================================
+
+  ── 219 pass (no website) | 7 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ➤ NO-PHONE-SIGNAL: Sarova Whitesands Beach Resort & Spa Mombasa - B | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: CityBlue Creekside Hotel & Suites, Mombasa | ★4.2 (0) | will enrich
+  ➤ PHONE-ICON: Cocoa Luxury Resort- Nyali, Mombasa | ★4.2 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: PrideInn Paradise Beach Resort & Spa Mombasa | ★4.8 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Ocean View Nyali Boutique Hotel | ★3.8 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sheratton Regency Hotel | ★4.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mombasa Beach Hotel | ★4.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Bamburi Beach Hotel | ★4.2 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Premium Inn Mombasa City | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Englishpoint Mombasa | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Marigold Guest House | ★3.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Cowrie Shell Beach Apartments Mombasa | ★4.3 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Royal Court Hotel, Mombasa | ★4.1 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Lotus Hotel | ★3.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: PrideInn Flamingo Beach Resort & Spa Mombasa | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Sapphire | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sai Rock Beach Hotel & Spa | ★4.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Swahili Social House | ★4.1 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Baobab holiday resort ltd | ★4.1 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Cocoa Boutique Hotel | ★4.3 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Cingaki Hotel | ★4.0 (262) | will enrich
+  ➤ NO-PHONE-SIGNAL: Kahama Beach Hotel | ★4.2 (140) | will enrich
+  ➤ NO-PHONE-SIGNAL: Oswald Resort | ★4.0 (1) | will enrich
+  ➤ NO-PHONE-SIGNAL: PrideInn Hotel Mombasa City | ★4.2 (1381) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Ivory Suites | ★4.4 (194) | will enrich
+  ➤ NO-PHONE-SIGNAL: Tulia Old Town Backpackers | ★4.1 (92) | will enrich
+  ➤ NO-PHONE-SIGNAL: Stadium Holiday Inn | ★3.8 (944) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sunset Paradise Holiday Homes | ★4.3 (2189) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mali Guest House | ★4.0 (272) | will enrich
+  ➤ NO-PHONE-SIGNAL: Akogo House. (Hostel and Backpackers) | ★3.8 (105) | will enrich
+  ➤ NO-PHONE-SIGNAL: Topville Hotel Mombasa | ★3.6 (43) | will enrich
+  ➤ NO-PHONE-SIGNAL: Manson Hotel | ★3.7 (503) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sentrim Castle Royal | ★4.1 (1126) | will enrich
+  ➤ NO-PHONE-SIGNAL: Travellers Beach Hotel & Spa - Mombasa | ★4.4 (3835) | will enrich
+  ➤ NO-PHONE-SIGNAL: Jambo Paradise Hotel | ★3.9 (709) | will enrich
+  ➤ NO-PHONE-SIGNAL: Fenns Cozy Apartments | ★5.0 (3) | will enrich
+  ➤ NO-PHONE-SIGNAL: Plaza Beach Hotel | ★3.9 (1289) | will enrich
+  ➤ NO-PHONE-SIGNAL: Royal Shaza Suites | ★4.4 (460) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mtwapa Prestige Leisure Hotel & Conference Limit | ★4.1 (921) | will enrich
+  ➤ NO-PHONE-SIGNAL: Jambo Village Hotel | ★3.9 (1696) | will enrich
+  ➤ NO-PHONE-SIGNAL: Pine Breeze Holiday Resort | ★4.0 (720) | will enrich
+  ➤ NO-PHONE-SIGNAL: Nyali mombasa | ★4.4 (25) | will enrich
+  ➤ NO-PHONE-SIGNAL: Maasai Resort | ★4.1 (1066) | will enrich
+  ➤ NO-PHONE-SIGNAL: 6 park retreat | ★4.3 (95) | will enrich
+  ➤ NO-PHONE-SIGNAL: White Castle Hotel Mikindani Mombasa | ★4.0 (862) | will enrich
+  ➤ NO-PHONE-SIGNAL: Regency INN Tudor | ★4.0 (50) | will enrich
+  ➤ NO-PHONE-SIGNAL: Darajani Hotel Ltd | ★3.8 (521) | will enrich
+  ➤ NO-PHONE-SIGNAL: Bliss Resort | ★4.4 (2026) | will enrich
+  ➤ NO-PHONE-SIGNAL: Noma Stays Nyali | ★4.2 (90) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mtwapa Country Resort | ★4.0 (435) | will enrich
+  ➤ NO-PHONE-SIGNAL: Platinum Hotel | ★4.0 (133) | will enrich
+  ➤ NO-PHONE-SIGNAL: Josleejim Hotel Ltd | ★3.4 (46) | will enrich
+  ➤ NO-PHONE-SIGNAL: ZURI Homestay | ★5.0 (3) | will enrich
+  ✗ DUMP (low activity): Experience Mombasa With Your Family Wail Staying | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Athina Beach House | ★4.4 (41) | will enrich
+  ➤ NO-PHONE-SIGNAL: Pango Guest House | ★3.8 (40) | will enrich
+  ➤ NO-PHONE-SIGNAL: DEKIS HOTEL -NYALI | ★3.7 (339) | will enrich
+  ✗ DUMP (low activity): Malach homes | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Solomon's Castle Hotel | ★3.9 (481) | will enrich
+  ➤ PHONE-ICON: Jambo Travellers Hotel, Mtwapa | ★4.1 (193) | need digits
+  ➤ NO-PHONE-SIGNAL: Horizon View Inn | ★3.9 (111) | will enrich
+  ✗ DUMP (low activity): Coastal Holiday Homes | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Pearl Residence 3rd Avenue Nyali, Mombasa, Kenya | ★5.0 (5) | will enrich
+  ➤ NO-PHONE-SIGNAL: Swahili Beach Apartments | ★4.2 (37) | will enrich
+  ➤ NO-PHONE-SIGNAL: Shiloh guest house and restaurant | ★3.7 (102) | will enrich
+  ➤ NO-PHONE-SIGNAL: Zuri Furnished Apartment -Lake View Phase 2 | ★4.4 (16) | will enrich
+  ✗ DUMP (low activity): Samira's Homestay | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Creeks Edge Lodge | ★4.1 (45) | will enrich
+  ➤ NO-PHONE-SIGNAL: Severin Sea Lodge | ★4.5 (2174) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sea-Front Family Holiday Home | ★4.7 (6) | will enrich
+  ➤ NO-PHONE-SIGNAL: K3 Homes | ★5.0 (1) | will enrich
+  ➤ NO-PHONE-SIGNAL: Raya Hotel & Conference- Nyali, mombasa | ★3.6 (12) | will enrich
+  ➤ NO-PHONE-SIGNAL: Nightingale Serviced Apartments Hotel Mombasa -  | ★4.2 (61) | will enrich
+  ➤ NO-PHONE-SIGNAL: Pavilion Holiday Resort | ★5.0 (1) | will enrich
+  ➤ PHONE-ICON: Moffat Court Boutique Hotel | ★4.2 (424) | need digits
+  ➤ NO-PHONE-SIGNAL: Villa Macheo | ★4.7 (9) | will enrich
+  ➤ NO-PHONE-SIGNAL: Urban nest | ★5.0 (1) | will enrich
+  ✗ DUMP (low activity): Aqua houses | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Kendas Village Hotel | ★3.7 (374) | will enrich
+  ➤ NO-PHONE-SIGNAL: Shiloh Accommodation | ★2.0 (2) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Dorse-Kwa Shibu Rd | ★3.4 (114) | will enrich
+  ➤ NO-PHONE-SIGNAL: JOY GUEST HOUSE | ★4.2 (6) | will enrich
+  ➤ PHONE-ICON: CheckPoint Inn | ★3.8 (481) | need digits
+  ✗ DUMP (low activity): Riverbend retreat Airbnb | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: GLORY HOLIDAY RESORT | ★4.0 (60) | will enrich
+  ➤ NO-PHONE-SIGNAL: Enkayz Mombasa | Family friendly Stay and Cafe | ★4.0 (39) | will enrich
+  ➤ NO-PHONE-SIGNAL: Global Palace Hotel, Mombasa | ★3.7 (48) | will enrich
+  ➤ NO-PHONE-SIGNAL: Gasaro Hotel | ★4.1 (729) | will enrich
+  ➤ NO-PHONE-SIGNAL: PK Ocean Apartments, 3rd Avenue Nyali | ★4.4 (5) | will enrich
+  ➤ NO-PHONE-SIGNAL: Ashari Apartments | ★3.8 (52) | will enrich
+  ➤ NO-PHONE-SIGNAL: Summerday Resort | ★4.7 (41) | will enrich
+  ➤ NO-PHONE-SIGNAL: Monalisa Hotel, Mtwapa | ★4.0 (291) | will enrich
+  ➤ NO-PHONE-SIGNAL: Elna Ridge | ★5.0 (5) | will enrich
+  ➤ NO-PHONE-SIGNAL: La- Fattoria Resort | ★4.4 (910) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Basilea | ★3.8 (508) | will enrich
+  ➤ NO-PHONE-SIGNAL: Voyager Beach Resort | ★4.5 (5978) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mei Place Apartments | ★3.9 (103) | will enrich
+  ✗ DUMP (low activity): Kimbar Suites | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Ary Homestay Nyali Behind City Mall Nyali, Momba | ★4.8 (93) | will enrich
+  ➤ NO-PHONE-SIGNAL: Lisa Mari | ★5.0 (2) | will enrich
+  ➤ NO-PHONE-SIGNAL: Villa Buerk | ★5.0 (2) | will enrich
+  ➤ NO-PHONE-SIGNAL: Impala Suites | ★4.5 (373) | will enrich
+  ✗ DUMP (low activity): Bridge View Safari Lodge | ★0.0 (0)
+  ✗ DUMP (low activity): Sentido | ★0.0 (0)
+  ✗ DUMP (low activity): Milele Beach Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Baobab Resort | ★0.0 (0)
+  ✗ DUMP (low activity): Ziwa Beach | ★0.0 (0)
+  ✗ DUMP (low activity): Paradise Apartments | ★0.0 (0)
+  ✗ DUMP (low activity): New people hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Jumuia Conference | ★0.0 (0)
+  ✗ DUMP (low activity): Continental Beach Cottages | ★0.0 (0)
+  ✗ DUMP (low activity): Whispering Palms | ★0.0 (0)
+  ✗ DUMP (low activity): Le Soleil Beach Resort | ★0.0 (0)
+  ✗ DUMP (low activity): Leinmach Guest HOuse | ★0.0 (0)
+  ✗ DUMP (low activity): Makwetu Resorts | ★0.0 (0)
+  ✗ DUMP (low activity): Prestige Apartments | ★0.0 (0)
+  ✗ DUMP (low activity): Chamiachi Luxury Apartments | ★0.0 (0)
+  ✗ DUMP (low activity): Mombasa Backpackers | ★0.0 (0)
+  ✗ DUMP (low activity): Nyali Beach Holiday Resorts | ★0.0 (0)
+  ✗ DUMP (low activity): SUHUFI PALACE HOTEL | ★0.0 (0)
+  ✗ DUMP (low activity): Tuliahouse Backpackers | ★0.0 (0)
+  ✗ DUMP (low activity): Sunrise Resort Apartments Spa | ★0.0 (0)
+  ✗ DUMP (low activity): Manas | ★0.0 (0)
+  ✗ DUMP (low activity): Serene House | ★0.0 (0)
+  ✗ DUMP (low activity): Garden Grove Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Ras Rikadini | ★0.0 (0)
+  ✗ DUMP (low activity): Jundan Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Quale Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Everfresh Vegetables;Hotel Dorse | ★0.0 (0)
+  ✗ DUMP (low activity): check point | ★0.0 (0)
+  ✗ DUMP (low activity): Single Palm Resort | ★0.0 (0)
+  ✗ DUMP (low activity): Sun Africa Hotels | ★0.0 (0)
+  ✗ DUMP (low activity): Bridge Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Panaroma Gardens Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Mombasa Cage Inn Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Wogect Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): White Rhino Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): TUM Guest House B | ★0.0 (0)
+  ✗ DUMP (low activity): Port Tudor Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Nyali International Beach And Spa | ★0.0 (0)
+  ✗ DUMP (low activity): Sanana Conference Centre and Holiday Resort | ★0.0 (0)
+  ✗ DUMP (low activity): Kivulini Bahari | ★0.0 (0)
+  ✗ DUMP (low activity): Afro Estate | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Kumbe | ★0.0 (0)
+  ✗ DUMP (low activity): The Monalisa Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): New Country Garden Bar & Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Bibla Fruit Parlour | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Radiance | ★0.0 (0)
+  ✗ DUMP (low activity): California Dream Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Bandari Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Blue Comforts | ★0.0 (0)
+  ✓ QUAL: Ganjoni Wananchi Hotel | ★0.0 (0) | 📞 +254 41 2313685
+  ✗ DUMP (low activity): Three Coins Bar & Resturant | ★0.0 (0)
+  ✗ DUMP (low activity): Windsor | ★0.0 (0)
+  ✗ DUMP (low activity): Recoda Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Mapembeni Global Dishes Cafe | ★0.0 (0)
+  ✗ DUMP (low activity): New Daba City Guest House | ★0.0 (0)
+  ✗ DUMP (low activity): Gulshan Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Ichaweri Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Panaroma Guest house | ★0.0 (0)
+  ✗ DUMP (low activity): Marathon Lodge | ★0.0 (0)
+  ✗ DUMP (low activity): Tijara Beach | ★0.0 (0)
+  ✗ DUMP (low activity): Likoni Happy Gardens | ★0.0 (0)
+  ✗ DUMP (low activity): Qwetu Beach Resort | ★0.0 (0)
+  ✗ DUMP (low activity): Consolata Guest House | ★0.0 (0)
+  ✗ DUMP (low activity): Ujamaa One Bar & Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Likoni Super Sports Club & Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Comrade Restaurant & Juice Parlour | ★0.0 (0)
+  ✗ DUMP (low activity): Coastgate Hotel. Miritni | ★0.0 (0)
+  ✗ DUMP (low activity): Hilton Guesthouse | ★0.0 (0)
+  ✗ DUMP (low activity): Shanzu Paradise | ★0.0 (0)
+  ✗ DUMP (low activity): Pundamilia Paradise | ★0.0 (0)
+  ✗ DUMP (low activity): Pawenzi | ★0.0 (0)
+  ✗ DUMP (low activity): Platinum House | ★0.0 (0)
+  ✗ DUMP (low activity): Indiana Beach | ★0.0 (0)
+  ✗ DUMP (low activity): Azul Margarita | ★0.0 (0)
+  ✗ DUMP (low activity): Surfside Villas | ★0.0 (0)
+  ✗ DUMP (low activity): The Silent Pearl Sweet | ★0.0 (0)
+  ✗ DUMP (low activity): Hermes Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Mina love | ★0.0 (0)
+  ✗ DUMP (low activity): Cool Breeze | ★0.0 (0)
+  ✗ DUMP (low activity): PrideInn Express | ★0.0 (0)
+  ✗ DUMP (low activity): Mawenzi | ★0.0 (0)
+  ✗ DUMP (low activity): Le Grand Victoria Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Amsterdam | ★0.0 (0)
+  ✗ DUMP (low activity): Marvelous | ★0.0 (0)
+  ✗ DUMP (low activity): Mariuccia place | ★0.0 (0)
+  ✗ DUMP (low activity): Clara court | ★0.0 (0)
+  ✗ DUMP (low activity): Merry villa | ★0.0 (0)
+  ✗ DUMP (low activity): Ariosa | ★0.0 (0)
+  ✗ DUMP (low activity): Estate gate | ★0.0 (0)
+  ✗ DUMP (low activity): Kendas arcade | ★0.0 (0)
+  ✗ DUMP (low activity): 7 dreams hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Sleep inn | ★0.0 (0)
+  ✗ DUMP (low activity): Kandara | ★0.0 (0)
+  ✗ DUMP (low activity): Jambo travelers | ★0.0 (0)
+  ✗ DUMP (low activity): Peluma | ★0.0 (0)
+  ✗ DUMP (low activity): Cute & cozy | ★0.0 (0)
+  ✗ DUMP (low activity): Sadiana Apartments | ★0.0 (0)
+  ✗ DUMP (low activity): Pago | ★0.0 (0)
+  ✗ DUMP (low activity): folks inn giest house | ★0.0 (0)
+  ✗ DUMP (low activity): magongo holiday inn | ★0.0 (0)
+  ✗ DUMP (low activity): Airport link guest house | ★0.0 (0)
+  ✗ DUMP (low activity): bareco guest house | ★0.0 (0)
+  ✗ DUMP (low activity): city center hotel & restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Mombasa Railways garden | ★0.0 (0)
+  ✗ DUMP (low activity): Baogan Hotel Ltd | ★0.0 (0)
+  ✗ DUMP (low activity): shafee guest house | ★0.0 (0)
+  ✗ DUMP (low activity): Coastgate Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Regency Park Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Bahari Beach Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Jumuia Conference & Beach Resort | ★0.0 (0)
+  ✗ DUMP (low activity): Boston Leisure Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Sun n Sand Beach Hotel Süd | ★0.0 (0)
+  ✗ DUMP (low activity): Amarossi Apartments | ★0.0 (0)
+  ✗ DUMP (low activity): Coconus Breeze | ★0.0 (0)
+  ✗ DUMP (low activity): Chui Apartments | ★0.0 (0)
+  ✗ DUMP (low activity): Prime Comfort | ★0.0 (0)
+  ✗ DUMP (low activity): The Palms | ★0.0 (0)
+
+  ── 1 qualified + 95 phone-icon-needs-enrich | 123 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 17 confirmed no-website
+Pool: 96 candidates
+============================================================
+
+  [1/96] Ganjoni Wananchi Hotel...
+     ✓ CONFIRMED no-website lead (1/17)
+  [2/96] Sarova Whitesands Beach Resort & Spa Mombasa ...
+     📞 +254 709 111000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.sarovahotels.com/whitesands-mombasa/) — 1 so far
+  [3/96] CityBlue Creekside Hotel & Suites, Mombasa...
+     📞 +254 702 500900 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.citybluehotels.com/cityblue-creekside-hotel-suites-mombasa/) — 2 so far
+  [4/96] Cocoa Luxury Resort- Nyali, Mombasa...
+     📞 +254 703 048000 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (https://www.muthuhotelsmgm.com/muthu-nyali-beach-hotel-spa-mombasa-kenya.html) — 3 so far
+  [5/96] PrideInn Paradise Beach Resort & Spa Mombasa...
+     📞 +254 709 532000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.prideinnhotels.com/hotels-in-mombasa/prideinn-paradise/) — 4 so far
+  [6/96] Ocean View Nyali Boutique Hotel...
+     📞 +254 703 904666 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://sites.google.com/view/ocean-view-nyali-boutique/) — 5 so far
+  [7/96] Sheratton Regency Hotel...
+     📞 +254 748 998836 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://sherattonregencymombasa.ke-hotel.com/) — 6 so far
+  [8/96] Mombasa Beach Hotel...
+     📞 +254 784 340400 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://sites.google.com/view/hotel-mombasa-beach/) — 7 so far
+  [9/96] Bamburi Beach Hotel...
+     📞 +254 722 203600 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.bamburibeachkenya.com/) — 8 so far
+  [10/96] Premium Inn Mombasa City...
+     📞 +254 768 444888 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.premiuminn.co.ke/) — 9 so far
+  [11/96] Hotel Englishpoint Mombasa...
+     📞 +254 730 930107 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://englishpoint.co.ke/) — 10 so far
+  [12/96] Marigold Guest House...
+     📞 +254 706 590090 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://marigold-guest-house.hotelrunner.com/) — 11 so far
+  [13/96] Cowrie Shell Beach Apartments Mombasa...
+     📞 +254 729 061000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://www.cowrieshellbeachapartments.co.ke/) — 12 so far
+  [14/96] Royal Court Hotel, Mombasa...
+     📞 +254 41 2230932 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.royalcourtmombasa.co.ke/) — 13 so far
+  [15/96] Lotus Hotel...
+     📞 +254 722 612517 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.lotushotelkenya.com/) — 14 so far
+  [16/96] PrideInn Flamingo Beach Resort & Spa Mombasa...
+     📞 +254 709 532000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.prideinnhotels.com/hotels-in-mombasa/prideinn-flamingo/) — 15 so far
+  [17/96] Hotel Sapphire...
+     📞 +254 722 206496 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://hotelsapphire.co.ke/) — 16 so far
+  [18/96] Sai Rock Beach Hotel & Spa...
+     📞 +254 726 270036 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://sairock.co.ke/) — 17 so far
+  [19/96] Swahili Social House...
+     📞 +254 705 185849 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.swahilihouse.co.ke/) — 18 so far
+  [20/96] Baobab holiday resort ltd...
+     📞 +254 720 631113 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://baobabholidayresort.com/) — 19 so far
+  [21/96] Cocoa Boutique Hotel...
+     📞 +254 780 524833 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.cocoacollectionhotels.com/) — 20 so far
+  [22/96] Cingaki Hotel...
+     📞 +254 742 037789 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (2/17)
+  [23/96] Kahama Beach Hotel...
+     📞 +254 20 3507205 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (3/17)
+  [24/96] Oswald Resort...
+     📞 +254 729 649007 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (4/17)
+  [25/96] PrideInn Hotel Mombasa City...
+     📞 +254 709 532000 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (5/17)
+  [26/96] The Ivory Suites...
+     📞 +254 712 455155 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://theivorysuitesmombasa.ke-hotel.com/) — 21 so far
+  [27/96] Tulia Old Town Backpackers...
+     📞 +254 711 955955 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (http://tuliabackpackers.com/) — 22 so far
+  [28/96] Stadium Holiday Inn...
+     📞 +254 41 2492787 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.ndoloinvestments.com/) — 23 so far
+  [29/96] Sunset Paradise Holiday Homes...
+     📞 +254 716 950830 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.sunsetparadiseholidayhomes.com/) — 24 so far
+  [30/96] Mali Guest House...
+     📞 +254 725 316697 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (6/17)
+  [31/96] Akogo House. (Hostel and Backpackers)...
+     📞 +254 718 909559 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (7/17)
+  [32/96] Topville Hotel Mombasa...
+     📞 +254 781 809900 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://topvillehotel.com/) — 25 so far
+  [33/96] Manson Hotel...
+     📞 +254 722 610615 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.mansonhotel.com/) — 26 so far
+  [34/96] Sentrim Castle Royal...
+     📞 +254 796 890890 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.sentrim-hotels.com/sentrim-castle-royal.html) — 27 so far
+  [35/96] Travellers Beach Hotel & Spa - Mombasa...
+     📞 +254 720 648708 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.travellersbeach.com/) — 28 so far
+  [36/96] Jambo Paradise Hotel...
+     📞 +254 717 357791 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.jamboparadisehotel.com/) — 29 so far
+  [37/96] Fenns Cozy Apartments...
+     📞 +254 740 832671 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/17)
+  [38/96] Plaza Beach Hotel...
+     📞 +254 723 661008 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.plaza-beach.co.ke/) — 30 so far
+  [39/96] Royal Shaza Suites...
+     📞 +254 799 213821 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://theroyalshazasuites.co.ke/) — 31 so far
+  [40/96] Mtwapa Prestige Leisure Hotel & Conference Li...
+     📞 +254 721 939939 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.prestigeleisurehotel.com/) — 32 so far
+  [41/96] Jambo Village Hotel...
+     📞 +254 706 871801 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.jambovillagehotel.com/) — 33 so far
+  [42/96] Pine Breeze Holiday Resort...
+     📞 +254 722 996465 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (9/17)
+  [43/96] Nyali mombasa...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [44/96] Maasai Resort...
+     📞 +254 701 152930 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://maasai-resort.gohotelly.com/) — 34 so far
+  [45/96] 6 park retreat...
+     📞 +254 722 860118 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (10/17)
+  [46/96] White Castle Hotel Mikindani Mombasa...
+     📞 +254 727 721948 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://whitecastlehotelmikindanimombasa.shop/) — 35 so far
+  [47/96] Regency INN Tudor...
+     📞 +254 712 304704 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (11/17)
+  [48/96] Darajani Hotel Ltd...
+     📞 +254 711 379999 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://darajanihotel.com/) — 36 so far
+  [49/96] Bliss Resort...
+     📞 +254 704 912808 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.bliss.co.ke/) — 37 so far
+  [50/96] Noma Stays Nyali...
+     📞 +254 736 189153 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (12/17)
+  [51/96] Mtwapa Country Resort...
+     📞 +254 712 689272 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (13/17)
+  [52/96] Platinum Hotel...
+     📞 +254 722 605801 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (14/17)
+  [53/96] Josleejim Hotel Ltd...
+     📞 +254 20 2038814 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (15/17)
+  [54/96] ZURI Homestay...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [55/96] Athina Beach House...
+     📞 +254 711 935178 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (16/17)
+  [56/96] Pango Guest House...
+     📞 +254 720 559448 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (17/17)
+
+  ── Reached 17 confirmed no-website leads, stopping early
+
+
+  ── Final: 17/17 confirmed no-website leads, 37 has-website leads (checked 56/96 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Hotels in Mombasa, Kenya
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Ganjoni Wananchi Hotel                 +254 41 2313685    0.0   0    
+2   Cingaki Hotel                          +254 742 037789    4.0   262  
+3   Kahama Beach Hotel                     +254 20 3507205    4.2   140  
+4   Oswald Resort                          +254 729 649007    4.0   1    
+5   PrideInn Hotel Mombasa City            +254 709 532000    4.2   1381 
+6   Mali Guest House                       +254 725 316697    4.0   272  
+7   Akogo House. (Hostel and Backpackers   +254 718 909559    3.8   105  
+8   Fenns Cozy Apartments                  +254 740 832671    5.0   3    
+9   Pine Breeze Holiday Resort             +254 722 996465    4.0   720  
+10  6 park retreat                         +254 722 860118    4.3   95   
+11  Regency INN Tudor                      +254 712 304704    4.0   50   
+12  Noma Stays Nyali                       +254 736 189153    4.2   90   
+13  Mtwapa Country Resort                  +254 712 689272    4.0   435  
+14  Platinum Hotel                         +254 722 605801    4.0   133  
+15  Josleejim Hotel Ltd                    +254 20 2038814    3.4   46   
+16  Athina Beach House                     +254 711 935178    4.4   41   
+17  Pango Guest House                      +254 720 559448    3.8   40   
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Hotels in Mombasa, Kenya
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Sarova Whitesands Beach Resort & Spa   +254 709 111000    4.6   11135
+2   CityBlue Creekside Hotel & Suites, M   +254 702 500900    4.2   2574 
+3   Cocoa Luxury Resort- Nyali, Mombasa    +254 703 048000    4.2   3947 
+4   PrideInn Paradise Beach Resort & Spa   +254 709 532000    4.8   18014
+5   Ocean View Nyali Boutique Hotel        +254 703 904666    3.8   835  
+6   Sheratton Regency Hotel                +254 748 998836    4.0   641  
+7   Mombasa Beach Hotel                    +254 784 340400    4.0   2307 
+8   Bamburi Beach Hotel                    +254 722 203600    4.2   2377 
+9   Premium Inn Mombasa City               +254 768 444888    4.6   253  
+10  Hotel Englishpoint Mombasa             +254 730 930107    4.5   7228 
+11  Marigold Guest House                   +254 706 590090    3.9   227  
+12  Cowrie Shell Beach Apartments Mombas   +254 729 061000    4.3   1743 
+13  Royal Court Hotel, Mombasa             +254 41 2230932    4.1   1620 
+14  Lotus Hotel                            +254 722 612517    3.9   444  
+15  PrideInn Flamingo Beach Resort & Spa   +254 709 532000    4.5   5290 
+16  Hotel Sapphire                         +254 722 206496    4.6   1880 
+17  Sai Rock Beach Hotel & Spa             +254 726 270036    4.0   1671 
+18  Swahili Social House                   +254 705 185849    4.1   465  
+19  Baobab holiday resort ltd              +254 720 631113    4.1   559  
+20  Cocoa Boutique Hotel                   +254 780 524833    4.3   462  
+21  The Ivory Suites                       +254 712 455155    4.4   194  
+22  Tulia Old Town Backpackers             +254 711 955955    4.1   92   
+23  Stadium Holiday Inn                    +254 41 2492787    3.8   944  
+24  Sunset Paradise Holiday Homes          +254 716 950830    4.3   2189 
+25  Topville Hotel Mombasa                 +254 781 809900    3.6   43   
+26  Manson Hotel                           +254 722 610615    3.7   503  
+27  Sentrim Castle Royal                   +254 796 890890    4.1   1126 
+28  Travellers Beach Hotel & Spa - Momba   +254 720 648708    4.4   3835 
+29  Jambo Paradise Hotel                   +254 717 357791    3.9   709  
+30  Plaza Beach Hotel                      +254 723 661008    3.9   1289 
+31  Royal Shaza Suites                     +254 799 213821    4.4   460  
+32  Mtwapa Prestige Leisure Hotel & Conf   +254 721 939939    4.1   921  
+33  Jambo Village Hotel                    +254 706 871801    3.9   1696 
+34  Maasai Resort                          +254 701 152930    4.1   1066 
+35  White Castle Hotel Mikindani Mombasa   +254 727 721948    4.0   862  
+36  Darajani Hotel Ltd                     +254 711 379999    3.8   521  
+37  Bliss Resort                           +254 704 912808    4.4   2026 
+================================================================================
+
+
+  ── Area 'Mombasa, Kenya' contributed 17 new no-website leads, 37 new has-website leads (running total: 60/60 no-website, 449 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/joburg_hotels.csv (60 rows), /workspaces/Hermes-leads/stress_run/joburg_hotels_has_website.csv (449 rows)
+
+
+✓ Target of 60 already reached — skipping remaining areas: ['Diani Beach, Kenya', 'Dubai, UAE', 'Abu Dhabi, UAE']
+
+
+================================================================================
+MULTI-AREA SUMMARY — Hotels
+================================================================================
+  Mombasa, Kenya                           17 no-website | 37 has-website
+--------------------------------------------------------------------------------
+  TOTAL: 60/60 confirmed unique no-website leads
+  TOTAL: 449 confirmed unique has-website leads (bonus list)
+
+  ✓ No-website target reached.
+================================================================================
+
+✓ No-website CSV: /workspaces/Hermes-leads/stress_run/joburg_hotels.csv
+✓ Has-website CSV: /workspaces/Hermes-leads/stress_run/joburg_hotels_has_website.csv
+✓ Status: /workspaces/Hermes-leads/stress_run/joburg_hotels.status.json
+

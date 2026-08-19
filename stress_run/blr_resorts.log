@@ -1,0 +1,1706 @@
+
+↺ Resuming: loaded 3 existing no-website leads, 55 existing has-website leads from disk
+
+  Skipping areas already fully checked in a previous run: ['Bangalore, India']
+
+
+######################################################################
+# AREA: Coorg, India  (need 57 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Resorts  |  Location: Coorg, India  |  Region hint: IN
+#  Target: 57 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Resorts Coorg, India
+Cap: 150 listings
+============================================================
+
+  [1] 8/150 listings
+  [2] 16/150 listings
+  [3] 20/150 listings
+  [4] 28/150 listings
+  [5] 35/150 listings
+  [6] 39/150 listings
+  [7] 47/150 listings
+  [8] 55/150 listings
+  [9] 59/150 listings
+  [10] 64/150 listings
+  [11] 70/150 listings
+  [12] 74/150 listings
+  [13] 81/150 listings
+  [14] 89/150 listings
+  [15] 93/150 listings
+  [16] 99/150 listings
+  [17] 105/150 listings
+  [18] 109/150 listings
+  [19] 109/150 listings
+  [20] 109/150 listings
+  [21] 109/150 listings
+  [22] 109/150 listings
+  [23] 109/150 listings
+  [24] 109/150 listings
+  [25] 109/150 listings
+  [26] 109/150 listings
+  [27] 109/150 listings
+  [28] 109/150 listings
+  [29] 109/150 listings
+  [30] 109/150 listings
+
+  ✓ Discovery: 109 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 103 found, 93 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 202
+============================================================
+
+  ── 196 pass (no website) | 6 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ➤ NO-PHONE-SIGNAL: Coorg Wilderness Resort & Spa | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Ibnii | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Club Mahindra Resort - Madikeri - Coorg, Karnata | ★4.3 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Cliffs Resort | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Woodstock Resorts | ★4.2 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Taj Madikeri Resort & Spa, Coorg | ★4.7 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Amanvana Spa Resort Coorg | ★4.4 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Gavadana | ★4.4 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Tamara Coorg | ★4.7 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Ayatana Coorg | ★4.7 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Jungle Camp Backwater Resort | ★4.3 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Gateway Coorg | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hill Crest Resort, Coorg | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Purple Palms Resort & Spa | ★4.4 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Evolve Back, Coorg | ★4.7 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Lazo Areca Resort , Coorg | ★4.3 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Jungle Hill Resort, Coorg | ★3.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Indo Asia Heritage, Coorg | ★4.3 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Kadkani River Resort | ★4.3 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg hills resort | ★4.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Deva Maani Coorg Nature View | ★4.3 (259) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Treehouse | ★4.3 (383) | will enrich
+  ➤ NO-PHONE-SIGNAL: Rain Drop Farm Stay Madikeri | ★4.9 (703) | will enrich
+  ➤ NO-PHONE-SIGNAL: Green view homestay coorg | ★4.2 (1791) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Relax Home (ಕೂರ್ಗ್ ರಿಲಾಕ್ಸ್ ಹೋಂ) | ★4.5 (251) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mountain View Homestay | ★4.1 (105) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Coorg International | ★4.1 (2333) | will enrich
+  ➤ NO-PHONE-SIGNAL: WoodyWoods Homestay | ★4.4 (170) | will enrich
+  ➤ NO-PHONE-SIGNAL: Madikeri Misty Homestay | ★4.1 (219) | will enrich
+  ➤ NO-PHONE-SIGNAL: Eshwari Cottage | ★4.2 (291) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Mountain Shades | ★3.7 (73) | will enrich
+  ➤ NO-PHONE-SIGNAL: Kingmaker's Plantation By Green Nest | ★4.3 (444) | will enrich
+  ➤ NO-PHONE-SIGNAL: Honey Pot Homes | ★4.3 (548) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Hidden Valley Estate Stay | ★4.3 (6) | will enrich
+  ➤ NO-PHONE-SIGNAL: AB's Mountain View Homestay. Madikeri. Coorg. | ★4.7 (335) | will enrich
+  ➤ NO-PHONE-SIGNAL: Bopaiah's Inn | ★4.5 (179) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Twin Cottages | ★4.2 (421) | will enrich
+  ➤ NO-PHONE-SIGNAL: Creekside Cabin | ★4.6 (264) | will enrich
+  ➤ NO-PHONE-SIGNAL: Chuppi Homestay | ★4.2 (208) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sharon Home Stay | ★4.0 (34) | will enrich
+  ➤ NO-PHONE-SIGNAL: Saisadan Homestay | ★4.3 (58) | will enrich
+  ➤ NO-PHONE-SIGNAL: AKASHADEEPA HOMESTAY | ★3.5 (88) | will enrich
+  ➤ NO-PHONE-SIGNAL: Prashanthi Resort | ★4.1 (880) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Heights Resort | ★4.1 (318) | will enrich
+  ➤ NO-PHONE-SIGNAL: Golden tree coorg | ★5.0 (7) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Altitude Coorg | ★4.4 (912) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hilldale Resorts, A 3 star Resort in Coorg | ★3.8 (957) | will enrich
+  ➤ NO-PHONE-SIGNAL: Kamadhenu Residency Home stay. Madikeri Coorg | ★4.8 (102) | will enrich
+  ➤ NO-PHONE-SIGNAL: Treebo Vrindavan Coorg | ★4.1 (1091) | will enrich
+  ➤ NO-PHONE-SIGNAL: Serene Woods | ★4.4 (515) | will enrich
+  ➤ NO-PHONE-SIGNAL: White House Villa Madikeri | ★4.9 (11) | will enrich
+  ➤ NO-PHONE-SIGNAL: Ganesh Estate Homestay | ★3.9 (237) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Tent house home stay | ★4.4 (153) | will enrich
+  ➤ NO-PHONE-SIGNAL: NP Villa Coorg - Private Villa | ★5.0 (2) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Coffees | ★4.6 (308) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hazelnut vacations | ★3.7 (287) | will enrich
+  ➤ NO-PHONE-SIGNAL: Abbydhama Estate Stay | ★4.7 (970) | will enrich
+  ➤ NO-PHONE-SIGNAL: Notting Hill | ★4.6 (174) | will enrich
+  ➤ NO-PHONE-SIGNAL: Balakrishna Niwas Homestay | ★4.6 (108) | will enrich
+  ➤ NO-PHONE-SIGNAL: bamboo springs cottage | ★3.9 (18) | will enrich
+  ➤ NO-PHONE-SIGNAL: Srishti Homestay Madikeri | ★4.9 (134) | will enrich
+  ➤ NO-PHONE-SIGNAL: ಹನ ಕೂರ್ಗ್ ಹೋಮ್ ಸ್ಟೇ(Hana Coorg Home Stay) | ★4.8 (44) | will enrich
+  ➤ NO-PHONE-SIGNAL: Lotus The Cottages | ★4.3 (219) | will enrich
+  ➤ NO-PHONE-SIGNAL: Anand Nilaya homestay madikeri | ★4.7 (66) | will enrich
+  ➤ NO-PHONE-SIGNAL: Adithya Coorg Comforts by Royal Holidays | ★4.3 (66) | will enrich
+  ➤ NO-PHONE-SIGNAL: Padmavathi Homestay | ★4.7 (92) | will enrich
+  ➤ NO-PHONE-SIGNAL: the coorg silveroak estate homestay | ★4.0 (20) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Classic Home Stay | ★4.7 (82) | will enrich
+  ➤ NO-PHONE-SIGNAL: Bee hive homestay | ★4.7 (138) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Nature View Estate Stay | ★5.0 (2) | will enrich
+  ➤ NO-PHONE-SIGNAL: Maithili Home Comforts | ★4.3 (119) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg North Breeze home stay | ★4.4 (205) | will enrich
+  ➤ NO-PHONE-SIGNAL: OYO 6419 Leisure Vacation Coorg Heights | ★3.7 (51) | will enrich
+  ➤ NO-PHONE-SIGNAL: Roy's Castle Coorg Homestay | ★4.6 (175) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mother's Bounty Holiday Home Coorg | ★4.6 (157) | will enrich
+  ➤ NO-PHONE-SIGNAL: grace view | ★4.5 (74) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sun Valley Holiday Villa | ★4.3 (121) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dream house home stay | ★4.6 (175) | will enrich
+  ➤ NO-PHONE-SIGNAL: Euro Valley Homestay | ★4.4 (84) | will enrich
+  ➤ NO-PHONE-SIGNAL: Aaarti Homestay | ★4.5 (199) | will enrich
+  ➤ NO-PHONE-SIGNAL: COORG ANNU STAY | ★4.2 (137) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hill view home stay | ★4.4 (34) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Pemm's Nele Homestay | ★4.8 (452) | will enrich
+  ➤ NO-PHONE-SIGNAL: Pragathi Homestay | ★4.7 (50) | will enrich
+  ➤ NO-PHONE-SIGNAL: Michael's Homestay | ★4.0 (58) | will enrich
+  ➤ NO-PHONE-SIGNAL: Nature's Concert Homestay | ★4.7 (91) | will enrich
+  ➤ NO-PHONE-SIGNAL: Bethel Stay Home stay | ★5.0 (34) | will enrich
+  ➤ NO-PHONE-SIGNAL: Cauvery Suites | ★4.0 (355) | will enrich
+  ➤ NO-PHONE-SIGNAL: Daswal B&B Hotel | ★4.0 (174) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dharani Homestay | ★4.8 (91) | will enrich
+  ➤ NO-PHONE-SIGNAL: Chirpy Haven | ★4.7 (166) | will enrich
+  ➤ NO-PHONE-SIGNAL: Karkera Comforts Coorg | ★4.7 (103) | will enrich
+  ➤ NO-PHONE-SIGNAL: NITHIN HOMESTAY | ★4.9 (7) | will enrich
+  ➤ NO-PHONE-SIGNAL: Amma Holidays inn | ★3.6 (61) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Pheasant Inn | ★4.5 (46) | will enrich
+  ➤ NO-PHONE-SIGNAL: rtment | ★4.3 (124) | will enrich
+  ➤ NO-PHONE-SIGNAL: Green Cove Homestay | ★4.5 (53) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel New Rajdarshan | ★3.7 (490) | will enrich
+  ➤ NO-PHONE-SIGNAL: New Hill Valley | ★4.2 (121) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg City Stay | ★3.7 (51) | will enrich
+  ➤ NO-PHONE-SIGNAL: Eshwari inn Homestay | ★4.7 (228) | will enrich
+  ➤ NO-PHONE-SIGNAL: Abbi Homestay | ★4.3 (156) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coorg Wings | ★4.2 (38) | will enrich
+  ➤ NO-PHONE-SIGNAL: OYO 6556 Ramra Stay | ★4.3 (93) | will enrich
+  ➤ NO-PHONE-SIGNAL: sabaoth stays | ★5.0 (41) | will enrich
+  ➤ NO-PHONE-SIGNAL: Manjushreehomestaycoorg | ★4.0 (122) | will enrich
+  ➤ NO-PHONE-SIGNAL: Ajantha | ★4.7 (81) | will enrich
+  ➤ NO-PHONE-SIGNAL: Roshan Homestay | ★4.4 (42) | will enrich
+  ➤ NO-PHONE-SIGNAL: Anamiiva Homestay | ★4.7 (134) | will enrich
+  ✗ DUMP (low activity): North Coorg Club | ★0.0 (0)
+  ✗ DUMP (low activity): Golden Mist Plantation and Resort | ★0.0 (0)
+  ✗ DUMP (low activity): Kairali Heritage | ★0.0 (0)
+  ✗ DUMP (low activity): Crystal Hall | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Raj | ★0.0 (0)
+  ✗ DUMP (low activity): Coorg Guest House | ★0.0 (0)
+  ✗ DUMP (low activity): Bachmani Guesthouse | ★0.0 (0)
+  ✗ DUMP (low activity): Ramcad Guesthouse | ★0.0 (0)
+  ✗ DUMP (low activity): Yamini Green Guesthouse | ★0.0 (0)
+  ✗ DUMP (low activity): Caveri | ★0.0 (0)
+  ✗ DUMP (low activity): Mayura Valley View | ★0.0 (0)
+  ✗ DUMP (low activity): Southern Residency | ★0.0 (0)
+  ✗ DUMP (low activity): Sri Venkateshwara Residency | ★0.0 (0)
+  ✗ DUMP (low activity): D&D Orchards Homestay | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Highton | ★0.0 (0)
+  ✗ DUMP (low activity): Shree Krishna Residency | ★0.0 (0)
+  ✗ DUMP (low activity): Stay Simple Greenline | ★0.0 (0)
+  ✗ DUMP (low activity): Battara Mane | ★0.0 (0)
+  ✓ QUAL: Rest Inn Home Stay | ★0.0 (0) | 📞 +91 9449254990
+  ✗ DUMP (low activity): Shivaskanda Lodge | ★0.0 (0)
+  ✗ DUMP (low activity): Coorg Lagoon resort | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Hill View | ★0.0 (0)
+  ✗ DUMP (low activity): Guru Bhavan | ★0.0 (0)
+  ✗ DUMP (low activity): The Fort Mercara | ★0.0 (0)
+  ✗ DUMP (low activity): Apple Tree Home Stay | ★0.0 (0)
+  ✗ DUMP (low activity): R. R. Homestay | ★0.0 (0)
+  ✗ DUMP (low activity): Aashirwad Homestay | ★0.0 (0)
+  ✗ DUMP (low activity): The Other Side | ★0.0 (0)
+  ✗ DUMP (low activity): Madikeri Home Stay | ★0.0 (0)
+  ✗ DUMP (low activity): Shanmuka Comforts | ★0.0 (0)
+  ✗ DUMP (low activity): Vivanta by Taj | ★0.0 (0)
+  ✗ DUMP (low activity): Elephant Trail Homestay | ★0.0 (0)
+  ✗ DUMP (low activity): Adithya Homestay | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Mayura Talacauvery | ★0.0 (0)
+  ✓ QUAL: Templetree Homestay | ★0.0 (0) | 📞 00918274244270
+  ✗ DUMP (low activity): poppins | ★0.0 (0)
+  ✗ DUMP (low activity): Dear's Hotel & Cool Bar | ★0.0 (0)
+  ✗ DUMP (low activity): AC Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Rajesh | ★0.0 (0)
+  ✗ DUMP (low activity): Polariz | ★0.0 (0)
+  ✗ DUMP (low activity): Das Residency | ★0.0 (0)
+  ✗ DUMP (low activity): Wellview Residency | ★0.0 (0)
+  ✗ DUMP (low activity): Vanitha Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): hotel new star | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Sri Devi Prasad | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Shesha Kuteera | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Akshayadhara | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Maharaja | ★0.0 (0)
+  ✗ DUMP (low activity): Malabar Tourist Home | ★0.0 (0)
+  ✗ DUMP (low activity): Thundathil home stay | ★0.0 (0)
+  ✗ DUMP (low activity): Jamaliyya restaurent | ★0.0 (0)
+  ✗ DUMP (low activity): Aliyans | ★0.0 (0)
+  ✗ DUMP (low activity): Bhramari Nest | ★0.0 (0)
+  ✗ DUMP (low activity): Dwaraka | ★0.0 (0)
+  ✗ DUMP (low activity): Lexi Meadows | ★0.0 (0)
+  ✗ DUMP (low activity): Lexi Meadows | ★0.0 (0)
+  ✗ DUMP (low activity): Red Bricks Inn | ★0.0 (0)
+  ✗ DUMP (low activity): HOMESTAY COORG PULICKAL | ★0.0 (0)
+  ✗ DUMP (low activity): Harsha Cottage ( JLR ) | ★0.0 (0)
+  ✗ DUMP (low activity): PLR Residency | ★0.0 (0)
+  ✗ DUMP (low activity): Montrose Golf Resort & Spa | ★0.0 (0)
+  ✗ DUMP (low activity): Moonglade Cottage | ★0.0 (0)
+  ✗ DUMP (low activity): Nature View Comforts | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Coorge Palace Inn | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Samudra Sreekandapuram | ★0.0 (0)
+  ✓ QUAL: Coorg Lotus Villa | ★0.0 (0) | 📞 917676549968
+  ✗ DUMP (low activity): Daisy Banks | ★0.0 (0)
+  ✗ DUMP (low activity): Kumara Kripa Guest House | ★0.0 (0)
+  ✗ DUMP (low activity): Akshara Guest House | ★0.0 (0)
+  ✗ DUMP (low activity): Karthikeya Kripa | ★0.0 (0)
+  ✗ DUMP (low activity): Skanda Kripa | ★0.0 (0)
+  ✗ DUMP (low activity): V.Sadana Lodge | ★0.0 (0)
+  ✗ DUMP (low activity): Mayura Residency | ★0.0 (0)
+  ✗ DUMP (low activity): Ambatty Greens Resort | ★0.0 (0)
+  ✗ DUMP (low activity): agreenco guest house | ★0.0 (0)
+  ✗ DUMP (low activity): Hotrel Chembarathy Gardens | ★0.0 (0)
+  ✗ DUMP (low activity): thilakam | ★0.0 (0)
+  ✗ DUMP (low activity): dinesh patteri hotel | ★0.0 (0)
+  ✗ DUMP (low activity): ambadi hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Pearl Garden | ★0.0 (0)
+  ✗ DUMP (low activity): Sky park | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Sreevalsam | ★0.0 (0)
+  ✗ DUMP (low activity): RNS One | ★0.0 (0)
+  ✗ DUMP (low activity): Adithya Nest | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Dwara | ★0.0 (0)
+  ✗ DUMP (low activity): PWD Rest House | ★0.0 (0)
+  ✗ DUMP (low activity): Meriyanda Nature Retreat & Spa | ★0.0 (0)
+
+  ── 3 qualified + 109 phone-icon-needs-enrich | 84 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 57 confirmed no-website
+Pool: 112 candidates
+============================================================
+
+  [1/112] Rest Inn Home Stay...
+     ✓ CONFIRMED no-website lead (1/57)
+  [2/112] Templetree Homestay...
+     ✓ CONFIRMED no-website lead (2/57)
+  [3/112] Coorg Lotus Villa...
+     ★ HAS-WEBSITE LEAD, found via web search (https://coorglotusvilla.com/) — 1 so far
+  [4/112] Coorg Wilderness Resort & Spa...
+     📞 +91 63646 01941 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.coorgwildernessresort.in/) — 2 so far
+  [5/112] The Ibnii...
+     📞 +91 80 4718 3111 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.ibnii.com/) — 3 so far
+  [6/112] Club Mahindra Resort - Madikeri - Coorg, Karn...
+     📞 +91 92288 17707 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.clubmahindra.com/our-resorts/club-mahindra-madikeri-resort-in-coorg-karnataka?utm_source=google&utm_medium=maps&utm_campaign=club-mahindra-resort-madikeri-coorg-karnataka&campaign=2507webregular&refid=ltr-organic-google-maps-club-mahindra-resort-madikeri-coorg-karnataka) — 4 so far
+  [7/112] Coorg Cliffs Resort...
+     📞 +91 70229 24800 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.coorgcliffsresort.com/) — 5 so far
+  [8/112] Woodstock Resorts...
+     📞 +91 72040 41722 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.woodstockresorts.in/) — 6 so far
+  [9/112] Taj Madikeri Resort & Spa, Coorg...
+     📞 +91 82722 65900 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.tajhotels.com/en-in/hotels/taj-madikeri-coorg/?utm_source=Google&utm_medium=Local&utm_campaign=Taj-Madikeri-Coorg) — 7 so far
+  [10/112] Amanvana Spa Resort Coorg...
+     📞 +91 8071 539 970 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.amanvanaspa.com/) — 8 so far
+  [11/112] Coorg Gavadana...
+     📞 +91 79750 63688 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://gavadanaresort.com/) — 9 so far
+  [12/112] The Tamara Coorg...
+     📞 +91 80 6555 1500 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.thetamara.com/coorg-resort/) — 10 so far
+  [13/112] Ayatana Coorg...
+     📞 +91 99455 02000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.ayatanacoorg.com/) — 11 so far
+  [14/112] Coorg Jungle Camp Backwater Resort...
+     📞 +91 83460 10101 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://bookings.thealtitudehotels.com/CoorgJungleCampBackwaterResort/?utm_source=gmb&utm_campaign=website_buttton) — 12 so far
+  [15/112] Gateway Coorg...
+     📞 +91 82723 52000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.gateway-hotels.com/en-in/hotels/gateway-coorg) — 13 so far
+  [16/112] Hill Crest Resort, Coorg...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [17/112] Purple Palms Resort & Spa...
+     📞 +91 91085 06887 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.purplepalmsresort.com/) — 14 so far
+  [18/112] Evolve Back, Coorg...
+     📞 +91 63669 20434 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.evolveback.com/evolve-back-coorg/) — 15 so far
+  [19/112] Lazo Areca Resort , Coorg...
+     📞 +91 89258 29958 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.lazoresorts.com/) — 16 so far
+  [20/112] Jungle Hill Resort, Coorg...
+     📞 +91 95916 90481 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://junglehillresort.co.in/) — 17 so far
+  [21/112] Indo Asia Heritage, Coorg...
+     📞 +91 99002 65668 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.indoasiaheritage.com/coorg/) — 18 so far
+  [22/112] Kadkani River Resort...
+     📞 +91 94808 33780 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (https://www.kadkani.com/) — 19 so far
+  [23/112] Coorg hills resort...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [24/112] Deva Maani Coorg Nature View...
+     📞 +91 94815 58877 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://devamaani.com/) — 20 so far
+  [25/112] Coorg Treehouse...
+     📞 +91 73383 70669 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (3/57)
+  [26/112] Rain Drop Farm Stay Madikeri...
+     📞 +91 97419 12211 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://raindropfarmstay.in/) — 21 so far
+  [27/112] Green view homestay coorg...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [28/112] Coorg Relax Home (ಕೂರ್ಗ್ ರಿಲಾಕ್ಸ್ ಹೋಂ)...
+     📞 +91 94497 59029 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/57)
+  [29/112] Mountain View Homestay...
+     📞 +91 96114 77144 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (5/57)
+  [30/112] Hotel Coorg International...
+     📞 +91 99002 65668 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://indoasiaheritage.com/madikeri/) — 22 so far
+  [31/112] WoodyWoods Homestay...
+     📞 +91 95386 00900 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.woodywoods.in/) — 23 so far
+  [32/112] Madikeri Misty Homestay...
+     📞 +91 94492 55969 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.madikerimistyhomestay.com/) — 24 so far
+  [33/112] Eshwari Cottage...
+     📞 +91 89714 20494 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.eshwaricottage.in/) — 25 so far
+  [34/112] The Mountain Shades...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [35/112] Kingmaker's Plantation By Green Nest...
+     📞 +91 81058 10213 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.kingmakersplantation.com/) — 26 so far
+  [36/112] Honey Pot Homes...
+     📞 +91 90194 46100 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://honeypothomes.com/) — 27 so far
+  [37/112] Coorg Hidden Valley Estate Stay...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [38/112] AB's Mountain View Homestay. Madikeri. Coorg....
+     📞 +91 98806 38426 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://mountainview.net.in/) — 28 so far
+  [39/112] Bopaiah's Inn...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [40/112] The Twin Cottages...
+     📞 +91 81473 92772 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://coorgstays.com/coorgstay_services/twin-cottages-coorg/) — 29 so far
+  [41/112] Creekside Cabin...
+     📞 +91 94484 22512 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (6/57)
+  [42/112] Chuppi Homestay...
+     📞 +91 98450 89121 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (7/57)
+  [43/112] Sharon Home Stay...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [44/112] Saisadan Homestay...
+     📞 +91 86600 23946 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://saisadanhomestay.com/) — 30 so far
+  [45/112] AKASHADEEPA HOMESTAY...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [46/112] Prashanthi Resort...
+     📞 +91 94818 83004 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.prashantiresort.com/) — 31 so far
+  [47/112] Coorg Heights Resort...
+     📞 +91 81829 98844 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.coorgheights.com/) — 32 so far
+  [48/112] Golden tree coorg...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [49/112] Hotel Altitude Coorg...
+     📞 +91 83460 10101 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://bookings.thealtitudehotels.com/HotelAltitudeCoorg/?utm_source=gmb&utm_campaign=website_buttton) — 33 so far
+  [50/112] Hilldale Resorts, A 3 star Resort in Coorg...
+     📞 +91 93423 42356 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://hilldaleresorts.com/) — 34 so far
+  [51/112] Kamadhenu Residency Home stay. Madikeri Coorg...
+     📞 +91 70191 67892 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/57)
+  [52/112] Treebo Vrindavan Coorg...
+     📞 +91 93228 00100 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.treebo.com/hotels-in-coorg/treebo-vrindavan-3-km-from-madikeri-fort-madikeri-279/?utm_source=partnerships&utm_medium=gmb&utm_campaign=gmblisting) — 35 so far
+  [53/112] Serene Woods...
+     📞 +91 98862 20933 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.serenewoods.co.in/) — 36 so far
+  [54/112] White House Villa Madikeri...
+     📞 +91 78927 69210 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (9/57)
+  [55/112] Ganesh Estate Homestay...
+     📞 +91 73537 14416 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (10/57)
+  [56/112] Coorg Tent house home stay...
+     📞 +91 94484 06406 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (11/57)
+  [57/112] NP Villa Coorg - Private Villa...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [58/112] The Coffees...
+     📞 +91 99800 95571 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://thecoffees.in/) — 37 so far
+  [59/112] Hazelnut vacations...
+     📞 +91 82722 20076 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://thecoffeetreecoorg.com/) — 38 so far
+  [60/112] Abbydhama Estate Stay...
+     📞 +91 78294 88829 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (http://abbydhama.com/) — 39 so far
+  [61/112] Notting Hill...
+     📞 +91 99400 52900 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (12/57)
+  [62/112] Balakrishna Niwas Homestay...
+     📞 +91 76761 07777 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.balakrishnahomestay.com/) — 40 so far
+  [63/112] bamboo springs cottage...
+     📞 +91 94498 25558 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://bamboospringcottage.html-5.me/) — 41 so far
+  [64/112] Srishti Homestay Madikeri...
+     📞 +91 98457 68257 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://srishtihomestay.runhotel.site/en/) — 42 so far
+  [65/112] ಹನ ಕೂರ್ಗ್ ಹೋಮ್ ಸ್ಟೇ(Hana Coorg Home Stay)...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [66/112] Lotus The Cottages...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [67/112] Anand Nilaya homestay madikeri...
+     📞 +91 91419 80980 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.anandanilaya.com/) — 43 so far
+  [68/112] Adithya Coorg Comforts by Royal Holidays...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [69/112] Padmavathi Homestay...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [70/112] the coorg silveroak estate homestay...
+     📞 +91 91485 17954 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (13/57)
+  [71/112] Coorg Classic Home Stay...
+     📞 +91 90082 22034 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.coorgclassichomestay.com/) — 44 so far
+  [72/112] Bee hive homestay...
+     📞 +91 95358 99537 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (14/57)
+  [73/112] Coorg Nature View Estate Stay...
+     📞 +91 94815 58877 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://devamaani.com/) — 45 so far
+  [74/112] Maithili Home Comforts...
+     📞 +91 94484 22321 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (15/57)
+  [75/112] Coorg North Breeze home stay...
+     📞 +91 88673 18857 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.coorgnorthbreeze.com/) — 46 so far
+  [76/112] OYO 6419 Leisure Vacation Coorg Heights...
+     📞 +91 124 620 1327 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://www.coorgheights.com/cottages/leisure-vacations-coorg/) — 47 so far
+  [77/112] Roy's Castle Coorg Homestay...
+     📞 +91 94486 47198 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (16/57)
+  [78/112] Mother's Bounty Holiday Home Coorg...
+     📞 +91 94482 78216 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://mothersbounty.com/) — 48 so far
+  [79/112] grace view...
+     📞 +91 96639 73477 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (17/57)
+  [80/112] Sun Valley Holiday Villa...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [81/112] Dream house home stay...
+     📞 +91 94838 74701 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (18/57)
+  [82/112] Euro Valley Homestay...
+     📞 +91 94485 04653 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (19/57)
+  [83/112] Aaarti Homestay...
+     📞 +91 95917 87904 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://aaartihomestay.blogspot.com/) — 49 so far
+  [84/112] COORG ANNU STAY...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [85/112] Hill view home stay...
+     📞 +91 70261 92435 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (20/57)
+  [86/112] Coorg Pemm's Nele Homestay...
+     📞 +91 94808 64805 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.coorgpemmshomestay.com/) — 50 so far
+  [87/112] Pragathi Homestay...
+     📞 +91 94800 52640 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.pragathihomestaycoorg.in/) — 51 so far
+  [88/112] Michael's Homestay...
+     📞 +91 72044 57757 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://www.michaelshomestay.in/) — 52 so far
+  [89/112] Nature's Concert Homestay...
+     📞 +91 97400 65413 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://contactinfo.in/Hotel/nature-concert-homestay-madikeri.html) — 53 so far
+  [90/112] Bethel Stay Home stay...
+     📞 +91 94482 78216 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://bethelhomestay.wordpress.com/) — 54 so far
+  [91/112] Cauvery Suites...
+     📞 +91 94839 94614 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.cauverysuites.com/index.php) — 55 so far
+  [92/112] Daswal B&B Hotel...
+     📞 +91 82722 21743 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (21/57)
+  [93/112] Dharani Homestay...
+     📞 +91 94483 03653 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (22/57)
+  [94/112] Chirpy Haven...
+     📞 +91 98801 46792 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (23/57)
+  [95/112] Karkera Comforts Coorg...
+     📞 +91 98341 43351 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (24/57)
+  [96/112] NITHIN HOMESTAY...
+     📞 +91 77600 32439 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://business.google.com/v/nithin-homestay/03296991372836169009/8570/_?caid=21726214068&agid=168672468420&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6NSdEmA6N5pPYxo4VIJF8MnzASfq9Fdw91Q5BMdcoaFAdckNSfMOAkaAshvEALw_wcB) — 56 so far
+  [97/112] Amma Holidays inn...
+     📞 +91 94817 72856 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (25/57)
+  [98/112] The Pheasant Inn...
+     📞 +91 87226 06666 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://thepheasantinntoddington.co.uk/?porto_builder=google-map) — 57 so far
+  [99/112] rtment...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [100/112] Green Cove Homestay...
+     📞 +91 94486 48482 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.greencovehomestay.in/) — 58 so far
+  [101/112] Hotel New Rajdarshan...
+     📞 +91 77600 37767 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (26/57)
+  [102/112] New Hill Valley...
+     📞 +91 99002 45600 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (27/57)
+  [103/112] Coorg City Stay...
+     📞 +91 90353 72475 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (28/57)
+  [104/112] Eshwari inn Homestay...
+     📞 +91 94483 25743 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (29/57)
+  [105/112] Abbi Homestay...
+     📞 +91 76761 07777 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.coorghomestays.com/listings/abbihomestay/) — 59 so far
+  [106/112] Coorg Wings...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [107/112] OYO 6556 Ramra Stay...
+     📞 +91 124 620 1327 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (30/57)
+  [108/112] sabaoth stays...
+     📞 +91 78929 82399 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (31/57)
+  [109/112] Manjushreehomestaycoorg...
+     📞 +91 91130 45450 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (32/57)
+  [110/112] Ajantha...
+     📞 +91 80880 04755 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (33/57)
+  [111/112] Roshan Homestay...
+     📞 +91 94838 26003 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (34/57)
+  [112/112] Anamiiva Homestay...
+     📞 +91 98808 55231 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.anamiivastayhomecoorg.in/) — 60 so far
+
+  ── Final: 34/57 confirmed no-website leads, 60 has-website leads (checked 112/112 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Resorts in Coorg, India
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Rest Inn Home Stay                     +91 9449254990     0.0   0    
+2   Templetree Homestay                    00918274244270     0.0   0    
+3   Coorg Treehouse                        +91 73383 70669    4.3   383  
+4   Coorg Relax Home (ಕೂರ್ಗ್ ರಿಲಾಕ್ಸ್ ಹೋ   +91 94497 59029    4.5   251  
+5   Mountain View Homestay                 +91 96114 77144    4.1   105  
+6   Creekside Cabin                        +91 94484 22512    4.6   264  
+7   Chuppi Homestay                        +91 98450 89121    4.2   208  
+8   Kamadhenu Residency Home stay. Madik   +91 70191 67892    4.8   102  
+9   White House Villa Madikeri             +91 78927 69210    4.9   11   
+10  Ganesh Estate Homestay                 +91 73537 14416    3.9   237  
+11  Coorg Tent house home stay             +91 94484 06406    4.4   153  
+12  Notting Hill                           +91 99400 52900    4.6   174  
+13  the coorg silveroak estate homestay    +91 91485 17954    4.0   20   
+14  Bee hive homestay                      +91 95358 99537    4.7   138  
+15  Maithili Home Comforts                 +91 94484 22321    4.3   119  
+16  Roy's Castle Coorg Homestay            +91 94486 47198    4.6   175  
+17  grace view                             +91 96639 73477    4.5   74   
+18  Dream house home stay                  +91 94838 74701    4.6   175  
+19  Euro Valley Homestay                   +91 94485 04653    4.4   84   
+20  Hill view home stay                    +91 70261 92435    4.4   34   
+21  Daswal B&B Hotel                       +91 82722 21743    4.0   174  
+22  Dharani Homestay                       +91 94483 03653    4.8   91   
+23  Chirpy Haven                           +91 98801 46792    4.7   166  
+24  Karkera Comforts Coorg                 +91 98341 43351    4.7   103  
+25  Amma Holidays inn                      +91 94817 72856    3.6   61   
+26  Hotel New Rajdarshan                   +91 77600 37767    3.7   490  
+27  New Hill Valley                        +91 99002 45600    4.2   121  
+28  Coorg City Stay                        +91 90353 72475    3.7   51   
+29  Eshwari inn Homestay                   +91 94483 25743    4.7   228  
+30  OYO 6556 Ramra Stay                    +91 124 620 1327   4.3   93   
+31  sabaoth stays                          +91 78929 82399    5.0   41   
+32  Manjushreehomestaycoorg                +91 91130 45450    4.0   122  
+33  Ajantha                                +91 80880 04755    4.7   81   
+34  Roshan Homestay                        +91 94838 26003    4.4   42   
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Resorts in Coorg, India
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Coorg Lotus Villa                      917676549968       0.0   0    
+2   Coorg Wilderness Resort & Spa          +91 63646 01941    4.6   711  
+3   The Ibnii                              +91 80 4718 3111   4.5   2420 
+4   Club Mahindra Resort - Madikeri - Co   +91 92288 17707    4.3   15182
+5   Coorg Cliffs Resort                    +91 70229 24800    4.5   4655 
+6   Woodstock Resorts                      +91 72040 41722    4.2   4632 
+7   Taj Madikeri Resort & Spa, Coorg       +91 82722 65900    4.7   4803 
+8   Amanvana Spa Resort Coorg              +91 8071 539 970   4.4   2791 
+9   Coorg Gavadana                         +91 79750 63688    4.4   840  
+10  The Tamara Coorg                       +91 80 6555 1500   4.7   2724 
+11  Ayatana Coorg                          +91 99455 02000    4.7   5911 
+12  Coorg Jungle Camp Backwater Resort     +91 83460 10101    4.3   2798 
+13  Gateway Coorg                          +91 82723 52000    4.6   1009 
+14  Purple Palms Resort & Spa              +91 91085 06887    4.4   3985 
+15  Evolve Back, Coorg                     +91 63669 20434    4.7   3476 
+16  Lazo Areca Resort , Coorg              +91 89258 29958    4.3   1642 
+17  Jungle Hill Resort, Coorg              +91 95916 90481    3.9   1111 
+18  Indo Asia Heritage, Coorg              +91 99002 65668    4.3   3932 
+19  Kadkani River Resort                   +91 94808 33780    4.3   982  
+20  Deva Maani Coorg Nature View           +91 94815 58877    4.3   259  
+21  Rain Drop Farm Stay Madikeri           +91 97419 12211    4.9   703  
+22  Hotel Coorg International              +91 99002 65668    4.1   2333 
+23  WoodyWoods Homestay                    +91 95386 00900    4.4   170  
+24  Madikeri Misty Homestay                +91 94492 55969    4.1   219  
+25  Eshwari Cottage                        +91 89714 20494    4.2   291  
+26  Kingmaker's Plantation By Green Nest   +91 81058 10213    4.3   444  
+27  Honey Pot Homes                        +91 90194 46100    4.3   548  
+28  AB's Mountain View Homestay. Madiker   +91 98806 38426    4.7   335  
+29  The Twin Cottages                      +91 81473 92772    4.2   421  
+30  Saisadan Homestay                      +91 86600 23946    4.3   58   
+31  Prashanthi Resort                      +91 94818 83004    4.1   880  
+32  Coorg Heights Resort                   +91 81829 98844    4.1   318  
+33  Hotel Altitude Coorg                   +91 83460 10101    4.4   912  
+34  Hilldale Resorts, A 3 star Resort in   +91 93423 42356    3.8   957  
+35  Treebo Vrindavan Coorg                 +91 93228 00100    4.1   1091 
+36  Serene Woods                           +91 98862 20933    4.4   515  
+37  The Coffees                            +91 99800 95571    4.6   308  
+38  Hazelnut vacations                     +91 82722 20076    3.7   287  
+39  Abbydhama Estate Stay                  +91 78294 88829    4.7   970  
+40  Balakrishna Niwas Homestay             +91 76761 07777    4.6   108  
+41  bamboo springs cottage                 +91 94498 25558    3.9   18   
+42  Srishti Homestay Madikeri              +91 98457 68257    4.9   134  
+43  Anand Nilaya homestay madikeri         +91 91419 80980    4.7   66   
+44  Coorg Classic Home Stay                +91 90082 22034    4.7   82   
+45  Coorg Nature View Estate Stay          +91 94815 58877    5.0   259  
+46  Coorg North Breeze home stay           +91 88673 18857    4.4   205  
+47  OYO 6419 Leisure Vacation Coorg Heig   +91 124 620 1327   3.7   51   
+48  Mother's Bounty Holiday Home Coorg     +91 94482 78216    4.6   157  
+49  Aaarti Homestay                        +91 95917 87904    4.5   199  
+50  Coorg Pemm's Nele Homestay             +91 94808 64805    4.8   452  
+51  Pragathi Homestay                      +91 94800 52640    4.7   50   
+52  Michael's Homestay                     +91 72044 57757    4.0   58   
+53  Nature's Concert Homestay              +91 97400 65413    4.7   91   
+54  Bethel Stay Home stay                  +91 94482 78216    5.0   34   
+55  Cauvery Suites                         +91 94839 94614    4.0   355  
+56  NITHIN HOMESTAY                        +91 77600 32439    4.9   7    
+57  The Pheasant Inn                       +91 87226 06666    4.5   46   
+58  Green Cove Homestay                    +91 94486 48482    4.5   53   
+59  Abbi Homestay                          +91 76761 07777    4.3   156  
+60  Anamiiva Homestay                      +91 98808 55231    4.7   134  
+================================================================================
+
+
+  ── Area 'Coorg, India' contributed 34 new no-website leads, 59 new has-website leads (running total: 37/60 no-website, 114 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/blr_resorts.csv (37 rows), /workspaces/Hermes-leads/stress_run/blr_resorts_has_website.csv (114 rows)
+
+
+######################################################################
+# AREA: Wayanad, India  (need 23 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Resorts  |  Location: Wayanad, India  |  Region hint: IN
+#  Target: 23 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Resorts Wayanad, India
+Cap: 150 listings
+============================================================
+
+  [1] 8/150 listings
+  [2] 16/150 listings
+  [3] 20/150 listings
+  [4] 25/150 listings
+  [5] 33/150 listings
+  [6] 36/150 listings
+  [7] 36/150 listings
+  [8] 36/150 listings
+  [9] 36/150 listings
+  [10] 36/150 listings
+  [11] 36/150 listings
+  [12] 36/150 listings
+  [13] 36/150 listings
+  [14] 36/150 listings
+  [15] 36/150 listings
+  [16] 36/150 listings
+  [17] 36/150 listings
+  [18] 36/150 listings
+  [19] 36/150 listings
+  [20] 36/150 listings
+  [21] 36/150 listings
+  [22] 36/150 listings
+  [23] 36/150 listings
+  [24] 36/150 listings
+  [25] 36/150 listings
+  [26] 36/150 listings
+  [27] 36/150 listings
+  [28] 36/150 listings
+  [29] 36/150 listings
+  [30] 36/150 listings
+
+  ✓ Discovery: 36 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 104 found, 102 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 138
+============================================================
+
+  ── 127 pass (no website) | 11 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ➤ NO-PHONE-SIGNAL: Coffee Greens Resort Wayanad | ★4.7 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Aalterra Resort by The Almanac | ★4.8 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Kings Flora Organic Farm Resort | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Niyatma Resort | ★4.4 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Black Forest Wayanad | ★4.2 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: GReaT trails Wayanad by GRT Hotels | ★4.8 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hiliya Resort Wayanad | ★4.3 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Cybele Hill Resort | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: MARYLAND HOLIDAY RESORT WAYANAD BY VOYE HOMES | ★4.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Bali Bamboo Resort | Naturistic Bamboo Resort | ★4.2 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: River Valley Huts Wayanad | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mountain Pond Resort | ★4.4 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Wayal Wayanad Farm Resort | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Tusker Inn Forest Lodge | ★4.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Kudajadri Drizzle - Best Wayanad Homestays | ★4.7 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Cozy nest | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Jungle Getaway | ★5.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Green Gates Hotels | ★4.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Wayanad Home Stay | ★4.7 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dew Drops Farm Stay | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: JUNGLE VALLEY RESORT WAYANAD | ★4.5 (496) | will enrich
+  ➤ NO-PHONE-SIGNAL: Raindrops Resorts Wayanad | ★4.4 (749) | will enrich
+  ➤ NO-PHONE-SIGNAL: Wayanad Silverwoods Resorts | ★4.4 (3772) | will enrich
+  ➤ NO-PHONE-SIGNAL: Edakkal Hermitage Resort | ★4.1 (3333) | will enrich
+  ➤ NO-PHONE-SIGNAL: Iron Bridge Cove | ★4.6 (692) | will enrich
+  ➤ NO-PHONE-SIGNAL: Arayal Resorts | ★4.5 (1715) | will enrich
+  ➤ NO-PHONE-SIGNAL: Zostel Plus Wayanad | ★4.6 (2164) | will enrich
+  ➤ NO-PHONE-SIGNAL: Bay View Suites Vythiri | ★4.7 (542) | will enrich
+  ➤ NO-PHONE-SIGNAL: Vythiri Retreat Resort | ★4.2 (384) | will enrich
+  ➤ NO-PHONE-SIGNAL: Indeevara Retreat- Vythiri, Eco Friendly Luxury  | ★4.5 (1546) | will enrich
+  ➤ NO-PHONE-SIGNAL: Wayanad brook valley | ★4.6 (240) | will enrich
+  ➤ NO-PHONE-SIGNAL: pabis luxurious stay | ★4.7 (191) | will enrich
+  ➤ NO-PHONE-SIGNAL: Royal Castle Resorts | ★4.1 (42) | will enrich
+  ➤ NO-PHONE-SIGNAL: Orchid Trails Resort Wayanad by Zeebull | ★4.3 (1107) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hillway Resort | ★4.6 (116) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mahout resort | ★4.4 (226) | will enrich
+  ✗ DUMP (low activity): Harithagiri | ★0.0 (0)
+  ✗ DUMP (low activity): Woodlands | ★0.0 (0)
+  ✗ DUMP (low activity): Evolve Back, Kabini | ★0.0 (0)
+  ✗ DUMP (low activity): Ramcad Guesthouse | ★0.0 (0)
+  ✗ DUMP (low activity): Yamini Green Guesthouse | ★0.0 (0)
+  ✗ DUMP (low activity): Pepper Grove | ★0.0 (0)
+  ✗ DUMP (low activity): Hackson | ★0.0 (0)
+  ✗ DUMP (low activity): KSEB Inspection Bangalow | ★0.0 (0)
+  ✗ DUMP (low activity): Coffee Aroma Resort | ★0.0 (0)
+  ✗ DUMP (low activity): Abhirami Farm Resort | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Price Regency | ★0.0 (0)
+  ✗ DUMP (low activity): Holiday Hill | ★0.0 (0)
+  ✗ DUMP (low activity): Pepper Trail | ★0.0 (0)
+  ✗ DUMP (low activity): hot pan | ★0.0 (0)
+  ✗ DUMP (low activity): Unga Home | ★0.0 (0)
+  ✗ DUMP (low activity): Joychayan Home | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Banasura | ★0.0 (0)
+  ✗ DUMP (low activity): PWD Rest House Sulthan Bathery | ★0.0 (0)
+  ✗ DUMP (low activity): Jubilee | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Mint Flower | ★0.0 (0)
+  ✗ DUMP (low activity): Alfa Tourist Home | ★0.0 (0)
+  ✗ DUMP (low activity): KN's Villa Holiday home | ★0.0 (0)
+  ✗ DUMP (low activity): Deluxe | ★0.0 (0)
+  ✗ DUMP (low activity): Dream Birds Rooms and Dormitory | ★0.0 (0)
+  ✗ DUMP (low activity): By the way rooms and restuarant | ★0.0 (0)
+  ✗ DUMP (low activity): Pepper Trail | ★0.0 (0)
+  ✗ DUMP (low activity): Kerala Hydel Tourism Centre | ★0.0 (0)
+  ✗ DUMP (low activity): Malabar palace | ★0.0 (0)
+  ✗ DUMP (low activity): Silver rock home | ★0.0 (0)
+  ✓ QUAL: Templetree Homestay | ★0.0 (0) | 📞 00918274244270
+  ✗ DUMP (low activity): Tea Terrace | ★0.0 (0)
+  ✗ DUMP (low activity): Karapur Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): hotel milath | ★0.0 (0)
+  ✗ DUMP (low activity): orchid hotel and bakkery | ★0.0 (0)
+  ✗ DUMP (low activity): Hill Blooms | ★0.0 (0)
+  ✗ DUMP (low activity): City Tourist Home | ★0.0 (0)
+  ✗ DUMP (low activity): Top Thattukada | ★0.0 (0)
+  ✗ DUMP (low activity): friends | ★0.0 (0)
+  ✗ DUMP (low activity): Tamar | ★0.0 (0)
+  ✗ DUMP (low activity): friends | ★0.0 (0)
+  ✗ DUMP (low activity): kowat | ★0.0 (0)
+  ✗ DUMP (low activity): ards mess | ★0.0 (0)
+  ✗ DUMP (low activity): Royal Bakes | ★0.0 (0)
+  ✗ DUMP (low activity): Queen Merry Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Mojo Bakery | ★0.0 (0)
+  ✗ DUMP (low activity): Bismi hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Arrapetta  Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): vanitha mess | ★0.0 (0)
+  ✗ DUMP (low activity): smart mess | ★0.0 (0)
+  ✗ DUMP (low activity): Naduvath kitchen | ★0.0 (0)
+  ✗ DUMP (low activity): Taste and Mist Hotel, Vellarmkunnu | ★0.0 (0)
+  ✗ DUMP (low activity): Aashans Takeaway | ★0.0 (0)
+  ✗ DUMP (low activity): hotel casino | ★0.0 (0)
+  ✗ DUMP (low activity): Sahyadri Homestay | ★0.0 (0)
+  ✓ QUAL: Igloo Residency | ★0.0 (0) | 📞 +91 97452 00055
+  ✗ DUMP (low activity): Vanitha Mess | ★0.0 (0)
+  ✗ DUMP (low activity): Punathil Heights | ★0.0 (0)
+  ✗ DUMP (low activity): Navarang Villa | ★0.0 (0)
+  ✗ DUMP (low activity): Night Space hôtel | ★0.0 (0)
+  ✗ DUMP (low activity): Elavanal House | ★0.0 (0)
+  ✗ DUMP (low activity): Hamai Grand Home Stay | ★0.0 (0)
+  ✗ DUMP (low activity): Greenwood Homestay Wayanad | ★0.0 (0)
+  ✗ DUMP (low activity): Century | ★0.0 (0)
+  ✗ DUMP (low activity): Brahmagiri | ★0.0 (0)
+  ✗ DUMP (low activity): Manasasarass | ★0.0 (0)
+  ✗ DUMP (low activity): Forest Inspection Bungalow | ★0.0 (0)
+  ✗ DUMP (low activity): Asbe | ★0.0 (0)
+  ✗ DUMP (low activity): Sree Narayana Mandiram Lodge | ★0.0 (0)
+  ✗ DUMP (low activity): Serai Resort Kabini | ★0.0 (0)
+  ✗ DUMP (low activity): Rain Country Resorts | ★0.0 (0)
+  ✓ QUAL: Grass Roots | ★0.0 (0) | 📞 +91- 8884733500
+  ✗ DUMP (low activity): Thekkanath Tourist Home | ★0.0 (0)
+  ✗ DUMP (low activity): Wayanad Tea Garden Residency | ★0.0 (0)
+  ✗ DUMP (low activity): Mina hotel | ★0.0 (0)
+  ✗ DUMP (low activity): city plaza | ★0.0 (0)
+  ✗ DUMP (low activity): chembra heritage | ★0.0 (0)
+  ✗ DUMP (low activity): chembra heritage | ★0.0 (0)
+  ✗ DUMP (low activity): tharayil torurist home | ★0.0 (0)
+  ✗ DUMP (low activity): shalom | ★0.0 (0)
+  ✗ DUMP (low activity): Peters Hill View Residency | ★0.0 (0)
+  ✗ DUMP (low activity): Venappadath Guest House | ★0.0 (0)
+  ✗ DUMP (low activity): indraprastam | ★0.0 (0)
+  ✗ DUMP (low activity): great jubilee | ★0.0 (0)
+  ✗ DUMP (low activity): Vanarani | ★0.0 (0)
+  ✗ DUMP (low activity): Hotel Le Spphire | ★0.0 (0)
+  ✗ DUMP (low activity): Guest House, Kerala Veterinary and Animal Scienc | ★0.0 (0)
+  ✗ DUMP (low activity): EVM | ★0.0 (0)
+  ✗ DUMP (low activity): alos | ★0.0 (0)
+  ✗ DUMP (low activity): Iftar hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Wayanadia Resort Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Besrauma | ★0.0 (0)
+
+  ── 3 qualified + 36 phone-icon-needs-enrich | 88 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 23 confirmed no-website
+Pool: 39 candidates
+============================================================
+
+  [1/39] Templetree Homestay...
+     ✓ CONFIRMED no-website lead (1/23)
+  [2/39] Igloo Residency...
+     ✓ CONFIRMED no-website lead (2/23)
+  [3/39] Grass Roots...
+     ✓ CONFIRMED no-website lead (3/23)
+  [4/39] Coffee Greens Resort Wayanad...
+     📞 +91 70346 80007 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://coffeegreensresort.com/) — 1 so far
+  [5/39] Aalterra Resort by The Almanac...
+     📞 +91 89213 17552 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.aalterraresort.com/) — 2 so far
+  [6/39] Kings Flora Organic Farm Resort...
+     📞 +91 99461 00068 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://livikhospitality.com/kings-flora-resort/) — 3 so far
+  [7/39] Niyatma Resort...
+     📞 +91 70127 27937 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.niyatmaresort.com/) — 4 so far
+  [8/39] Black Forest Wayanad...
+     📞 +91 96564 99644 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://blackforestwayanad.com/) — 5 so far
+  [9/39] GReaT trails Wayanad by GRT Hotels...
+     📞 +91 80 6925 0555 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://grthotels.com/wayanad) — 6 so far
+  [10/39] Hiliya Resort Wayanad...
+     📞 +91 99466 08800 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.hiliyaresort.com/) — 7 so far
+  [11/39] Cybele Hill Resort...
+     📞 +91 97441 24835 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://wayanadcybelehillresorts.com/) — 8 so far
+  [12/39] MARYLAND HOLIDAY RESORT WAYANAD BY VOYE HOMES...
+     📞 +91 70128 85450 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://voyehomes.com/maryland-holiday-best-resort-in-wayanad-uyk) — 9 so far
+  [13/39] Bali Bamboo Resort | Naturistic Bamboo Resort...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [14/39] River Valley Huts Wayanad...
+     📞 +91 85901 67416 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://rivervalleyhuts.com/) — 10 so far
+  [15/39] Mountain Pond Resort...
+     📞 +91 75107 87272 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/23)
+  [16/39] Wayal Wayanad Farm Resort...
+     📞 +91 85930 42865 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://wayalwayanadresort.com/) — 11 so far
+  [17/39] Tusker Inn Forest Lodge...
+     📞 +91 97454 08283 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://tusker-inn-forest-lodge-by-voye-homes.kerala-hotels-resorts.com/en/) — 12 so far
+  [18/39] Kudajadri Drizzle - Best Wayanad Homestays...
+     📞 +91 99463 54511 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.kudajadridrizzle.com/?utm_source=google&utm_medium=localbusiness&utm_campaign=visitwebsite) — 13 so far
+  [19/39] Cozy nest...
+     📞 +91 62820 11125 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://cozynestwayanad.vercel.app/) — 14 so far
+  [20/39] Jungle Getaway...
+     📞 +91 85898 95628 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://junglegetaway.in/) — 15 so far
+  [21/39] Green Gates Hotels...
+     📞 +91 4936 202 001 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.greengateshotel.com/) — 16 so far
+  [22/39] Wayanad Home Stay...
+     📞 +91 79758 40830 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (5/23)
+  [23/39] Dew Drops Farm Stay...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [24/39] JUNGLE VALLEY RESORT WAYANAD...
+     📞 +91 73565 00397 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.junglevalleyresort.com/) — 17 so far
+  [25/39] Raindrops Resorts Wayanad...
+     📞 +91 83019 56119 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://raindropsresorts.com/) — 18 so far
+  [26/39] Wayanad Silverwoods Resorts...
+     📞 +91 97464 75714 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.wayanadsilverwoods.com/) — 19 so far
+  [27/39] Edakkal Hermitage Resort...
+     📞 +91 98470 01491 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://edakkal.com/) — 20 so far
+  [28/39] Iron Bridge Cove...
+     📞 +91 96059 25000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://ironbridgecove.com/) — 21 so far
+  [29/39] Arayal Resorts...
+     📞 +91 75608 60015 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (http://www.arayalresorts.com/) — 22 so far
+  [30/39] Zostel Plus Wayanad...
+     📞 +91 44 4011 5839 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.zostel.com/zostel/wayanad/wayanad-wynh151/) — 23 so far
+  [31/39] Bay View Suites Vythiri...
+     📞 +91 79092 27733 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.bayviewsuites.in/) — 24 so far
+  [32/39] Vythiri Retreat Resort...
+     📞 +91 62352 21477 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://vythiri-retreat-resort.wheree.com/) — 25 so far
+  [33/39] Indeevara Retreat- Vythiri, Eco Friendly Luxu...
+     📞 +91 90721 00023 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.stridehotels.com/indeevara-retreat-resort-in-wayanad/) — 26 so far
+  [34/39] Wayanad brook valley...
+     📞 +91 90378 04199 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://brookvally.com/) — 27 so far
+  [35/39] pabis luxurious stay...
+     📞 +91 94477 77803 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.pabis.in/) — 28 so far
+  [36/39] Royal Castle Resorts...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [37/39] Orchid Trails Resort Wayanad by Zeebull...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [38/39] Hillway Resort...
+     📞 +91 70252 41068 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (6/23)
+  [39/39] Mahout resort...
+     📞 +91 97784 69990 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://mahoutresort.com/home/) — 29 so far
+
+  ── Final: 6/23 confirmed no-website leads, 29 has-website leads (checked 39/39 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Resorts in Wayanad, India
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Templetree Homestay                    00918274244270     0.0   0    
+2   Igloo Residency                        +91 97452 00055    0.0   0    
+3   Grass Roots                            +91- 8884733500    0.0   0    
+4   Mountain Pond Resort                   +91 75107 87272    4.4   398  
+5   Wayanad Home Stay                      +91 79758 40830    4.7   108  
+6   Hillway Resort                         +91 70252 41068    4.6   116  
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Resorts in Wayanad, India
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Coffee Greens Resort Wayanad           +91 70346 80007    4.7   901  
+2   Aalterra Resort by The Almanac         +91 89213 17552    4.8   924  
+3   Kings Flora Organic Farm Resort        +91 99461 00068    4.6   496  
+4   Niyatma Resort                         +91 70127 27937    4.4   1131 
+5   Black Forest Wayanad                   +91 96564 99644    4.2   663  
+6   GReaT trails Wayanad by GRT Hotels     +91 80 6925 0555   4.8   1694 
+7   Hiliya Resort Wayanad                  +91 99466 08800    4.3   689  
+8   Cybele Hill Resort                     +91 97441 24835    4.5   884  
+9   MARYLAND HOLIDAY RESORT WAYANAD BY V   +91 70128 85450    4.9   105  
+10  River Valley Huts Wayanad              +91 85901 67416    4.6   70   
+11  Wayal Wayanad Farm Resort              +91 85930 42865    4.6   225  
+12  Tusker Inn Forest Lodge                +91 97454 08283    4.9   196  
+13  Kudajadri Drizzle - Best Wayanad Hom   +91 99463 54511    4.7   965  
+14  Cozy nest                              +91 62820 11125    4.5   24   
+15  Jungle Getaway                         +91 85898 95628    5.0   20   
+16  Green Gates Hotels                     +91 4936 202 001   4.0   1488 
+17  JUNGLE VALLEY RESORT WAYANAD           +91 73565 00397    4.5   496  
+18  Raindrops Resorts Wayanad              +91 83019 56119    4.4   749  
+19  Wayanad Silverwoods Resorts            +91 97464 75714    4.4   3772 
+20  Edakkal Hermitage Resort               +91 98470 01491    4.1   3333 
+21  Iron Bridge Cove                       +91 96059 25000    4.6   692  
+22  Arayal Resorts                         +91 75608 60015    4.5   1715 
+23  Zostel Plus Wayanad                    +91 44 4011 5839   4.6   2164 
+24  Bay View Suites Vythiri                +91 79092 27733    4.7   542  
+25  Vythiri Retreat Resort                 +91 62352 21477    4.2   384  
+26  Indeevara Retreat- Vythiri, Eco Frie   +91 90721 00023    4.5   1546 
+27  Wayanad brook valley                   +91 90378 04199    4.6   240  
+28  pabis luxurious stay                   +91 94477 77803    4.7   191  
+29  Mahout resort                          +91 97784 69990    4.4   226  
+================================================================================
+
+
+  ── Area 'Wayanad, India' contributed 5 new no-website leads, 29 new has-website leads (running total: 42/60 no-website, 143 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/blr_resorts.csv (42 rows), /workspaces/Hermes-leads/stress_run/blr_resorts_has_website.csv (143 rows)
+
+
+######################################################################
+# AREA: Ooty, India  (need 18 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Resorts  |  Location: Ooty, India  |  Region hint: IN
+#  Target: 18 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Resorts Ooty, India
+Cap: 150 listings
+============================================================
+
+  [1] 8/150 listings
+  [2] 16/150 listings
+  [3] 20/150 listings
+  [4] 20/150 listings
+  [5] 25/150 listings
+  [6] 33/150 listings
+  [7] 37/150 listings
+  [8] 45/150 listings
+  [9] 50/150 listings
+  [10] 54/150 listings
+  [11] 59/150 listings
+  [12] 65/150 listings
+  [13] 69/150 listings
+  [14] 75/150 listings
+  [15] 81/150 listings
+  [16] 85/150 listings
+  [17] 90/150 listings
+  [18] 98/150 listings
+  [19] 101/150 listings
+  [20] 101/150 listings
+  [21] 101/150 listings
+  [22] 101/150 listings
+  [23] 101/150 listings
+  [24] 101/150 listings
+  [25] 101/150 listings
+  [26] 101/150 listings
+  [27] 101/150 listings
+  [28] 101/150 listings
+  [29] 101/150 listings
+  [30] 101/150 listings
+
+  ✓ Discovery: 101 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+     ⚠ OSM Overpass query failed for 'Resorts' in 'Ooty, India' (2 attempts): HTTP Error 504: Gateway Timeout
+  ── OSM: 0 found, 0 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 101
+============================================================
+
+  ── 101 pass (no website) | 0 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ➤ NO-PHONE-SIGNAL: Sinclairs Retreat Ooty | ★3.8 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sterling Ooty - Fern Hill | ★4.3 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Accord Highland Ooty | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Silent Valley Farm Resort by VOYE HOMES | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Lakeview | ★4.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Fortune Retreats | ★4.1 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Tulips valleyview Resort | ★3.3 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Tulips Village Resorts | ★3.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Tulips elkhill resort | ★3.4 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Aventura Fern Hill | ★3.8 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mountain Retreat Ooty by Hill Country | ★4.1 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sterling Ooty Elk Hill | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Mayura Sudarshan | ★4.2 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mountain Trails Ooty | ★4.1 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: King's Cliff | ★4.4 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Coastal Grand Space 4 Resorts | ★3.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Greenleaves ,The Country Side Inn.Ooty | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mango Hill Shola Ooty | ★4.5 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Deccan Park Resort | ★4.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Byke Select - Sunshine Grand | (Pan India Pu | ★4.7 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Club Mahindra Derby Green, Ooty | ★4.2 (4821) | will enrich
+  ➤ NO-PHONE-SIGNAL: Blossom Spring | ★4.6 (71) | will enrich
+  ➤ NO-PHONE-SIGNAL: Palve Sugavasam | ★4.0 (1138) | will enrich
+  ➤ NO-PHONE-SIGNAL: Gem Park Ooty | ★4.4 (4601) | will enrich
+  ➤ NO-PHONE-SIGNAL: Berry Hills Resort | ★3.8 (886) | will enrich
+  ➤ NO-PHONE-SIGNAL: Virgin Valley Leisure Resort | ★4.5 (205) | will enrich
+  ➤ NO-PHONE-SIGNAL: Kanavu Valley View Resort | ★4.5 (341) | will enrich
+  ➤ NO-PHONE-SIGNAL: LA MONTANA BY TGI | ★4.3 (3216) | will enrich
+  ➤ NO-PHONE-SIGNAL: Snowdrops Ooty | ★4.4 (247) | will enrich
+  ➤ NO-PHONE-SIGNAL: Lazo Silver Lake Resort , Ooty | ★4.4 (961) | will enrich
+  ➤ NO-PHONE-SIGNAL: SUNSET VALLEY HOLIDAY INN | ★4.7 (874) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sabol Holiday Resorts | ★3.5 (826) | will enrich
+  ➤ NO-PHONE-SIGNAL: BLOSSOM SPRING VILLA | ★4.3 (61) | will enrich
+  ➤ NO-PHONE-SIGNAL: BRITISH CLIFF CLUB RESORT | ★3.9 (503) | will enrich
+  ➤ NO-PHONE-SIGNAL: Magic Mist Resort - A Boutique Resort at Ooty Ce | ★3.9 (499) | will enrich
+  ➤ NO-PHONE-SIGNAL: RIYAN VALLEY RESORT | ★4.2 (14) | will enrich
+  ➤ NO-PHONE-SIGNAL: Vista Suites Doddabetta By Bestinn Leisure Resor | ★4.5 (666) | will enrich
+  ➤ NO-PHONE-SIGNAL: YWCA ANANDAGIRI HOLIDAY HOME OOTY | ★4.0 (926) | will enrich
+  ➤ NO-PHONE-SIGNAL: J R Mist Valley Inn | ★3.4 (185) | will enrich
+  ➤ NO-PHONE-SIGNAL: Beverly villa ooty | ★4.8 (5788) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Groot Ooty | ★4.0 (45) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sherlock | ★4.4 (1269) | will enrich
+  ➤ NO-PHONE-SIGNAL: Burrows | ★4.7 (35) | will enrich
+  ➤ NO-PHONE-SIGNAL: Cool Spot Cottage | ★4.3 (742) | will enrich
+  ➤ NO-PHONE-SIGNAL: Pine Forest View by VOYE HOMES | ★4.3 (42) | will enrich
+  ➤ NO-PHONE-SIGNAL: Glen View Home Stay | ★4.3 (220) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dé First Corner | ★4.7 (39) | will enrich
+  ➤ NO-PHONE-SIGNAL: Fortune Resort Sullivan Court, Ooty - Member ITC | ★4.4 (2761) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Sunpark Grand | ★3.7 (498) | will enrich
+  ➤ NO-PHONE-SIGNAL: Green Moon Residency | ★4.3 (472) | will enrich
+  ➤ NO-PHONE-SIGNAL: Cherry Blossom | ★4.1 (232) | will enrich
+  ➤ NO-PHONE-SIGNAL: Greenyards Cottages | ★4.0 (607) | will enrich
+  ➤ NO-PHONE-SIGNAL: AURORA LIGHT RESIDENCY | ★4.0 (406) | will enrich
+  ➤ NO-PHONE-SIGNAL: Green Mountain Villa | ★4.7 (62) | will enrich
+  ➤ NO-PHONE-SIGNAL: Skylarc Inn | ★4.3 (317) | will enrich
+  ➤ NO-PHONE-SIGNAL: West Downs - The Heritage Resort | ★4.2 (1577) | will enrich
+  ➤ NO-PHONE-SIGNAL: DrizzleDrop Inn | ★3.8 (987) | will enrich
+  ➤ NO-PHONE-SIGNAL: PARADISE PERFECT | ★4.1 (734) | will enrich
+  ➤ NO-PHONE-SIGNAL: Bouganvilla | ★4.5 (547) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Monarch | ★3.8 (1749) | will enrich
+  ➤ NO-PHONE-SIGNAL: WelcomHeritage Fernhills Royal Palace | ★4.2 (1354) | will enrich
+  ➤ NO-PHONE-SIGNAL: Florence ooty | ★4.5 (279) | will enrich
+  ➤ NO-PHONE-SIGNAL: RAINBOW PALACE | ★4.4 (263) | will enrich
+  ➤ NO-PHONE-SIGNAL: A Ooty Honey Huts | ★4.7 (3838) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Sarkar Palace | ★3.9 (1829) | will enrich
+  ➤ NO-PHONE-SIGNAL: RK Holiday Homes (RK Homes Guest House) | ★4.3 (714) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Hornbill Residency | ★3.7 (243) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Sri Balaji, Ooty | ★4.1 (1050) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Darshan | ★4.1 (3589) | will enrich
+  ➤ NO-PHONE-SIGNAL: AJ Heritage Resort Ooty by VOYE HOMES | ★4.1 (264) | will enrich
+  ➤ NO-PHONE-SIGNAL: Club Mahindra Resort Danish Villa, Ooty, Tamil N | ★4.4 (1073) | will enrich
+  ➤ NO-PHONE-SIGNAL: Hotel Glanton Manor | ★3.8 (1015) | will enrich
+  ➤ NO-PHONE-SIGNAL: Natures Retreat Resort Ooty | ★3.7 (116) | will enrich
+  ➤ NO-PHONE-SIGNAL: MMR Grand Inn | ★4.0 (305) | will enrich
+  ➤ NO-PHONE-SIGNAL: Emarald Hotel, Ooty | ★3.2 (312) | will enrich
+  ➤ NO-PHONE-SIGNAL: Silver Dollar Resorts | ★3.9 (73) | will enrich
+  ➤ NO-PHONE-SIGNAL: Lymond House Ooty | ★4.1 (337) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mist Luxury Resort | ★4.1 (172) | will enrich
+  ➤ NO-PHONE-SIGNAL: Logan Camp Ooty | ★4.5 (1082) | will enrich
+  ➤ NO-PHONE-SIGNAL: Pine Wood Resorts | ★3.6 (18) | will enrich
+  ➤ NO-PHONE-SIGNAL: Green casa ooty | ★3.9 (299) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mowbray House Resorts Ooty by VOYE HOMES | ★4.1 (160) | will enrich
+  ➤ NO-PHONE-SIGNAL: British County Ooty | ★4.6 (405) | will enrich
+  ➤ NO-PHONE-SIGNAL: Green valley resort and restaurant | ★4.4 (69) | will enrich
+  ➤ NO-PHONE-SIGNAL: OOTY Hidden Valley Jungle Camp | ★4.3 (73) | will enrich
+  ➤ NO-PHONE-SIGNAL: UBUNTU RETREAT | ★4.8 (190) | will enrich
+  ➤ NO-PHONE-SIGNAL: FabEscape St. Clouds - Hotel in Ooty Botanical G | ★3.3 (353) | will enrich
+  ➤ NO-PHONE-SIGNAL: Viharana Spa and Resorts | ★5.0 (2) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sanctuary Boutique Hotel Ooty | ★4.4 (223) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Tamarillo | ★4.6 (561) | will enrich
+  ➤ NO-PHONE-SIGNAL: Glyngarth Villa | ★4.0 (17) | will enrich
+  ➤ NO-PHONE-SIGNAL: Maple view resorts | ★4.2 (183) | will enrich
+  ➤ NO-PHONE-SIGNAL: TTDC Hotel Tamilnadu - Ooty | ★4.3 (3157) | will enrich
+  ➤ NO-PHONE-SIGNAL: Teyt Grans view | ★4.6 (88) | will enrich
+  ➤ NO-PHONE-SIGNAL: Jevis Daffodils rooms and cottage | ★4.2 (83) | will enrich
+  ➤ NO-PHONE-SIGNAL: Skyblue Resort | ★3.8 (115) | will enrich
+  ➤ NO-PHONE-SIGNAL: Albisville-hilltop mansions | ★4.2 (252) | will enrich
+  ➤ NO-PHONE-SIGNAL: Peak Point | ★4.8 (541) | will enrich
+  ➤ NO-PHONE-SIGNAL: Willow Hill by Nature Resorts and Stays | ★4.5 (316) | will enrich
+  ➤ NO-PHONE-SIGNAL: ATRIUM GRANDE OOTY | ★4.8 (259) | will enrich
+  ➤ NO-PHONE-SIGNAL: WINGS RESORT Ooty | ★4.3 (412) | will enrich
+
+  ── 0 qualified + 101 phone-icon-needs-enrich | 0 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 18 confirmed no-website
+Pool: 101 candidates
+============================================================
+
+  [1/101] Sinclairs Retreat Ooty...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [2/101] Sterling Ooty - Fern Hill...
+     📞 +91 79 6979 2006 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.sterlingholidays.com//resorts-hotels/ooty-fern-hill/) — 1 so far
+  [3/101] Accord Highland Ooty...
+     📞 +91 423 245 0021 | Owner: Manikandan | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.theaccordhotels.com/highland-ooty/) — 2 so far
+  [4/101] Silent Valley Farm Resort by VOYE HOMES...
+     📞 +91 94878 17756 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://voyehomes.com/silent-valley-farm-resort-by-voye-homes-cy) — 3 so far
+  [5/101] Hotel Lakeview...
+     📞 +91 423 244 3580 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.hotellakeview.com/) — 4 so far
+  [6/101] Fortune Retreats...
+     📞 +91 423 244 0907 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.fortuneooty.com/) — 5 so far
+  [7/101] Tulips valleyview Resort...
+     📞 +91 423 246 6666 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.tulipsooty.com/) — 6 so far
+  [8/101] Tulips Village Resorts...
+     📞 +91 81100 81106 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://tulips-village-resorts.hotelsintamilnadu.com/en/) — 7 so far
+  [9/101] Tulips elkhill resort...
+     📞 +91 423 245 5555 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://tulips-elkhill-resorts.hotelsintamilnadu.com/en/) — 8 so far
+  [10/101] Aventura Fern Hill...
+     📞 +91 89734 12345 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.aventura.in/) — 9 so far
+  [11/101] Mountain Retreat Ooty by Hill Country...
+     📞 +91 423 244 1204 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.hillcountry.co.in/mountain-retreat-ooty-resort/) — 10 so far
+  [12/101] Sterling Ooty Elk Hill...
+     📞 +91 79 6979 2007 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.sterlingholidays.com//resorts-hotels/ooty-elk-hill/) — 11 so far
+  [13/101] Hotel Mayura Sudarshan...
+     📞 +91 89706 50052 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.kstdc.co/) — 12 so far
+  [14/101] Mountain Trails Ooty...
+     📞 +91 91595 36123 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://mountaintrailsresortooty.com/) — 13 so far
+  [15/101] King's Cliff...
+     📞 +91 94870 00222 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.littlearth.in/kings-cliff/) — 14 so far
+  [16/101] Coastal Grand Space 4 Resorts...
+     📞 +91 94428 80678 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (https://www.space4resorts.com/) — 15 so far
+  [17/101] Greenleaves ,The Country Side Inn.Ooty...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [18/101] Mango Hill Shola Ooty...
+     📞 +91 85858 54615 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.mangohillhotels.com/shola-ooty/) — 16 so far
+  [19/101] Deccan Park Resort...
+     📞 +91 423 244 4547 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://deccan-park.hotelsintamilnadu.com/en/) — 17 so far
+  [20/101] The Byke Select - Sunshine Grand | (Pan India...
+     📞 +91 75061 11728 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://thebyke.com/hotels-in-ooty/the_byke_sunshine_grand) — 18 so far
+  [21/101] Club Mahindra Derby Green, Ooty...
+     📞 +91 92288 18055 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.clubmahindra.com/our-resorts/club-mahindra-derby-green-ooty-resort-in-tamil-nadu?utm_source=google&utm_medium=maps&utm_campaign=Club-Mahindra-Resorts-Derby-Green-Ooty-Tamil-Nadu&campaign=2210WebRegular&refid=LTR-organic-google-maps-Club-Mahindra-Resort-Dreby-Green-Ooty-Tamil-Nadu) — 19 so far
+  [22/101] Blossom Spring...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [23/101] Palve Sugavasam...
+     📞 +91 75983 93377 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://lemeadowsserenity.com/) — 20 so far
+  [24/101] Gem Park Ooty...
+     📞 +91 423 244 1761 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.gemparkooty.com/) — 21 so far
+  [25/101] Berry Hills Resort...
+     📞 +91 97877 05678 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (https://www.berryhills.in/) — 22 so far
+  [26/101] Virgin Valley Leisure Resort...
+     📞 +91 91598 59598 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.virginvalleyresort.com/) — 23 so far
+  [27/101] Kanavu Valley View Resort...
+     📞 +91 96459 36006 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://kanavuvalleyview.com/) — 24 so far
+  [28/101] LA MONTANA BY TGI...
+     📞 +91 1800 258 3100 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (https://www.tgihotels.com/la-montana-ooty/) — 25 so far
+  [29/101] Snowdrops Ooty...
+     📞 +91 85258 85148 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (1/18)
+  [30/101] Lazo Silver Lake Resort , Ooty...
+     📞 +91 89258 29957 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://lazoresorts.com/resort/lazo-silver-lake/) — 26 so far
+  [31/101] SUNSET VALLEY HOLIDAY INN...
+     📞 +91 97516 38143 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://sunset-valley-holiday-inn.hotelsintamilnadu.com/en/) — 27 so far
+  [32/101] Sabol Holiday Resorts...
+     📞 +91 98428 28000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.sabolholidays.com/) — 28 so far
+  [33/101] BLOSSOM SPRING VILLA...
+     📞 +91 88702 01555 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://blossomspringvilla.com/) — 29 so far
+  [34/101] BRITISH CLIFF CLUB RESORT...
+     📞 +91 99424 44833 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://britishcliffclubresort.chobs.in/) — 30 so far
+  [35/101] Magic Mist Resort - A Boutique Resort at Ooty...
+     📞 +91 85250 10103 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.magicmistresort.in/) — 31 so far
+  [36/101] RIYAN VALLEY RESORT...
+     📞 +91 88380 57237 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (2/18)
+  [37/101] Vista Suites Doddabetta By Bestinn Leisure Re...
+     📞 +91 73562 72221 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://bestinnleisure.com/Home/HotelDetails?hotelId=17) — 32 so far
+  [38/101] YWCA ANANDAGIRI HOLIDAY HOME OOTY...
+     📞 +91 423 244 4262 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.ywcaagooty.com/) — 33 so far
+  [39/101] J R Mist Valley Inn...
+     📞 +91 99651 04600 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (3/18)
+  [40/101] Beverly villa ooty...
+     📞 +91 75985 25999 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.beverlyvilla.com/) — 34 so far
+  [41/101] The Groot Ooty...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [42/101] Sherlock...
+     📞 +91 423 244 0094 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://littlearth.in/sherlock/) — 35 so far
+  [43/101] Burrows...
+     📞 +91 79044 93310 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://burrowsooty.com/) — 36 so far
+  [44/101] Cool Spot Cottage...
+     📞 +91 70103 95526 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://coolspotcottage.com/) — 37 so far
+  [45/101] Pine Forest View by VOYE HOMES...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [46/101] Glen View Home Stay...
+     📞 +91 98943 72222 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.glenviewhomestay.com/) — 38 so far
+  [47/101] Dé First Corner...
+     📞 +91 88385 85813 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.defirstcorner.com/) — 39 so far
+  [48/101] Fortune Resort Sullivan Court, Ooty - Member ...
+     📞 +91 423 244 1415 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.itchotels.com/in/en/fortuneresortsullivancourt-ooty?utm_source=google&utm_medium=GMB) — 40 so far
+  [49/101] Hotel Sunpark Grand...
+     📞 +91 423 222 3360 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.sunparkgrand.com/) — 41 so far
+  [50/101] Green Moon Residency...
+     📞 +91 75020 66999 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://green-moon-residency.hotelsintamilnadu.com/en/) — 42 so far
+  [51/101] Cherry Blossom...
+     📞 +91 90801 30180 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/18)
+  [52/101] Greenyards Cottages...
+     📞 +91 89033 31339 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (5/18)
+  [53/101] AURORA LIGHT RESIDENCY...
+     📞 +91 94430 42553 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (6/18)
+  [54/101] Green Mountain Villa...
+     📞 +91 90870 66488 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (7/18)
+  [55/101] Skylarc Inn...
+     📞 +91 97879 67275 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.skylarcinn.com/) — 43 so far
+  [56/101] West Downs - The Heritage Resort...
+     📞 +91 423 244 2262 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://westdownsresort.com/) — 44 so far
+  [57/101] DrizzleDrop Inn...
+     📞 +91 99628 22355 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drizzledropinn.com/) — 45 so far
+  [58/101] PARADISE PERFECT...
+     📞 +91 90809 18262 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://paradise-perfect-holiday-home.hotelsintamilnadu.com/en/) — 46 so far
+  [59/101] Bouganvilla...
+     📞 +91 90470 21222 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.bouganvilla.in/) — 47 so far
+  [60/101] The Monarch...
+     📞 +91 423 244 4408 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.monarchooty.in/) — 48 so far
+  [61/101] WelcomHeritage Fernhills Royal Palace...
+     📞 +91 99439 99945 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.welcomheritagehotels.in/welcomheritage-fernhills-royal-palace/ooty-hotels?utm_source=google&utm_medium=gbp&utm_campaign=fernhills-royal-palace) — 49 so far
+  [62/101] Florence ooty...
+     📞 +91 92073 79101 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/18)
+  [63/101] RAINBOW PALACE...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [64/101] A Ooty Honey Huts...
+     📞 +91 85085 99799 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (9/18)
+  [65/101] Hotel Sarkar Palace...
+     📞 +91 423 244 9310 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://hotelsarkarpalace.com/) — 50 so far
+  [66/101] RK Holiday Homes (RK Homes Guest House)...
+     📞 +91 63818 47345 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://live.ipms247.com/booking/book-rooms-rkholidayhome) — 51 so far
+  [67/101] The Hornbill Residency...
+     📞 +91 423 245 0055 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://hornbill-residency.hotelsintamilnadu.com/en/) — 52 so far
+  [68/101] Hotel Sri Balaji, Ooty...
+     📞 +91 99760 22663 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.hotelsribalaji.com/) — 53 so far
+  [69/101] Hotel Darshan...
+     📞 +91 90470 40059 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.hoteldarshan.com/) — 54 so far
+  [70/101] AJ Heritage Resort Ooty by VOYE HOMES...
+     📞 +91 79944 40495 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://voyehomes.com/reservation/a-j-heritage-resort-by-voye-homes-uia) — 55 so far
+  [71/101] Club Mahindra Resort Danish Villa, Ooty, Tami...
+     📞 +91 92288 17959 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.clubmahindra.com/our-resorts/club-mahindra-danish-villa-resort-in-ooty-tamil-nadu?utm_source=google&utm_medium=maps&utm_campaign=club-mahindra-resort-danish-villa-ooty-tamil-nadu&campaign=2507webregular&refid=ltr-organic-google-maps-club-mahindra-resort-danish-villa-ooty-tamil-nadu) — 56 so far
+  [72/101] Hotel Glanton Manor...
+     📞 +91 423 244 1941 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.glantongroup.com/) — 57 so far
+  [73/101] Natures Retreat Resort Ooty...
+     📞 +91 78250 51515 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (10/18)
+  [74/101] MMR Grand Inn...
+     📞 +91 63830 55877 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.mmrgrandinn.com/) — 58 so far
+  [75/101] Emarald Hotel, Ooty...
+     📞 +91 97470 61000 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (http://www.emarald.in/hotel-in-ooty) — 59 so far
+  [76/101] Silver Dollar Resorts...
+     📞 +91 97874 97435 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (11/18)
+  [77/101] Lymond House Ooty...
+     📞 +91 98431 49490 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://lymond-house.hotelsintamilnadu.com/en/) — 60 so far
+  [78/101] Mist Luxury Resort...
+     📞 +91 91944 60911 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (12/18)
+  [79/101] Logan Camp Ooty...
+     📞 +91 97470 55554 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.logancamp.in/) — 61 so far
+  [80/101] Pine Wood Resorts...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [81/101] Green casa ooty...
+     📞 +91 82819 42654 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://the-green-casa-ooty.hotelmix.ro/) — 62 so far
+  [82/101] Mowbray House Resorts Ooty by VOYE HOMES...
+     📞 +91 79944 43142 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://voyehomes.com/mowbray-house-resort-ooty-by-voye-homes-ukl) — 63 so far
+  [83/101] British County Ooty...
+     📞 +91 89408 80100 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://britishcountyooty.com/) — 64 so far
+  [84/101] Green valley resort and restaurant...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [85/101] OOTY Hidden Valley Jungle Camp...
+     📞 +91 94430 43552 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.ootyhiddenvalley.in/) — 65 so far
+  [86/101] UBUNTU RETREAT...
+     📞 +91 97454 34444 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (13/18)
+  [87/101] FabEscape St. Clouds - Hotel in Ooty Botanica...
+     📞 +91 70424 24242 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.fabhotels.com/hotels-in-ooty/fabhotel-st-clouds.html?utm_source=GMB&utm_medium=organic&utm_campaign=GMB_Traffic) — 66 so far
+  [88/101] Viharana Spa and Resorts...
+     📞 +91 94424 04788 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (14/18)
+  [89/101] Sanctuary Boutique Hotel Ooty...
+     📞 +91 94420 69255 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.sanctuaryooty.com/) — 67 so far
+  [90/101] The Tamarillo...
+     📞 +91 81100 33445 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://thetamarillo.com/) — 68 so far
+  [91/101] Glyngarth Villa...
+     📞 +91 423 244 5754 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://glyngarth-resorts.hotelsintamilnadu.com/en/) — 69 so far
+  [92/101] Maple view resorts...
+     📞 +91 97873 06274 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (15/18)
+  [93/101] TTDC Hotel Tamilnadu - Ooty...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [94/101] Teyt Grans view...
+     📞 +91 75938 88889 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.teyt.in/) — 70 so far
+  [95/101] Jevis Daffodils rooms and cottage...
+     📞 +91 97869 70446 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (16/18)
+  [96/101] Skyblue Resort...
+     📞 +91 94477 95491 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (17/18)
+  [97/101] Albisville-hilltop mansions...
+     📞 +91 90618 86885 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (18/18)
+
+  ── Reached 18 confirmed no-website leads, stopping early
+
+
+  ── Final: 18/18 confirmed no-website leads, 70 has-website leads (checked 97/101 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Resorts in Ooty, India
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Snowdrops Ooty                         +91 85258 85148    4.4   247  
+2   RIYAN VALLEY RESORT                    +91 88380 57237    4.2   14   
+3   J R Mist Valley Inn                    +91 99651 04600    3.4   185  
+4   Cherry Blossom                         +91 90801 30180    4.1   232  
+5   Greenyards Cottages                    +91 89033 31339    4.0   607  
+6   AURORA LIGHT RESIDENCY                 +91 94430 42553    4.0   406  
+7   Green Mountain Villa                   +91 90870 66488    4.7   62   
+8   Florence ooty                          +91 92073 79101    4.5   279  
+9   A Ooty Honey Huts                      +91 85085 99799    4.7   3838 
+10  Natures Retreat Resort Ooty            +91 78250 51515    3.7   116  
+11  Silver Dollar Resorts                  +91 97874 97435    3.9   73   
+12  Mist Luxury Resort                     +91 91944 60911    4.1   172  
+13  UBUNTU RETREAT                         +91 97454 34444    4.8   190  
+14  Viharana Spa and Resorts               +91 94424 04788    5.0   2    
+15  Maple view resorts                     +91 97873 06274    4.2   183  
+16  Jevis Daffodils rooms and cottage      +91 97869 70446    4.2   83   
+17  Skyblue Resort                         +91 94477 95491    3.8   115  
+18  Albisville-hilltop mansions            +91 90618 86885    4.2   252  
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Resorts in Ooty, India
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Sterling Ooty - Fern Hill              +91 79 6979 2006   4.3   16575
+2   Accord Highland Ooty                   +91 423 245 0021   4.5   1817 
+3   Silent Valley Farm Resort by VOYE HO   +91 94878 17756    4.5   1898 
+4   Hotel Lakeview                         +91 423 244 3580   4.0   8997 
+5   Fortune Retreats                       +91 423 244 0907   4.1   2286 
+6   Tulips valleyview Resort               +91 423 246 6666   3.3   2227 
+7   Tulips Village Resorts                 +91 81100 81106    3.6   1386 
+8   Tulips elkhill resort                  +91 423 245 5555   3.4   3479 
+9   Aventura Fern Hill                     +91 89734 12345    3.8   1032 
+10  Mountain Retreat Ooty by Hill Countr   +91 423 244 1204   4.1   936  
+11  Sterling Ooty Elk Hill                 +91 79 6979 2007   4.6   14083
+12  Hotel Mayura Sudarshan                 +91 89706 50052    4.2   1992 
+13  Mountain Trails Ooty                   +91 91595 36123    4.1   1646 
+14  King's Cliff                           +91 94870 00222    4.4   3344 
+15  Coastal Grand Space 4 Resorts          +91 94428 80678    3.9   1113 
+16  Mango Hill Shola Ooty                  +91 85858 54615    4.5   3353 
+17  Deccan Park Resort                     +91 423 244 4547   4.0   1894 
+18  The Byke Select - Sunshine Grand | (   +91 75061 11728    4.7   9312 
+19  Club Mahindra Derby Green, Ooty        +91 92288 18055    4.2   4821 
+20  Palve Sugavasam                        +91 75983 93377    4.0   1138 
+21  Gem Park Ooty                          +91 423 244 1761   4.4   4601 
+22  Berry Hills Resort                     +91 97877 05678    3.8   886  
+23  Virgin Valley Leisure Resort           +91 91598 59598    4.5   205  
+24  Kanavu Valley View Resort              +91 96459 36006    4.5   341  
+25  LA MONTANA BY TGI                      +91 1800 258 310   4.3   3216 
+26  Lazo Silver Lake Resort , Ooty         +91 89258 29957    4.4   961  
+27  SUNSET VALLEY HOLIDAY INN              +91 97516 38143    4.7   874  
+28  Sabol Holiday Resorts                  +91 98428 28000    3.5   826  
+29  BLOSSOM SPRING VILLA                   +91 88702 01555    4.3   61   
+30  BRITISH CLIFF CLUB RESORT              +91 99424 44833    3.9   503  
+31  Magic Mist Resort - A Boutique Resor   +91 85250 10103    3.9   499  
+32  Vista Suites Doddabetta By Bestinn L   +91 73562 72221    4.5   666  
+33  YWCA ANANDAGIRI HOLIDAY HOME OOTY      +91 423 244 4262   4.0   926  
+34  Beverly villa ooty                     +91 75985 25999    4.8   5788 
+35  Sherlock                               +91 423 244 0094   4.4   1269 
+36  Burrows                                +91 79044 93310    4.7   35   
+37  Cool Spot Cottage                      +91 70103 95526    4.3   742  
+38  Glen View Home Stay                    +91 98943 72222    4.3   220  
+39  Dé First Corner                        +91 88385 85813    4.7   39   
+40  Fortune Resort Sullivan Court, Ooty    +91 423 244 1415   4.4   2761 
+41  Hotel Sunpark Grand                    +91 423 222 3360   3.7   498  
+42  Green Moon Residency                   +91 75020 66999    4.3   472  
+43  Skylarc Inn                            +91 97879 67275    4.3   317  
+44  West Downs - The Heritage Resort       +91 423 244 2262   4.2   1577 
+45  DrizzleDrop Inn                        +91 99628 22355    3.8   987  
+46  PARADISE PERFECT                       +91 90809 18262    4.1   734  
+47  Bouganvilla                            +91 90470 21222    4.5   547  
+48  The Monarch                            +91 423 244 4408   3.8   1749 
+49  WelcomHeritage Fernhills Royal Palac   +91 99439 99945    4.2   1354 
+50  Hotel Sarkar Palace                    +91 423 244 9310   3.9   1829 
+51  RK Holiday Homes (RK Homes Guest Hou   +91 63818 47345    4.3   714  
+52  The Hornbill Residency                 +91 423 245 0055   3.7   243  
+53  Hotel Sri Balaji, Ooty                 +91 99760 22663    4.1   1050 
+54  Hotel Darshan                          +91 90470 40059    4.1   3589 
+55  AJ Heritage Resort Ooty by VOYE HOME   +91 79944 40495    4.1   264  
+56  Club Mahindra Resort Danish Villa, O   +91 92288 17959    4.4   1073 
+57  Hotel Glanton Manor                    +91 423 244 1941   3.8   1015 
+58  MMR Grand Inn                          +91 63830 55877    4.0   305  
+59  Emarald Hotel, Ooty                    +91 97470 61000    3.2   312  
+60  Lymond House Ooty                      +91 98431 49490    4.1   337  
+61  Logan Camp Ooty                        +91 97470 55554    4.5   1082 
+62  Green casa ooty                        +91 82819 42654    3.9   299  
+63  Mowbray House Resorts Ooty by VOYE H   +91 79944 43142    4.1   160  
+64  British County Ooty                    +91 89408 80100    4.6   405  
+65  OOTY Hidden Valley Jungle Camp         +91 94430 43552    4.3   73   
+66  FabEscape St. Clouds - Hotel in Ooty   +91 70424 24242    3.3   353  
+67  Sanctuary Boutique Hotel Ooty          +91 94420 69255    4.4   223  
+68  The Tamarillo                          +91 81100 33445    4.6   561  
+69  Glyngarth Villa                        +91 423 244 5754   4.0   17   
+70  Teyt Grans view                        +91 75938 88889    4.6   88   
+================================================================================
+
+
+  ── Area 'Ooty, India' contributed 18 new no-website leads, 70 new has-website leads (running total: 60/60 no-website, 213 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/blr_resorts.csv (60 rows), /workspaces/Hermes-leads/stress_run/blr_resorts_has_website.csv (213 rows)
+
+
+✓ Target of 60 already reached — skipping remaining areas: ['Chikmagalur, India']
+
+
+================================================================================
+MULTI-AREA SUMMARY — Resorts
+================================================================================
+  Coorg, India                             34 no-website | 59 has-website
+  Wayanad, India                           5 no-website | 29 has-website
+  Ooty, India                              18 no-website | 70 has-website
+--------------------------------------------------------------------------------
+  TOTAL: 60/60 confirmed unique no-website leads
+  TOTAL: 213 confirmed unique has-website leads (bonus list)
+
+  ✓ No-website target reached.
+================================================================================
+
+✓ No-website CSV: /workspaces/Hermes-leads/stress_run/blr_resorts.csv
+✓ Has-website CSV: /workspaces/Hermes-leads/stress_run/blr_resorts_has_website.csv
+✓ Status: /workspaces/Hermes-leads/stress_run/blr_resorts.status.json
+

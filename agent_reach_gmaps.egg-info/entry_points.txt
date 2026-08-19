@@ -1,0 +1,2 @@
+[console_scripts]
+gmaps-scraper = agent_reach_gmaps.cli:main

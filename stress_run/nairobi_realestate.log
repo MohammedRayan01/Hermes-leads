@@ -1,0 +1,1040 @@
+
+↺ Resuming: loaded 2 existing no-website leads, 33 existing has-website leads from disk
+
+  Skipping areas already fully checked in a previous run: ['Nairobi, Kenya']
+
+
+######################################################################
+# AREA: Mombasa, Kenya  (need 58 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Real Estate Agents  |  Location: Mombasa, Kenya  |  Region hint: KE
+#  Target: 58 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Real Estate Agents Mombasa, Kenya
+Cap: 150 listings
+============================================================
+
+  [1] 12/150 listings
+  [2] 20/150 listings
+  [3] 30/150 listings
+  [4] 38/150 listings
+  [5] 50/150 listings
+  [6] 58/150 listings
+  [7] 70/150 listings
+  [8] 78/150 listings
+  [9] 90/150 listings
+  [10] 98/150 listings
+  [11] 110/150 listings
+  [12] 118/150 listings
+  [13] 118/150 listings
+  [14] 118/150 listings
+  [15] 118/150 listings
+  [16] 118/150 listings
+  [17] 118/150 listings
+  [18] 118/150 listings
+  [19] 118/150 listings
+  [20] 118/150 listings
+  [21] 118/150 listings
+  [22] 118/150 listings
+  [23] 118/150 listings
+  [24] 118/150 listings
+  [25] 118/150 listings
+  [26] 118/150 listings
+  [27] 118/150 listings
+  [28] 118/150 listings
+  [29] 118/150 listings
+  [30] 118/150 listings
+
+  ✓ Discovery: 118 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 4 found, 3 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 121
+============================================================
+
+  ── 120 pass (no website) | 1 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ✓ QUAL: Amor Homes | ★4.7 (0) | 📞 +254 716 951541
+  ✓ QUAL: Benford Homes | ★4.9 (0) | 📞 +254 723 753607
+  ✓ QUAL: KRUSS Properties | ★4.6 (0) | 📞 +254 703 846197
+  ✓ QUAL: DK REAL ESTATES LTD (Nyali Office) | ★4.6 (0) | 📞 +254 729 204688
+  ➤ PHONE-ICON: Emaar Luxe Properties Kenya | ★5.0 (0) | need digits
+  ✓ QUAL: Nairobi Homes Mombasa Ltd | ★3.5 (0) | 📞 +254 722 565888
+  ✓ QUAL: UrbanPoint Properties Ltd | ★4.8 (0) | 📞 +254 726 763061
+  ✓ QUAL: Edgestone Real Estate, KE | ★4.8 (0) | 📞 +254 743 606131
+  ✓ QUAL: Residence Real Estate | ★5.0 (0) | 📞 +254 722 618266
+  ✓ QUAL: 𝐉𝐎𝐂𝐇𝐀𝐎-𝐋𝐈𝐍𝐊𝐒𝐇𝐎𝐌𝐄 (𝐊) 𝐋𝐓𝐃 | ★5.0 (0) | 📞 +254 736 283088
+  ✓ QUAL: Avenue Vista Property Center Mombasa | ★5.0 (0) | 📞 +254 797 670765
+  ✓ QUAL: Kilifi Properties | ★4.8 (0) | 📞 +254 727 572626
+  ✗ DUMP (low activity): MOMBASA REAL ESTATE AGENCIES LTD. | ★2.0 (0)
+  ✓ QUAL: Dk Real Estates Limited | ★5.0 (0) | 📞 +254 722 204688
+  ✓ QUAL: Idime Real Estate Ltd | ★4.2 (0) | 📞 +254 710 823436
+  ✓ QUAL: Fine Living Properties Kenya | ★5.0 (0) | 📞 +254 111 953954
+  ✓ QUAL: Reaza Enterprises | ★5.0 (0) | 📞 +254 733 417665
+  ✓ QUAL: PEPONI HOMES MOMBASA | ★5.0 (0) | 📞 +254 758 544444
+  ✓ QUAL: Phina Real Estate Valuers Mombasa Kenya | ★4.4 (0) | 📞 +254 715 804237
+  ✓ QUAL: INUKA AFRIKA PROPERTIES LTD | ★4.8 (0) | 📞 +254 711 082084
+  ✓ QUAL: Jimmarl Homes | ★4.7 (18) | 📞 +254 769 734966
+  ✓ QUAL: Bamburi Parkside Estate Kenya Project | ★4.3 (86) | 📞 +254 723 099457
+  ✓ QUAL: GREENLIGHT REAL ESTATE LTD | ★4.5 (8) | 📞 +254 755 881118
+  ✓ QUAL: Homeseekers ltd | ★4.6 (7) | 📞 +254 750 077777
+  ✓ QUAL: RealtorLovetone-kenya | ★3.4 (5) | 📞 +254 723 918168
+  ✓ QUAL: Eureka Homes Ltd | ★3.5 (8) | 📞 +254 727 614313
+  ✓ QUAL: BLISS HOMES | ★5.0 (5) | 📞 +254 722 766267
+  ✓ QUAL: Coral Property | ★3.9 (18) | 📞 +254 729 706600
+  ✓ QUAL: Ammarville Properties | ★4.8 (11) | 📞 +254 731 417435
+  ✓ QUAL: Dahnan Properties Limited | ★3.0 (2) | 📞 +254 754 500600
+  ✓ QUAL: Arkaan Properties | ★3.9 (7) | 📞 +254 718 763704
+  ✓ QUAL: Mombasa Airbnb Nyali/Diani/Malindi/(Kenya) | ★5.0 (2) | 📞 +254 799 809638
+  ✓ QUAL: Avenue Valuers Ltd - Mombasa | ★5.0 (12) | 📞 +254 725 993605
+  ✓ QUAL: Mombasa Homes | ★5.0 (3) | 📞 +254 723 315588
+  ✓ QUAL: Ijara Properties Ltd | ★2.2 (19) | 📞 +254 722 811136
+  ✓ QUAL: Tajiri Luxury Properties Ltd | ★5.0 (21) | 📞 +254 743 430475
+  ✓ QUAL: Realtor Abu | ★5.0 (9) | 📞 +254 742 725533
+  ✓ QUAL: Blueterra Holdings Ltd | ★5.0 (23) | 📞 +254 708 765935
+  ✓ QUAL: Megna Homes | ★4.9 (11) | 📞 +254 748 366666
+  ✓ QUAL: KENYA PROJECTS BUDGET & EXECUTIVE HOMES | ★4.3 (6) | 📞 +254 739 827999
+  ✓ QUAL: Skychoice Properties Ltd | ★4.8 (5) | 📞 +254 700 155181
+  ✓ QUAL: Bandari Villas | ★4.3 (229) | 📞 +254 722 238818
+  ✗ DUMP (low activity): Mintos properties | ★0.0 (0)
+  ✓ QUAL: Dyar Properties Ltd | ★5.0 (3) | 📞 +254 777 348835
+  ✓ QUAL: Shikara Kenya Limited | ★4.3 (75) | 📞 +254 733 975932
+  ✓ QUAL: Goldwyne Consult | ★3.3 (11) | 📞 +254 708 404040
+  ✓ QUAL: Tazama Real Estate Agents | ★5.0 (1) | 📞 +254 700 303113
+  ✗ DUMP (low activity): Arneel Homes Ltd | ★0.0 (0)
+  ✓ QUAL: GraceLink Properties | ★4.1 (16) | 📞 +254 727 875462
+  ✓ QUAL: Crescent Real Estate | ★3.7 (3) | 📞 +254 740 131403
+  ✗ DUMP (low activity): Mombasa,Nyali Airbnb Homes | ★0.0 (0)
+  ✓ QUAL: Chuchu Holiday homes | ★4.9 (15) | 📞 +254 715 518316
+  ✓ QUAL: Pamoja Greenfield Estates | ★4.8 (4) | 📞 +254 746 936019
+  ➤ PHONE-ICON: Raha Leo Estate | ★4.0 (182) | need digits
+  ✓ QUAL: Le Royal apartments | ★4.4 (218) | 📞 +254 726 916166
+  ✓ QUAL: Elegant Investments (1996) Ltd | ★4.0 (4) | 📞 +254 725 326570
+  ✓ QUAL: SMB Properties Mombasa | ★3.7 (7) | 📞 +254 729 888338
+  ✗ DUMP (low activity): Highrise Properties Ltd | ★0.0 (0)
+  ✓ QUAL: Coast Holiday Homes | ★4.9 (206) | 📞 +254 746 272005
+  ✓ QUAL: WAVEMARK PROPERTIES | ★4.9 (9) | 📞 +254 743 666222
+  ✓ QUAL: Amo Properties | ★2.4 (7) | 📞 +254 713 312828
+  ✓ QUAL: Sunset Paradise Holiday Homes | ★4.3 (2189) | 📞 +254 716 950830
+  ✓ QUAL: Miritini Estate | ★4.1 (320) | 📞 +254 725 815847
+  ✓ QUAL: Errands & Homes, Mombasa | ★5.0 (2) | 📞 +254 722 997382
+  ✓ QUAL: Sab Homes ltd | ★5.0 (1) | 📞 +254 790 714163
+  ➤ NO-PHONE-SIGNAL: Apartments Kenya | ★4.4 (211) | will enrich
+  ✓ QUAL: CARINA IDEAL HOMES MOMBASA AND NAIROBI | ★4.2 (5) | 📞 +254 700 452351
+  ✓ QUAL: Gonah Homes | ★5.0 (1) | 📞 +254 799 466723
+  ✓ QUAL: Bamburi Beach Homes | ★4.2 (41) | 📞 +254 733 982516
+  ✓ QUAL: Lefrancs Homes | ★5.0 (1) | 📞 +254 710 999156
+  ✓ QUAL: Jambura Homes - Furnished Apartments (AirBnB) | ★4.9 (19) | 📞 +254 720 137025
+  ✓ QUAL: Home Kwetu Accommodation; Kongoni Place | ★4.6 (14) | 📞 +254 741 987666
+  ✓ QUAL: Salyanis Properties | ★4.5 (2) | 📞 +254 722 513590
+  ✓ QUAL: UDEL REAL ESTATE LTD | ★5.0 (1) | 📞 +254 717 266919
+  ✓ QUAL: Spectrum Homes | ★3.3 (6) | 📞 +254 724 066947
+  ➤ NO-PHONE-SIGNAL: Ridwan Real Estate Ltd Mombasa | ★2.0 (4) | will enrich
+  ✓ QUAL: Mombasa Vacations | ★4.8 (87) | 📞 +254 755 100090
+  ✓ QUAL: No Ordinary Homes Nyali Penthouse | ★5.0 (1) | 📞 +254 723 144865
+  ➤ PHONE-ICON: Links Gardens | ★4.3 (69) | need digits
+  ➤ NO-PHONE-SIGNAL: VEE HOMES KENYA / 3 BEDROOM BEACH FRONT APARTMEN | ★4.7 (3) | will enrich
+  ✗ DUMP (low activity): Destiny Nests Properties | ★0.0 (0)
+  ✓ QUAL: SWAYP MOMBASA | ★4.0 (4) | 📞 +254 733 877089
+  ✓ QUAL: Favorland Ventures | ★3.9 (627) | 📞 +254 759 282987
+  ✗ DUMP (low activity): Stemalin Homes Mombasa | ★0.0 (0)
+  ✗ DUMP (low activity): MOMBASA REAL ESTATE AGENCIES LIMITED | ★0.0 (0)
+  ✓ QUAL: Bansel Properties | ★5.0 (2) | 📞 +254 736 282737
+  ✓ QUAL: Mwanasal vacay homes | ★5.0 (3) | 📞 +254 727 379246
+  ✗ DUMP (low activity): JOSLINK PROPERTY GROUP LIMITED | ★0.0 (0)
+  ➤ PHONE-ICON: Old Mugoya Estate | ★4.3 (8) | need digits
+  ✓ QUAL: Home for Sale | ★5.0 (1) | 📞 +254 722 857831
+  ✓ QUAL: Juspur Properties | ★5.0 (1) | 📞 +254 712 953391
+  ✗ DUMP (low activity): Erica Luxe Homes | ★0.0 (0)
+  ✓ QUAL: Zawadi Homes Staycation mombasa | ★4.3 (3) | 📞 +254 728 716072
+  ✓ QUAL: Al Huda Enterprises Ltd | ★2.7 (6) | 📞 +254 720 438806
+  ✓ QUAL: Registered Valuers & Property Agents, SKYLAND CO | ★5.0 (1) | 📞 +254 708 506265
+  ✓ QUAL: Seretoon Homes | ★3.0 (2) | 📞 +254 700 171510
+  ✓ QUAL: Samco Properties | ★1.0 (1) | 📞 +254 733 200111
+  ✓ QUAL: NorthCoast Homes Developers Limited | ★5.0 (3) | 📞 +254 728 636550
+  ✓ QUAL: Green Leaf Homes & Property Care | ★5.0 (1) | 📞 +254 790 851045
+  ✓ QUAL: Buxton Point Lifestyle Stays | ★4.9 (16) | 📞 +254 113 531819
+  ➤ NO-PHONE-SIGNAL: Zumo Real Estate Agents | ★5.0 (1) | will enrich
+  ✓ QUAL: Likizo Lettings Limited | ★5.0 (2) | 📞 +254 20 7640514
+  ✗ DUMP (low activity): HORTENSIA HOMES | ★0.0 (0)
+  ✓ QUAL: Nesma Homes | ★3.8 (47) | 📞 +254 725 962088
+  ✗ DUMP (low activity): Housso Properties | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Kisimani Heights Apartment | ★4.3 (357) | will enrich
+  ✓ QUAL: Gerchino Homes | ★5.0 (22) | 📞 +254 755 955511
+  ✗ DUMP (low activity): chesterfield homes mombasa | ★0.0 (0)
+  ✓ QUAL: Ary Homestay Nyali Behind City Mall Nyali, Momba | ★4.8 (93) | 📞 +254 723 853621
+  ✗ DUMP (low activity): Tropical Paradise Homes | ★0.0 (0)
+  ➤ PHONE-ICON: Nyali Simba Estate - Gate A | ★4.4 (110) | need digits
+  ✓ QUAL: Black Coffee Homes | ★4.3 (190) | 📞 +254 723 070375
+  ✗ DUMP (low activity): Teejay Homes Holdings Limited | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Jovial homes | ★4.8 (5) | will enrich
+  ✗ DUMP (low activity): Duserio Homes & Properties Management Mombasa | ★0.0 (0)
+  ✗ DUMP (low activity): Delosy Homes Properties Management Mombasa | ★0.0 (0)
+  ✓ QUAL: Beach Road Apartments | ★4.3 (228) | 📞 +254 722 784692
+  ✓ QUAL: Sunshadow agencies @Palm Breeze Apartments | ★4.4 (70) | 📞 +254 754 040142
+  ✗ DUMP (low activity): chaka agencies | ★0.0 (0)
+  ✗ DUMP (low activity): Alliance Realtors Ltd. | ★0.0 (0)
+
+  ── 90 qualified + 11 phone-icon-needs-enrich | 19 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 58 confirmed no-website
+Pool: 101 candidates
+============================================================
+
+  [1/101] Amor Homes...
+     📞 +254 716 951541 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.amorhomes.co.ke/) — 1 so far
+  [2/101] Benford Homes...
+     📞 +254 723 753607 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.benfordhomes.com/) — 2 so far
+  [3/101] KRUSS Properties...
+     📞 +254 703 846197 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://kruss.co.ke/) — 3 so far
+  [4/101] DK REAL ESTATES LTD (Nyali Office)...
+     📞 +254 729 204688 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.dkrel.com/) — 4 so far
+  [5/101] Nairobi Homes Mombasa Ltd...
+     📞 +254 722 565888 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://nairobihomesmsa.com/) — 5 so far
+  [6/101] UrbanPoint Properties Ltd...
+     📞 +254 726 763061 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.urbanpointproperties.co.ke/) — 6 so far
+  [7/101] Edgestone Real Estate, KE...
+     📞 +254 743 606131 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://edgestonerealty.co.ke/) — 7 so far
+  [8/101] Residence Real Estate...
+     📞 +254 722 618266 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.residence.co.ke/) — 8 so far
+  [9/101] 𝐉𝐎𝐂𝐇𝐀𝐎-𝐋𝐈𝐍𝐊𝐒𝐇𝐎𝐌𝐄 (𝐊) 𝐋𝐓𝐃...
+     📞 +254 736 283088 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (1/58)
+  [10/101] Avenue Vista Property Center Mombasa...
+     📞 +254 797 670765 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://avenuepropertycenterkenya.com/) — 9 so far
+  [11/101] Kilifi Properties...
+     📞 +254 727 572626 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://kilifiproperties.co.ke/) — 10 so far
+  [12/101] Dk Real Estates Limited...
+     📞 +254 722 204688 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.dkrel.com/) — 11 so far
+  [13/101] Idime Real Estate Ltd...
+     📞 +254 710 823436 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (2/58)
+  [14/101] Fine Living Properties Kenya...
+     📞 +254 111 953954 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.finelivingproperties.co.ke/) — 12 so far
+  [15/101] Reaza Enterprises...
+     📞 +254 733 417665 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (3/58)
+  [16/101] PEPONI HOMES MOMBASA...
+     📞 +254 758 544444 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://zurihomesmombasa.ke-hotel.com/fr/) — 13 so far
+  [17/101] Phina Real Estate Valuers Mombasa Kenya...
+     📞 +254 715 804237 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://phinavaluers.co.ke/) — 14 so far
+  [18/101] INUKA AFRIKA PROPERTIES LTD...
+     📞 +254 711 082084 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://inukaproperties.co.ke/) — 15 so far
+  [19/101] Jimmarl Homes...
+     📞 +254 769 734966 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://jimmarlhomes.com/) — 16 so far
+  [20/101] Bamburi Parkside Estate Kenya Project...
+     📞 +254 723 099457 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/58)
+  [21/101] GREENLIGHT REAL ESTATE LTD...
+     📞 +254 755 881118 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.greenlightrealestate.co.ke/) — 17 so far
+  [22/101] Homeseekers ltd...
+     📞 +254 750 077777 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.homeseekers.co.ke/) — 18 so far
+  [23/101] RealtorLovetone-kenya...
+     📞 +254 723 918168 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://g.page/realtorlovetone-kenya) — 19 so far
+  [24/101] Eureka Homes Ltd...
+     📞 +254 727 614313 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (5/58)
+  [25/101] BLISS HOMES...
+     📞 +254 722 766267 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://blisshomes.co.ke/) — 20 so far
+  [26/101] Coral Property...
+     📞 +254 729 706600 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://coralpropertykenya.com/) — 21 so far
+  [27/101] Ammarville Properties...
+     📞 +254 731 417435 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://ammarvilleproperties.co.ke/) — 22 so far
+  [28/101] Dahnan Properties Limited...
+     📞 +254 754 500600 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.dahnanproperties.com/) — 23 so far
+  [29/101] Arkaan Properties...
+     📞 +254 718 763704 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (6/58)
+  [30/101] Mombasa Airbnb Nyali/Diani/Malindi/(Kenya)...
+     📞 +254 799 809638 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (7/58)
+  [31/101] Avenue Valuers Ltd - Mombasa...
+     📞 +254 725 993605 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://avenuevaluers.co.ke/) — 24 so far
+  [32/101] Mombasa Homes...
+     📞 +254 723 315588 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://mombasahomes.org/) — 25 so far
+  [33/101] Ijara Properties Ltd...
+     📞 +254 722 811136 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.ijaraproperties.com/) — 26 so far
+  [34/101] Tajiri Luxury Properties Ltd...
+     📞 +254 743 430475 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.tajiriluxuryproperties.com/) — 27 so far
+  [35/101] Realtor Abu...
+     📞 +254 742 725533 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/58)
+  [36/101] Blueterra Holdings Ltd...
+     📞 +254 708 765935 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://blueterra.co.ke/) — 28 so far
+  [37/101] Megna Homes...
+     📞 +254 748 366666 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.megnahomes.com/) — 29 so far
+  [38/101] KENYA PROJECTS BUDGET & EXECUTIVE HOMES...
+     📞 +254 739 827999 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://budgethomeskenya.blogspot.com/) — 30 so far
+  [39/101] Skychoice Properties Ltd...
+     📞 +254 700 155181 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.skychoiceproperties.com/) — 31 so far
+  [40/101] Bandari Villas...
+     📞 +254 722 238818 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (9/58)
+  [41/101] Dyar Properties Ltd...
+     📞 +254 777 348835 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://dyarproperties.co.ke/) — 32 so far
+  [42/101] Shikara Kenya Limited...
+     📞 +254 733 975932 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://shikarakenya.com/) — 33 so far
+  [43/101] Goldwyne Consult...
+     📞 +254 708 404040 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.goldwyne.com/) — 34 so far
+  [44/101] Tazama Real Estate Agents...
+     📞 +254 700 303113 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (10/58)
+  [45/101] GraceLink Properties...
+     📞 +254 727 875462 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (11/58)
+  [46/101] Crescent Real Estate...
+     📞 +254 740 131403 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (https://crescentrealestate.co.ke/) — 35 so far
+  [47/101] Chuchu Holiday homes...
+     📞 +254 715 518316 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://chuchuholidayhomes.co.ke/) — 36 so far
+  [48/101] Pamoja Greenfield Estates...
+     📞 +254 746 936019 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.greenfieldestates.co.ke/) — 37 so far
+  [49/101] Le Royal apartments...
+     📞 +254 726 916166 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (12/58)
+  [50/101] Elegant Investments (1996) Ltd...
+     📞 +254 725 326570 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.elegant.co.ke/) — 38 so far
+  [51/101] SMB Properties Mombasa...
+     📞 +254 729 888338 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.smb.ke/) — 39 so far
+  [52/101] Coast Holiday Homes...
+     📞 +254 746 272005 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.coastholidayhomes.co.ke/) — 40 so far
+  [53/101] WAVEMARK PROPERTIES...
+     📞 +254 743 666222 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://wavemarkproperties.com/) — 41 so far
+  [54/101] Amo Properties...
+     📞 +254 713 312828 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (13/58)
+  [55/101] Sunset Paradise Holiday Homes...
+     📞 +254 716 950830 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.sunsetparadiseholidayhomes.com/) — 42 so far
+  [56/101] Miritini Estate...
+     📞 +254 725 815847 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (14/58)
+  [57/101] Errands & Homes, Mombasa...
+     📞 +254 722 997382 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://www.mombasa-homes.com/) — 43 so far
+  [58/101] Sab Homes ltd...
+     📞 +254 790 714163 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://sabhomes.com/floor-plan/) — 44 so far
+  [59/101] CARINA IDEAL HOMES MOMBASA AND NAIROBI...
+     📞 +254 700 452351 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (15/58)
+  [60/101] Gonah Homes...
+     📞 +254 799 466723 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://salim-code.github.io/Gonah-Homes-website/) — 45 so far
+  [61/101] Bamburi Beach Homes...
+     📞 +254 733 982516 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (16/58)
+  [62/101] Lefrancs Homes...
+     📞 +254 710 999156 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (17/58)
+  [63/101] Jambura Homes - Furnished Apartments (AirBnB)...
+     📞 +254 720 137025 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (18/58)
+  [64/101] Home Kwetu Accommodation; Kongoni Place...
+     📞 +254 741 987666 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (19/58)
+  [65/101] Salyanis Properties...
+     📞 +254 722 513590 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (20/58)
+  [66/101] UDEL REAL ESTATE LTD...
+     📞 +254 717 266919 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (21/58)
+  [67/101] Spectrum Homes...
+     📞 +254 724 066947 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (22/58)
+  [68/101] Mombasa Vacations...
+     📞 +254 755 100090 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://mombasavacations.com/) — 46 so far
+  [69/101] No Ordinary Homes Nyali Penthouse...
+     📞 +254 723 144865 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://noordinaryhomes.co.ke/) — 47 so far
+  [70/101] SWAYP MOMBASA...
+     📞 +254 733 877089 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (23/58)
+  [71/101] Favorland Ventures...
+     📞 +254 759 282987 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (24/58)
+  [72/101] Bansel Properties...
+     📞 +254 736 282737 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.banselproperties.co.ke/) — 48 so far
+  [73/101] Mwanasal vacay homes...
+     📞 +254 727 379246 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (25/58)
+  [74/101] Home for Sale...
+     📞 +254 722 857831 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (26/58)
+  [75/101] Juspur Properties...
+     📞 +254 712 953391 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (27/58)
+  [76/101] Zawadi Homes Staycation mombasa...
+     📞 +254 728 716072 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://tabbysstaycationmombasa.ke-hotel.com/) — 49 so far
+  [77/101] Al Huda Enterprises Ltd...
+     📞 +254 720 438806 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (28/58)
+  [78/101] Registered Valuers & Property Agents, SKYLAND...
+     📞 +254 708 506265 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.skylandconsultants.co.ke/) — 50 so far
+  [79/101] Seretoon Homes...
+     📞 +254 700 171510 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://seretoons.com/) — 51 so far
+  [80/101] Samco Properties...
+     📞 +254 733 200111 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://samcoproperties.com/properties/) — 52 so far
+  [81/101] NorthCoast Homes Developers Limited...
+     📞 +254 728 636550 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (29/58)
+  [82/101] Green Leaf Homes & Property Care...
+     📞 +254 790 851045 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://www.greenleafrealtors.com/) — 53 so far
+  [83/101] Buxton Point Lifestyle Stays...
+     📞 +254 113 531819 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.gulfcapre.co.ke/) — 54 so far
+  [84/101] Likizo Lettings Limited...
+     📞 +254 20 7640514 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://likizolettings.co.ke/) — 55 so far
+  [85/101] Nesma Homes...
+     📞 +254 725 962088 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.nesmahomes.co.ke/) — 56 so far
+  [86/101] Gerchino Homes...
+     📞 +254 755 955511 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (30/58)
+  [87/101] Ary Homestay Nyali Behind City Mall Nyali, Mo...
+     📞 +254 723 853621 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://aryhomestayavenuemombasa.ke-hotel.com/) — 57 so far
+  [88/101] Black Coffee Homes...
+     📞 +254 723 070375 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://blackcoffeehomes.xyz/) — 58 so far
+  [89/101] Beach Road Apartments...
+     📞 +254 722 784692 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (31/58)
+  [90/101] Sunshadow agencies @Palm Breeze Apartments...
+     📞 +254 754 040142 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://stayo.site/sunshadoagen) — 59 so far
+  [91/101] Emaar Luxe Properties Kenya...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [92/101] Raha Leo Estate...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [93/101] Apartments Kenya...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [94/101] Ridwan Real Estate Ltd Mombasa...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [95/101] Links Gardens...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [96/101] VEE HOMES KENYA / 3 BEDROOM BEACH FRONT APART...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [97/101] Old Mugoya Estate...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [98/101] Zumo Real Estate Agents...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [99/101] Kisimani Heights Apartment...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [100/101] Nyali Simba Estate - Gate A...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [101/101] Jovial homes...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+
+  ── Final: 31/58 confirmed no-website leads, 59 has-website leads (checked 101/101 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Real Estate Agents in Mombasa, Kenya
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   𝐉𝐎𝐂𝐇𝐀𝐎-𝐋𝐈𝐍𝐊𝐒𝐇𝐎𝐌𝐄 (𝐊) 𝐋𝐓𝐃               +254 736 283088    5.0   53   
+2   Idime Real Estate Ltd                  +254 710 823436    4.2   11   
+3   Reaza Enterprises                      +254 733 417665    5.0   40   
+4   Bamburi Parkside Estate Kenya Projec   +254 723 099457    4.3   86   
+5   Eureka Homes Ltd                       +254 727 614313    3.5   8    
+6   Arkaan Properties                      +254 718 763704    3.9   7    
+7   Mombasa Airbnb Nyali/Diani/Malindi/(   +254 799 809638    5.0   2    
+8   Realtor Abu                            +254 742 725533    5.0   9    
+9   Bandari Villas                         +254 722 238818    4.3   229  
+10  Tazama Real Estate Agents              +254 700 303113    5.0   1    
+11  GraceLink Properties                   +254 727 875462    4.1   16   
+12  Le Royal apartments                    +254 726 916166    4.4   218  
+13  Amo Properties                         +254 713 312828    2.4   7    
+14  Miritini Estate                        +254 725 815847    4.1   320  
+15  CARINA IDEAL HOMES MOMBASA AND NAIRO   +254 700 452351    4.2   5    
+16  Bamburi Beach Homes                    +254 733 982516    4.2   41   
+17  Lefrancs Homes                         +254 710 999156    5.0   1    
+18  Jambura Homes - Furnished Apartments   +254 720 137025    4.9   19   
+19  Home Kwetu Accommodation; Kongoni Pl   +254 741 987666    4.6   14   
+20  Salyanis Properties                    +254 722 513590    4.5   2    
+21  UDEL REAL ESTATE LTD                   +254 717 266919    5.0   1    
+22  Spectrum Homes                         +254 724 066947    3.3   6    
+23  SWAYP MOMBASA                          +254 733 877089    4.0   4    
+24  Favorland Ventures                     +254 759 282987    3.9   627  
+25  Mwanasal vacay homes                   +254 727 379246    5.0   3    
+26  Home for Sale                          +254 722 857831    5.0   1    
+27  Juspur Properties                      +254 712 953391    5.0   1    
+28  Al Huda Enterprises Ltd                +254 720 438806    2.7   6    
+29  NorthCoast Homes Developers Limited    +254 728 636550    5.0   3    
+30  Gerchino Homes                         +254 755 955511    5.0   22   
+31  Beach Road Apartments                  +254 722 784692    4.3   228  
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Real Estate Agents in Mombasa, Kenya
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Amor Homes                             +254 716 951541    4.7   544  
+2   Benford Homes                          +254 723 753607    4.9   28   
+3   KRUSS Properties                       +254 703 846197    4.6   58   
+4   DK REAL ESTATES LTD (Nyali Office)     +254 729 204688    4.6   18   
+5   Nairobi Homes Mombasa Ltd              +254 722 565888    3.5   57   
+6   UrbanPoint Properties Ltd              +254 726 763061    4.8   14   
+7   Edgestone Real Estate, KE              +254 743 606131    4.8   76   
+8   Residence Real Estate                  +254 722 618266    5.0   3    
+9   Avenue Vista Property Center Mombasa   +254 797 670765    5.0   9    
+10  Kilifi Properties                      +254 727 572626    4.8   49   
+11  Dk Real Estates Limited                +254 722 204688    5.0   18   
+12  Fine Living Properties Kenya           +254 111 953954    5.0   1    
+13  PEPONI HOMES MOMBASA                   +254 758 544444    5.0   11   
+14  Phina Real Estate Valuers Mombasa Ke   +254 715 804237    4.4   8    
+15  INUKA AFRIKA PROPERTIES LTD            +254 711 082084    4.8   76   
+16  Jimmarl Homes                          +254 769 734966    4.7   18   
+17  GREENLIGHT REAL ESTATE LTD             +254 755 881118    4.5   8    
+18  Homeseekers ltd                        +254 750 077777    4.6   7    
+19  RealtorLovetone-kenya                  +254 723 918168    3.4   5    
+20  BLISS HOMES                            +254 722 766267    5.0   5    
+21  Coral Property                         +254 729 706600    3.9   18   
+22  Ammarville Properties                  +254 731 417435    4.8   11   
+23  Dahnan Properties Limited              +254 754 500600    3.0   2    
+24  Avenue Valuers Ltd - Mombasa           +254 725 993605    5.0   12   
+25  Mombasa Homes                          +254 723 315588    5.0   3    
+26  Ijara Properties Ltd                   +254 722 811136    2.2   19   
+27  Tajiri Luxury Properties Ltd           +254 743 430475    5.0   21   
+28  Blueterra Holdings Ltd                 +254 708 765935    5.0   23   
+29  Megna Homes                            +254 748 366666    4.9   11   
+30  KENYA PROJECTS BUDGET & EXECUTIVE HO   +254 739 827999    4.3   6    
+31  Skychoice Properties Ltd               +254 700 155181    4.8   5    
+32  Dyar Properties Ltd                    +254 777 348835    5.0   3    
+33  Shikara Kenya Limited                  +254 733 975932    4.3   75   
+34  Goldwyne Consult                       +254 708 404040    3.3   11   
+35  Crescent Real Estate                   +254 740 131403    3.7   3    
+36  Chuchu Holiday homes                   +254 715 518316    4.9   15   
+37  Pamoja Greenfield Estates              +254 746 936019    4.8   4    
+38  Elegant Investments (1996) Ltd         +254 725 326570    4.0   4    
+39  SMB Properties Mombasa                 +254 729 888338    3.7   7    
+40  Coast Holiday Homes                    +254 746 272005    4.9   206  
+41  WAVEMARK PROPERTIES                    +254 743 666222    4.9   9    
+42  Sunset Paradise Holiday Homes          +254 716 950830    4.3   2189 
+43  Errands & Homes, Mombasa               +254 722 997382    5.0   2    
+44  Sab Homes ltd                          +254 790 714163    5.0   1    
+45  Gonah Homes                            +254 799 466723    5.0   1    
+46  Mombasa Vacations                      +254 755 100090    4.8   87   
+47  No Ordinary Homes Nyali Penthouse      +254 723 144865    5.0   1    
+48  Bansel Properties                      +254 736 282737    5.0   2    
+49  Zawadi Homes Staycation mombasa        +254 728 716072    4.3   3    
+50  Registered Valuers & Property Agents   +254 708 506265    5.0   1    
+51  Seretoon Homes                         +254 700 171510    3.0   2    
+52  Samco Properties                       +254 733 200111    1.0   1    
+53  Green Leaf Homes & Property Care       +254 790 851045    5.0   1    
+54  Buxton Point Lifestyle Stays           +254 113 531819    4.9   16   
+55  Likizo Lettings Limited                +254 20 7640514    5.0   2    
+56  Nesma Homes                            +254 725 962088    3.8   47   
+57  Ary Homestay Nyali Behind City Mall    +254 723 853621    4.8   93   
+58  Black Coffee Homes                     +254 723 070375    4.3   190  
+59  Sunshadow agencies @Palm Breeze Apar   +254 754 040142    4.4   70   
+================================================================================
+
+
+  ── Area 'Mombasa, Kenya' contributed 31 new no-website leads, 58 new has-website leads (running total: 33/60 no-website, 91 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/nairobi_realestate.csv (33 rows), /workspaces/Hermes-leads/stress_run/nairobi_realestate_has_website.csv (91 rows)
+
+
+######################################################################
+# AREA: Kisumu, Kenya  (need 27 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Real Estate Agents  |  Location: Kisumu, Kenya  |  Region hint: KE
+#  Target: 27 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Real Estate Agents Kisumu, Kenya
+Cap: 150 listings
+============================================================
+
+  [1] 12/150 listings
+  [2] 20/150 listings
+  [3] 30/150 listings
+  [4] 38/150 listings
+  [5] 50/150 listings
+  [6] 58/150 listings
+  [7] 70/150 listings
+  [8] 78/150 listings
+  [9] 90/150 listings
+  [10] 98/150 listings
+  [11] 108/150 listings
+  [12] 116/150 listings
+  [13] 116/150 listings
+  [14] 116/150 listings
+  [15] 116/150 listings
+  [16] 116/150 listings
+  [17] 116/150 listings
+  [18] 116/150 listings
+  [19] 116/150 listings
+  [20] 116/150 listings
+  [21] 116/150 listings
+  [22] 116/150 listings
+  [23] 116/150 listings
+  [24] 116/150 listings
+  [25] 116/150 listings
+  [26] 116/150 listings
+  [27] 116/150 listings
+  [28] 116/150 listings
+  [29] 116/150 listings
+  [30] 116/150 listings
+
+  ✓ Discovery: 116 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+     ⚠ OSM Overpass query failed for 'Real Estate Agents' in 'Kisumu, Kenya' (2 attempts): HTTP Error 504: Gateway Timeout
+  ── OSM: 0 found, 0 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 116
+============================================================
+
+  ── 116 pass (no website) | 0 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ✓ QUAL: Lake Estate Agency Ltd. | ★4.9 (0) | 📞 +254 723 553114
+  ✓ QUAL: Kizazi Realtors Ltd | ★4.4 (0) | 📞 +254 726 436312
+  ✓ QUAL: Bulimo Kisumu Nyumba Pap Real Estate company. | ★5.0 (0) | 📞 +254 791 582961
+  ✓ QUAL: West Kenya Real Estate Ltd | ★4.5 (0) | 📞 +254 789 217685
+  ✓ QUAL: Posh Prime Properties Limited | ★5.0 (0) | 📞 +254 711 591692
+  ✓ QUAL: Kisumu Real Estates | ★4.0 (0) | 📞 +254 57 202778
+  ✓ QUAL: Zeddy Real Estates | ★5.0 (0) | 📞 +254 703 287361
+  ✓ QUAL: Tysons Ltd- Kisumu | ★5.0 (0) | 📞 +254 57 2022713
+  ➤ NO-PHONE-SIGNAL: Nafaka House Kisumu | ★3.8 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Luxury Gardens, Riat by KenMark Realtors | ★5.0 (0) | will enrich
+  ✓ QUAL: KISUMU DALA REALTORS | ★4.0 (0) | 📞 +254 728 423487
+  ✓ QUAL: The Little Cave kisumu | ★4.5 (0) | 📞 +254 723 453927
+  ➤ NO-PHONE-SIGNAL: Kisumu Classic Homes | ★5.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Matmon Africa LTD | ★5.0 (0) | will enrich
+  ✗ DUMP (low activity): Matmon Realestate | ★0.0 (0)
+  ✓ QUAL: Qweist Properties | ★5.0 (0) | 📞 +254 111 656769
+  ✗ DUMP (low activity): Kisumu Real Estates-Kisumu | ★0.0 (0)
+  ✓ QUAL: Kisumu Furnished Apartments | ★4.5 (0) | 📞 +254 735 076121
+  ✓ QUAL: BaseMark Valuers and Property Consultants | ★5.0 (0) | 📞 +254 794 858749
+  ✓ QUAL: ABK Real State Agency | ★3.0 (0) | 📞 +254 734 071115
+  ✗ DUMP (low activity): Soreli Kisumu Airbnb OFFICIAL | ★0.0 (0)
+  ✓ QUAL: Milimani Garden Apartments | ★4.5 (66) | 📞 +254 711 076121
+  ✓ QUAL: NOLCARE AIRBnB KISUMU | ★5.0 (25) | 📞 +254 708 662095
+  ✓ QUAL: Inka Residency | ★5.0 (1) | 📞 +254 724 833192
+  ✗ DUMP (low activity): Duw Real Estate Consultants | ★0.0 (0)
+  ✓ QUAL: Crystal Valuers Ltd | ★5.0 (1) | 📞 +254 57 2025013
+  ✓ QUAL: Vacant Houses And Plots In Kisumu | ★5.0 (3) | 📞 +254 710 243450
+  ✓ QUAL: Lily nyasembo's Airbnb | ★4.8 (12) | 📞 +254 724 744428
+  ✗ DUMP (low activity): Abk Real Estate Agency | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Old GUDKA ESTATE | ★4.1 (7) | will enrich
+  ✓ QUAL: NileOT Acres | ★4.3 (3) | 📞 +254 727 142339
+  ✓ QUAL: Kisumu Royal Properties Ltd | ★5.0 (2) | 📞 +254 770 058519
+  ✗ DUMP (low activity): Lake Estate Agency Ltd | ★0.0 (0)
+  ✗ DUMP (low activity): Hills View, Lake Estate Agency Property | ★0.0 (0)
+  ✗ DUMP (low activity): OPTWISE HOMES LIMITED | ★0.0 (0)
+  ➤ PHONE-ICON: Mountain View Estate | ★3.9 (302) | need digits
+  ✓ QUAL: STAR COMPLEX | ★5.0 (5) | 📞 +254 722 840975
+  ➤ NO-PHONE-SIGNAL: Barack Obama Estate | ★4.4 (8) | will enrich
+  ➤ PHONE-ICON: Divine Homes Kisumu | ★4.0 (56) | need digits
+  ✓ QUAL: Philip's House, Polyview Estate Kisumu | ★4.0 (37) | 📞 +254 721 931253
+  ✓ QUAL: Translakes Estate | ★3.9 (113) | 📞 +254 706 328086
+  ✗ DUMP (low activity): HILLS IMPACT PROPERTIES | ★0.0 (0)
+  ✗ DUMP (low activity): Biz Brokers Kisumu | ★0.0 (0)
+  ✓ QUAL: Property Agent | ★2.0 (1) | 📞 +254 721 759884
+  ✓ QUAL: JIRANY | ★5.0 (1) | 📞 +254 736 070701
+  ➤ NO-PHONE-SIGNAL: REAL SPACE HOMES WS | ★5.0 (1) | will enrich
+  ✗ DUMP (low activity): Maisha Real Estate Agency | ★0.0 (0)
+  ➤ PHONE-ICON: Global Implementation Solutions | ★4.5 (6) | need digits
+  ✗ DUMP (low activity): Mid Town Agencies | ★0.0 (0)
+  ✗ DUMP (low activity): GOGNI LAND AGENT | ★0.0 (0)
+  ✓ QUAL: SweetHome Furnished Apartments Kisumu | ★5.0 (4) | 📞 +254 705 517774
+  ✓ QUAL: Pambo Investment Auctioneers | ★3.0 (7) | 📞 +254 721 544702
+  ✓ QUAL: Marwa executive Airbnb | ★5.0 (1) | 📞 +254 796 526093
+  ✗ DUMP (low activity): oHme Africa Limited | ★0.0 (0)
+  ✓ QUAL: Dee's Airbnb | ★5.0 (2) | 📞 +254 720 814218
+  ✗ DUMP (low activity): Mole Properties Agency | ★0.0 (0)
+  ➤ PHONE-ICON: Arina estate | ★3.0 (5) | need digits
+  ✓ QUAL: Annodas Homes Milimani | ★4.6 (106) | 📞 +254 757 779415
+  ✗ DUMP (low activity): Desh Investment | ★0.0 (0)
+  ✗ DUMP (low activity): Tom & Co Agencies | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Dansal & Associates Ltd | ★1.0 (1) | will enrich
+  ✗ DUMP (low activity): Komala estate | ★0.0 (0)
+  ✗ DUMP (low activity): JUSERI AGENCIES | ★0.0 (0)
+  ✓ QUAL: Msanii Hostel booking Agencies | ★5.0 (1) | 📞 +254 794 340238
+  ✗ DUMP (low activity): Frenet Capital Investments LTD | ★0.0 (0)
+  ✓ QUAL: Makasembo 2 bedroomed Stay near Mega City Mall K | ★5.0 (2) | 📞 +254 732 741827
+  ✓ QUAL: Avishai Homes | ★4.6 (37) | 📞 +254 708 080851
+  ✓ QUAL: Kanyakwar Housing Project | ★4.2 (30) | 📞 +254 710 278479
+  ✗ DUMP (low activity): Brazely enterprise | ★0.0 (0)
+  ✓ QUAL: QORA Homes | ★5.0 (27) | 📞 +254 791 586758
+  ✓ QUAL: Divine Homes Resort Kisumu — Hotel, Conference & | ★4.3 (336) | 📞 +254 794 003093
+  ✗ DUMP (low activity): Pasmag Investments LTD | ★0.0 (0)
+  ➤ PHONE-ICON: Anderson Park Estate | ★4.4 (5) | need digits
+  ✓ QUAL: KARMUSE APARTMENTS | ★4.0 (1) | 📞 +254 723 275345
+  ✓ QUAL: Agape Management Agents | ★1.0 (1) | 📞 +254 20 2040675
+  ✓ QUAL: REAL SPACE HOMES - MAIN | ★4.0 (23) | 📞 +254 732 888985
+  ✓ QUAL: Opande Africa Investments | ★4.0 (6) | 📞 +254 723 388293
+  ✗ DUMP (low activity): Joyray | ★0.0 (0)
+  ✗ DUMP (low activity): Winam Property Consultants | ★0.0 (0)
+  ✗ DUMP (low activity): PAT'S KISUMU PLOTS | ★0.0 (0)
+  ✓ QUAL: Makasembo housing by Lapfund | ★4.4 (38) | 📞 +254 733 981751
+  ✓ QUAL: Odusi Consultants | ★3.7 (3) | 📞 +254 721 519215
+  ✗ DUMP (low activity): Prime Assess Property Consultants | ★0.0 (0)
+  ✗ DUMP (low activity): Mercus | ★0.0 (0)
+  ✓ QUAL: Arwaki Lakeside Homes | ★5.0 (2) | 📞 +254 718 115037
+  ✗ DUMP (low activity): Rentex Co-Working Offices | ★0.0 (0)
+  ✓ QUAL: Odongo Kabita & Co. Valuers | ★4.5 (2) | 📞 +254 719 108267
+  ✗ DUMP (low activity): Life house rentals | ★0.0 (0)
+  ✓ QUAL: tiamcy homes | ★5.0 (2) | 📞 +254 718 905410
+  ✓ QUAL: Daily errands | ★4.9 (7) | 📞 +254 768 983934
+  ✗ DUMP (low activity): Vision Agencies | ★0.0 (0)
+  ✗ DUMP (low activity): Lady Property Consultants | ★0.0 (0)
+  ✗ DUMP (low activity): Ring Road Annex | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Kadson Homes | ★4.0 (2) | will enrich
+  ✗ DUMP (low activity): Gillian Ent | ★0.0 (0)
+  ✗ DUMP (low activity): Sera villas. Mamboleo | ★0.0 (0)
+  ➤ PHONE-ICON: Nyalenda Railway Estate | ★4.0 (4) | need digits
+  ✗ DUMP (low activity): Property Invest | ★0.0 (0)
+  ✗ DUMP (low activity): Angira Court Apartment | ★0.0 (0)
+  ✓ QUAL: Rosewood Apartments | ★4.4 (84) | 📞 +254 773 246422
+  ✗ DUMP (low activity): Orchid Properties | ★0.0 (0)
+  ✗ DUMP (low activity): Jayden socks | ★0.0 (0)
+  ✗ DUMP (low activity): Gemlandia Investors Limited | ★0.0 (0)
+  ✗ DUMP (low activity): Vines Enterprises | ★0.0 (0)
+  ✗ DUMP (low activity): Fapcl Group | ★0.0 (0)
+  ✗ DUMP (low activity): Emmanuel | ★0.0 (0)
+  ✗ DUMP (low activity): CEEROD HOLDINGS LTD | ★0.0 (0)
+  ✓ QUAL: Algond Apartments and Homes | ★5.0 (3) | 📞 +254 799 799933
+  ✗ DUMP (low activity): Real Appraisal Ltd - Kisumu Office | ★0.0 (0)
+  ✗ DUMP (low activity): Detho Services | ★0.0 (0)
+  ✗ DUMP (low activity): KISUMU AIRBNB COSY STAY | ★0.0 (0)
+  ✗ DUMP (low activity): Leo Realtors Ltd | ★0.0 (0)
+  ✗ DUMP (low activity): Elite Management Services | ★0.0 (0)
+  ✗ DUMP (low activity): Kisumu Highpark Homes | ★0.0 (0)
+  ✓ QUAL: Sevian Suites Kisumu | ★4.4 (28) | 📞 +254 798 985277
+  ✗ DUMP (low activity): GLO Shelter | ★0.0 (0)
+
+  ── 51 qualified + 15 phone-icon-needs-enrich | 50 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 27 confirmed no-website
+Pool: 66 candidates
+============================================================
+
+  [1/66] Lake Estate Agency Ltd....
+     📞 +254 723 553114 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.lakestateagency.com/) — 1 so far
+  [2/66] Kizazi Realtors Ltd...
+     📞 +254 726 436312 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://kizazirealtors.co.ke/) — 2 so far
+  [3/66] Bulimo Kisumu Nyumba Pap Real Estate company....
+     📞 +254 791 582961 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (1/27)
+  [4/66] West Kenya Real Estate Ltd...
+     📞 +254 789 217685 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://westkenyarealestate.com/) — 3 so far
+  [5/66] Posh Prime Properties Limited...
+     📞 +254 711 591692 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (2/27)
+  [6/66] Kisumu Real Estates...
+     📞 +254 57 202778 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (3/27)
+  [7/66] Zeddy Real Estates...
+     📞 +254 703 287361 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/27)
+  [8/66] Tysons Ltd- Kisumu...
+     📞 +254 57 2022713 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.tysons.co.ke/) — 4 so far
+  [9/66] KISUMU DALA REALTORS...
+     📞 +254 728 423487 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://kisumudala.com/) — 5 so far
+  [10/66] The Little Cave kisumu...
+     📞 +254 723 453927 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://thelittlecave.co.ke/) — 6 so far
+  [11/66] Qweist Properties...
+     📞 +254 111 656769 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.qweist.com/) — 7 so far
+  [12/66] Kisumu Furnished Apartments...
+     📞 +254 735 076121 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://aptnamsfurnishedkisumu.ke-hotel.com/) — 8 so far
+  [13/66] BaseMark Valuers and Property Consultants...
+     📞 +254 794 858749 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (5/27)
+  [14/66] ABK Real State Agency...
+     📞 +254 734 071115 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (6/27)
+  [15/66] Milimani Garden Apartments...
+     📞 +254 711 076121 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://milimani-kisumu-standard-gardens-apartment.nochi.com/) — 9 so far
+  [16/66] NOLCARE AIRBnB KISUMU...
+     📞 +254 708 662095 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (7/27)
+  [17/66] Inka Residency...
+     📞 +254 724 833192 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.inkaresidency.co.ke/) — 10 so far
+  [18/66] Crystal Valuers Ltd...
+     📞 +254 57 2025013 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://crystalvaluers.com/) — 11 so far
+  [19/66] Vacant Houses And Plots In Kisumu...
+     📞 +254 710 243450 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/27)
+  [20/66] Lily nyasembo's Airbnb...
+     📞 +254 724 744428 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (9/27)
+  [21/66] NileOT Acres...
+     📞 +254 727 142339 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (10/27)
+  [22/66] Kisumu Royal Properties Ltd...
+     📞 +254 770 058519 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://krpl.co.ke/) — 12 so far
+  [23/66] STAR COMPLEX...
+     📞 +254 722 840975 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (11/27)
+  [24/66] Philip's House, Polyview Estate Kisumu...
+     📞 +254 721 931253 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (12/27)
+  [25/66] Translakes Estate...
+     📞 +254 706 328086 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (13/27)
+  [26/66] Property Agent...
+     📞 +254 721 759884 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (14/27)
+  [27/66] JIRANY...
+     📞 +254 736 070701 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://jirany.com/) — 13 so far
+  [28/66] SweetHome Furnished Apartments Kisumu...
+     📞 +254 705 517774 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://aptnamsfurnishedkisumu.ke-hotel.com/) — 14 so far
+  [29/66] Pambo Investment Auctioneers...
+     📞 +254 721 544702 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (15/27)
+  [30/66] Marwa executive Airbnb...
+     📞 +254 796 526093 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (16/27)
+  [31/66] Dee's Airbnb...
+     📞 +254 720 814218 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (17/27)
+  [32/66] Annodas Homes Milimani...
+     📞 +254 757 779415 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://annodashomes.com/) — 15 so far
+  [33/66] Msanii Hostel booking Agencies...
+     📞 +254 794 340238 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (18/27)
+  [34/66] Makasembo 2 bedroomed Stay near Mega City Mal...
+     📞 +254 732 741827 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (19/27)
+  [35/66] Avishai Homes...
+     📞 +254 708 080851 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://avishaihomeskisumu.ke-hotel.com/) — 16 so far
+  [36/66] Kanyakwar Housing Project...
+     📞 +254 710 278479 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (20/27)
+  [37/66] QORA Homes...
+     📞 +254 791 586758 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (21/27)
+  [38/66] Divine Homes Resort Kisumu — Hotel, Conferenc...
+     📞 +254 794 003093 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.dhr.co.ke/) — 17 so far
+  [39/66] KARMUSE APARTMENTS...
+     📞 +254 723 275345 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (22/27)
+  [40/66] Agape Management Agents...
+     📞 +254 20 2040675 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (23/27)
+  [41/66] REAL SPACE HOMES - MAIN...
+     📞 +254 732 888985 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (24/27)
+  [42/66] Opande Africa Investments...
+     📞 +254 723 388293 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (https://www.opandeafrica.com/) — 18 so far
+  [43/66] Makasembo housing by Lapfund...
+     📞 +254 733 981751 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (http://www.southfront.co.ke/) — 19 so far
+  [44/66] Odusi Consultants...
+     📞 +254 721 519215 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (25/27)
+  [45/66] Arwaki Lakeside Homes...
+     📞 +254 718 115037 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (26/27)
+  [46/66] Odongo Kabita & Co. Valuers...
+     📞 +254 719 108267 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (27/27)
+
+  ── Reached 27 confirmed no-website leads, stopping early
+
+
+  ── Final: 27/27 confirmed no-website leads, 19 has-website leads (checked 46/66 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Real Estate Agents in Kisumu, Kenya
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Bulimo Kisumu Nyumba Pap Real Estate   +254 791 582961    5.0   2    
+2   Posh Prime Properties Limited          +254 711 591692    5.0   3    
+3   Kisumu Real Estates                    +254 57 202778     4.0   1    
+4   Zeddy Real Estates                     +254 703 287361    5.0   4    
+5   BaseMark Valuers and Property Consul   +254 794 858749    5.0   11   
+6   ABK Real State Agency                  +254 734 071115    3.0   1    
+7   NOLCARE AIRBnB KISUMU                  +254 708 662095    5.0   25   
+8   Vacant Houses And Plots In Kisumu      +254 710 243450    5.0   3    
+9   Lily nyasembo's Airbnb                 +254 724 744428    4.8   12   
+10  NileOT Acres                           +254 727 142339    4.3   3    
+11  STAR COMPLEX                           +254 722 840975    5.0   5    
+12  Philip's House, Polyview Estate Kisu   +254 721 931253    4.0   37   
+13  Translakes Estate                      +254 706 328086    3.9   113  
+14  Property Agent                         +254 721 759884    2.0   1    
+15  Pambo Investment Auctioneers           +254 721 544702    3.0   7    
+16  Marwa executive Airbnb                 +254 796 526093    5.0   1    
+17  Dee's Airbnb                           +254 720 814218    5.0   2    
+18  Msanii Hostel booking Agencies         +254 794 340238    5.0   1    
+19  Makasembo 2 bedroomed Stay near Mega   +254 732 741827    5.0   2    
+20  Kanyakwar Housing Project              +254 710 278479    4.2   30   
+21  QORA Homes                             +254 791 586758    5.0   27   
+22  KARMUSE APARTMENTS                     +254 723 275345    4.0   1    
+23  Agape Management Agents                +254 20 2040675    1.0   1    
+24  REAL SPACE HOMES - MAIN                +254 732 888985    4.0   1    
+25  Odusi Consultants                      +254 721 519215    3.7   3    
+26  Arwaki Lakeside Homes                  +254 718 115037    5.0   2    
+27  Odongo Kabita & Co. Valuers            +254 719 108267    4.5   2    
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Real Estate Agents in Kisumu, Kenya
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Lake Estate Agency Ltd.                +254 723 553114    4.9   31   
+2   Kizazi Realtors Ltd                    +254 726 436312    4.4   23   
+3   West Kenya Real Estate Ltd             +254 789 217685    4.5   19   
+4   Tysons Ltd- Kisumu                     +254 57 2022713    5.0   6    
+5   KISUMU DALA REALTORS                   +254 728 423487    4.0   2    
+6   The Little Cave kisumu                 +254 723 453927    4.5   56   
+7   Qweist Properties                      +254 111 656769    5.0   2    
+8   Kisumu Furnished Apartments            +254 735 076121    4.5   21   
+9   Milimani Garden Apartments             +254 711 076121    4.5   66   
+10  Inka Residency                         +254 724 833192    5.0   1    
+11  Crystal Valuers Ltd                    +254 57 2025013    5.0   1    
+12  Kisumu Royal Properties Ltd            +254 770 058519    5.0   2    
+13  JIRANY                                 +254 736 070701    5.0   1    
+14  SweetHome Furnished Apartments Kisum   +254 705 517774    5.0   4    
+15  Annodas Homes Milimani                 +254 757 779415    4.6   106  
+16  Avishai Homes                          +254 708 080851    4.6   37   
+17  Divine Homes Resort Kisumu — Hotel,    +254 794 003093    4.3   336  
+18  Opande Africa Investments              +254 723 388293    4.0   6    
+19  Makasembo housing by Lapfund           +254 733 981751    4.4   38   
+================================================================================
+
+
+  ── Area 'Kisumu, Kenya' contributed 27 new no-website leads, 19 new has-website leads (running total: 60/60 no-website, 110 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/nairobi_realestate.csv (60 rows), /workspaces/Hermes-leads/stress_run/nairobi_realestate_has_website.csv (110 rows)
+
+
+✓ Target of 60 already reached — skipping remaining areas: ['Nakuru, Kenya']
+
+
+================================================================================
+MULTI-AREA SUMMARY — Real Estate Agents
+================================================================================
+  Mombasa, Kenya                           31 no-website | 58 has-website
+  Kisumu, Kenya                            27 no-website | 19 has-website
+--------------------------------------------------------------------------------
+  TOTAL: 60/60 confirmed unique no-website leads
+  TOTAL: 110 confirmed unique has-website leads (bonus list)
+
+  ✓ No-website target reached.
+================================================================================
+
+✓ No-website CSV: /workspaces/Hermes-leads/stress_run/nairobi_realestate.csv
+✓ Has-website CSV: /workspaces/Hermes-leads/stress_run/nairobi_realestate_has_website.csv
+✓ Status: /workspaces/Hermes-leads/stress_run/nairobi_realestate.status.json
+

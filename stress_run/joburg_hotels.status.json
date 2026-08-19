@@ -1,0 +1,33 @@
+{
+  "keyword": "Hotels",
+  "areas_configured": [
+    "Johannesburg, South Africa",
+    "Cape Town, South Africa",
+    "Durban, South Africa",
+    "Pretoria, South Africa",
+    "Sandton, South Africa",
+    "Kruger National Park, South Africa",
+    "Stellenbosch, South Africa",
+    "Hermanus, South Africa",
+    "Mombasa, Kenya",
+    "Diani Beach, Kenya",
+    "Dubai, UAE",
+    "Abu Dhabi, UAE"
+  ],
+  "areas_completed": [
+    "Hermanus, South Africa",
+    "Durban, South Africa",
+    "Cape Town, South Africa",
+    "Johannesburg, South Africa",
+    "Kruger National Park, South Africa",
+    "Stellenbosch, South Africa",
+    "Sandton, South Africa",
+    "Pretoria, South Africa",
+    "Mombasa, Kenya"
+  ],
+  "target": 60,
+  "no_website_count": 60,
+  "has_website_count": 449,
+  "finished": true,
+  "updated_at": "2026-08-09T16:17:14Z"
+}

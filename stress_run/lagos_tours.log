@@ -1,0 +1,119 @@
+
+######################################################################
+# AREA: Lagos, Nigeria  (need 40 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Tours and Travels  |  Location: Lagos, Nigeria  |  Region hint: NG
+#  Target: 40 leads (no website, active)
+############################################################
+
+⚠ Feed not found, trying anyway...
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Tours and Travels Lagos, Nigeria
+Cap: 100 listings
+============================================================
+
+  [1] 0/100 listings
+  [2] 0/100 listings
+  [3] 0/100 listings
+  [4] 0/100 listings
+  [5] 0/100 listings
+  [6] 0/100 listings
+  [7] 0/100 listings
+  [8] 0/100 listings
+  [9] 0/100 listings
+  [10] 0/100 listings
+  [11] 0/100 listings
+  [12] 0/100 listings
+  [13] 0/100 listings
+  [14] 0/100 listings
+  [15] 0/100 listings
+  [16] 0/100 listings
+  [17] 0/100 listings
+  [18] 0/100 listings
+  [19] 0/100 listings
+  [20] 0/100 listings
+  [21] 0/100 listings
+  [22] 0/100 listings
+  [23] 0/100 listings
+  [24] 0/100 listings
+  [25] 0/100 listings
+  [26] 0/100 listings
+  [27] 0/100 listings
+  [28] 0/100 listings
+  [29] 0/100 listings
+  [30] 0/100 listings
+
+  ✓ Discovery: 0 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 0 found, 0 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 0
+============================================================
+
+  ── 0 pass (no website) | 0 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+
+  ── 0 qualified + 0 phone-icon-needs-enrich | 0 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 40 confirmed no-website
+Pool: 0 candidates
+============================================================
+
+
+  ── Final: 0/40 confirmed no-website leads, 0 has-website leads (checked 0/0 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Tours and Travels in Lagos, Nigeria
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Tours and Travels in Lagos, Nigeria
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+================================================================================
+
+
+  ── Area 'Lagos, Nigeria' contributed 0 new no-website leads, 0 new has-website leads (running total: 0/40 no-website, 0 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/lagos_tours.csv (0 rows), /workspaces/Hermes-leads/stress_run/lagos_tours_has_website.csv (0 rows)
+
+
+================================================================================
+MULTI-AREA SUMMARY — Tours and Travels
+================================================================================
+  Lagos, Nigeria                           0 no-website | 0 has-website
+--------------------------------------------------------------------------------
+  TOTAL: 0/40 confirmed unique no-website leads
+  TOTAL: 0 confirmed unique has-website leads (bonus list)
+
+  ⚠ No-website target not reached after checking ALL 1 configured area(s).
+  0 is the honest ceiling for this area list. To get more,
+  re-run with --resume and MORE areas added to --areas — already-found leads
+  are kept, only new areas get searched.
+================================================================================
+
+✓ No-website CSV: /workspaces/Hermes-leads/stress_run/lagos_tours.csv
+✓ Has-website CSV: /workspaces/Hermes-leads/stress_run/lagos_tours_has_website.csv
+✓ Status: /workspaces/Hermes-leads/stress_run/lagos_tours.status.json
+

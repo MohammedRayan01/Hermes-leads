@@ -1,0 +1,2087 @@
+
+↺ Resuming: loaded 7 existing no-website leads, 65 existing has-website leads from disk
+
+  Skipping areas already fully checked in a previous run: ['Bangalore, India']
+
+
+######################################################################
+# AREA: Indiranagar, Bangalore  (need 53 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Dental Clinics  |  Location: Indiranagar, Bangalore  |  Region hint: IN
+#  Target: 53 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Dental Clinics Indiranagar, Bangalore
+Cap: 150 listings
+============================================================
+
+  [1] 12/150 listings
+  [2] 20/150 listings
+  [3] 30/150 listings
+  [4] 37/150 listings
+  [5] 49/150 listings
+  [6] 57/150 listings
+  [7] 69/150 listings
+  [8] 76/150 listings
+  [9] 88/150 listings
+  [10] 96/150 listings
+  [11] 107/150 listings
+  [12] 108/150 listings
+  [13] 108/150 listings
+  [14] 108/150 listings
+  [15] 108/150 listings
+  [16] 108/150 listings
+  [17] 108/150 listings
+  [18] 108/150 listings
+  [19] 108/150 listings
+  [20] 108/150 listings
+  [21] 108/150 listings
+  [22] 108/150 listings
+  [23] 108/150 listings
+  [24] 108/150 listings
+  [25] 108/150 listings
+  [26] 108/150 listings
+  [27] 108/150 listings
+  [28] 108/150 listings
+  [29] 108/150 listings
+  [30] 108/150 listings
+
+  ✓ Discovery: 108 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 45 found, 25 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 133
+============================================================
+
+  ── 132 pass (no website) | 1 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ✓ QUAL: Apollo Dental CMH Road (Indiranagar) | ★4.9 (0) | 📞 +91 90710 55544
+  ✓ QUAL: devaki dental and oral health clinic | ★4.9 (0) | 📞 +91 98459 13898
+  ✓ QUAL: Dental Solutions | ★4.8 (0) | 📞 +91 63643 12444
+  ✓ QUAL: Clove Dental Clinic - Indiranagar, Bengaluru | ★4.8 (0) | 📞 +91 40 3824 5711
+  ✓ QUAL: Beyond Smiles Dental Clinic | ★4.8 (0) | 📞 +91 76248 65553
+  ✓ QUAL: Dr C Jagadeesh's Dental Clinic | ★4.9 (0) | 📞 +91 80 4115 3444
+  ✓ QUAL: All Care Dental Centre Indiranagar | ★4.7 (0) | 📞 +91 98450 79479
+  ✓ QUAL: Dezy Dental | ★4.7 (0) | 📞 +91 76187 92440
+  ✓ QUAL: V DENTAL AND IMPLANT CENTER | ★4.8 (0) | 📞 +91 90371 51894
+  ✓ QUAL: Smile Works Dental Clinic | ★4.9 (0) | 📞 +91 91087 83903
+  ✓ QUAL: Bangalore Charitable Dental Center | ★4.9 (0) | 📞 +91 88846 13795
+  ✓ QUAL: Dental Care Centre | ★4.9 (0) | 📞 +91 80 4116 1563
+  ✓ QUAL: Odus Dental & Implant Centre - Indiranagar, Beng | ★5.0 (0) | 📞 +91 70029 73244
+  ✓ QUAL: Dentakraft Dental & Oral Care-Dental Clinic Indi | ★4.9 (0) | 📞 +91 80733 33129
+  ✓ QUAL: DR. PALLAVI'S DENTAL CARE | ★5.0 (0) | 📞 +91 99085 84300
+  ✓ QUAL: Smile Station - Indiranagar | Dentist | Dental C | ★4.8 (0) | 📞 +91 91871 15906
+  ✓ QUAL: American Dental Practices | ★4.9 (0) | 📞 +91 97403 31805
+  ✓ QUAL: Dental Sanctuary | ★4.9 (0) | 📞 +91 70194 31864
+  ✓ QUAL: DENTAL 360 | ★5.0 (0) | 📞 +91 80089 98997
+  ✓ QUAL: Smile Lounge Dental Care | ★4.9 (0) | 📞 +91 80 2528 8388
+  ➤ PHONE-ICON: Lifetime dental Indiranagar | ★5.0 (19) | need digits
+  ✓ QUAL: Apollo Dental Clinic, Indiranagar | Best Dental  | ★4.5 (172) | 📞 +91 98863 02499
+  ✓ QUAL: Roots and Grins | ★5.0 (127) | 📞 +91 63660 40123
+  ✓ QUAL: Dentalign Indiranagar Dental Clinic | ★4.5 (48) | 📞 +91 80 2521 3929
+  ✓ QUAL: Star Dental Clinic | ★4.9 (719) | 📞 +91 98862 50057
+  ✓ QUAL: Flourish Dental Studio & INVISALIGN- Dr Mrignain | ★5.0 (95) | 📞 +91 96111 14324
+  ✓ QUAL: House Of Smiles Dental & Implant Center | ★5.0 (198) | 📞 +91 78297 14143
+  ✓ QUAL: Narayana Specialists Dental and Implant Center | ★4.9 (352) | 📞 +91 90083 00001
+  ✓ QUAL: Prosmiles Dental | ★4.4 (175) | 📞 +91 81235 57113
+  ✓ QUAL: EXCELLENCE DENTAL | ★4.9 (177) | 📞 +91 96860 39281
+  ✓ QUAL: Smyle Dental and Orthodontic Clinic | ★4.8 (96) | 📞 +91 96115 68833
+  ✓ QUAL: New MANTLE Dental Clinic & Orthodontic Center | ★4.9 (172) | 📞 +91 99022 67172
+  ✓ QUAL: Ridgetop Dental International | ★5.0 (186) | 📞 +91 78468 89900
+  ✓ QUAL: Dental Roots | ★4.9 (309) | 📞 +91 97418 35002
+  ✓ QUAL: Gratitude Dental Care (Indiranagar) - Dental Cli | ★4.9 (49) | 📞 +91 96205 22434
+  ✓ QUAL: Clove Dental Clinic - Jeevan Bima Nagar, Bangalo | ★4.7 (653) | 📞 +91 40 3824 5711
+  ✓ QUAL: Dental Bliss | ★4.9 (69) | 📞 +91 80 4371 2712
+  ✓ QUAL: Small Bites - Indiranagar I Pediatric Dentist I  | ★4.9 (499) | 📞 +91 99720 97815
+  ✓ QUAL: Xaviers Dental - Family Dentistry Bangalore | ★4.6 (24) | 📞 +91 93807 61781
+  ✓ QUAL: Happiest Pearls | ★5.0 (89) | 📞 +91 87488 88874
+  ✓ QUAL: Smile Care Dental Clinic | ★4.8 (309) | 📞 +91 80 4115 4773
+  ✓ QUAL: Kamakshi Dental Indiranagar | ★4.9 (41) | 📞 +91 97405 83538
+  ✓ QUAL: Dental Perk Multispeciality Dental and Implant C | ★4.9 (38) | 📞 +91 96009 06503
+  ➤ PHONE-ICON: Renuka Dental Clinic | ★3.8 (24) | need digits
+  ✓ QUAL: Jay Smiles | ★5.0 (77) | 📞 +91 98450 27120
+  ✓ QUAL: Elysiann | ★4.9 (37) | 📞 +91 95384 00333
+  ✓ QUAL: Dr. Supriya Rai's Dental Clinic | ★4.1 (47) | 📞 +91 80 2528 0669
+  ✓ QUAL: Olive Dental | ★5.0 (55) | 📞 +91 96878 73434
+  ✓ QUAL: Tooth Affair Dental Clinic | ★4.2 (42) | 📞 +91 76762 06206
+  ✓ QUAL: Dental De Care | Dr Pramod KM | Invisalign & Ort | ★4.9 (133) | 📞 +91 73383 89911
+  ✓ QUAL: Clove Dental Clinic - Domlur, Bangalore | ★4.8 (652) | 📞 +91 40 3824 5711
+  ✓ QUAL: Dentistree Family Dental Clinic | ★4.9 (160) | 📞 +91 99015 81004
+  ✓ QUAL: Vibha Dental Care Centre | ★4.3 (109) | 📞 +91 80500 02060
+  ✓ QUAL: Pearl dental care | ★4.1 (145) | 📞 +91 77609 84391
+  ✓ QUAL: Amar Jyothi Dental Clinic ~ DR RUPA K R | ★5.0 (109) | 📞 +91 84318 07544
+  ✓ QUAL: Dr Dhruv Dental Care | ★5.0 (11) | 📞 +91 88847 57388
+  ✓ QUAL: I-Smile Dental & Aesthetic Care | ★5.0 (324) | 📞 +91 88618 29655
+  ✓ QUAL: ORAL D | ★4.9 (712) | 📞 +91 80 4093 5266
+  ✓ QUAL: Shree Vinayaka Dental & Health Care Centre | ★4.5 (40) | 📞 +91 80 2528 9937
+  ✓ QUAL: Invisalign Provider | Dr. Madhusmita Hegde | Ind | ★5.0 (22) | 📞 +91 70029 73244
+  ✓ QUAL: Meenakshi's Dental Clinic | ★4.9 (106) | 📞 +91 80 4113 3122
+  ✓ QUAL: Mascot Speciality Dental Clinic | ★4.8 (10) | 📞 +91 93419 51009
+  ✓ QUAL: Dr. Chahal Aesthetic Clinic, Indiranagar |Dental | ★5.0 (350) | 📞 +91 74834 63698
+  ✓ QUAL: Yahvi Dental Clinic | ★4.9 (155) | 📞 +91 93807 10895
+  ✓ QUAL: Ridgetop Dental International | Best dentist in  | ★4.9 (287) | 📞 +91 78468 89900
+  ✗ DUMP (low activity): Dr. Achuth M Baliga | Dentist in Indiranagar, Ba | ★0.0 (0)
+  ✓ QUAL: CVL TOOTH TOWN | Braces, Aligners & Dental Impla | ★4.8 (27) | 📞 +91 80 4205 9104
+  ✓ QUAL: Dr. Paul's Dental Health Care | ★4.9 (150) | 📞 +91 99164 70525
+  ✓ QUAL: D M Krishna's Dental Care | ★5.0 (3) | 📞 +91 99867 78251
+  ✓ QUAL: Western Dental & Orthodontics Centre | ★4.8 (55) | 📞 +91 74832 11870
+  ✓ QUAL: Emerald Dental | ★5.0 (123) | 📞 +91 99198 62462
+  ✓ QUAL: Opal dentistry | ★4.9 (380) | 📞 +91 97314 16900
+  ✓ QUAL: Small Wonders- Your Child's Dental Home | ★5.0 (101) | 📞 +91 96069 76655
+  ✓ QUAL: OrthoSquare Dental Clinic - New Tippasandra, Ben | ★4.9 (257) | 📞 +91 8071 821 118
+  ✓ QUAL: Dento Facial Care | ★4.9 (14) | 📞 +91 80 2527 4727
+  ✓ QUAL: ARS Dental hub | ★4.8 (95) | 📞 +91 98234 50664
+  ✓ QUAL: Lathika Dental Clinic | ★4.7 (56) | 📞 +91 80 2526 4149
+  ✓ QUAL: Lakshmi Dental clinic | ★5.0 (10) | 📞 +91 98863 58714
+  ✓ QUAL: Denticare | ★5.0 (41) | 📞 +91 94480 24457
+  ✓ QUAL: Family Dentacare & Implant Center | ★4.8 (43) | 📞 +91 96116 67932
+  ✓ QUAL: Dr Tanisha’s Emerge Dental Studio | ★5.0 (152) | 📞 +91 82968 01240
+  ✓ QUAL: Clove Dental Clinic - Halasuru Cambridge Layout, | ★4.9 (125) | 📞 +91 40 3824 5711
+  ✓ QUAL: Ivory Dental Care | ★4.7 (67) | 📞 +91 99002 62836
+  ✓ QUAL: Vignesh Dental Speciality Centre | ★4.9 (82) | 📞 +91 98452 13698
+  ➤ NO-PHONE-SIGNAL: PATWAL DENTAL | ★5.0 (15) | will enrich
+  ➤ NO-PHONE-SIGNAL: YashChar Dental Studio | ★5.0 (18) | will enrich
+  ✓ QUAL: Happy Teeth Happy Faces | ★4.9 (178) | 📞 +91 92431 02024
+  ✓ QUAL: Dr.Chaitanya’s Dental Care & Implant Centre | ★4.9 (257) | 📞 +91 99000 97674
+  ✓ QUAL: We Little | ★4.8 (133) | 📞 +91 96068 97510
+  ✓ QUAL: Sage Lifestyle & Dentistry - Dental Clinic | ★5.0 (14) | 📞 +91 82969 57183
+  ➤ NO-PHONE-SIGNAL: Revive Dental Clinic | ★5.0 (8) | will enrich
+  ✓ QUAL: Dr. Ashwini’s Impladent Multispeciality Dental C | ★4.8 (54) | 📞 +91 95798 08979
+  ✓ QUAL: Dr. Raphael Parambi's Dental Surgery | ★4.9 (303) | 📞 +91 80 2559 7417
+  ✓ QUAL: Tooth Fairy's Dental Clinic - Best Dentist in Lb | ★4.7 (194) | 📞 +91 99644 30254
+  ✓ QUAL: Dr. Shraddha Bahirwani | Best Dentist Indiranaga | ★4.6 (11) | 📞 +91 87488 88874
+  ✓ QUAL: MM Clinic | ★5.0 (512) | 📞 +91 96329 44355
+  ✓ QUAL: Apoorva Diagnostic and Health Care | ★3.7 (246) | 📞 +91 80 4095 4242
+  ✓ QUAL: Practice Of Aesthetic Dentistry & Endodontics | ★5.0 (3) | 📞 +91 98450 27015
+  ✓ QUAL: Dr Ritika Shanmugam Skin , Hair & Aesthetic Clin | ★5.0 (296) | 📞 +91 90362 03006
+  ✓ QUAL: The Retina Clinic | ★4.4 (82) | 📞 +91 80 4126 1776
+  ✓ QUAL: Sri Vinayaka Enterprises | ★5.0 (3) | 📞 +91 78957 80931
+  ✓ QUAL: Chinmaya Mission Hospital | ★4.4 (10054) | 📞 +91 80 2502 6100
+  ✗ DUMP (low activity): Dr Abdul Rahim khan | ★0.0 (0)
+  ✓ QUAL: Dr. Rajesh Hospitals Eye and Dental | ★4.3 (189) | 📞 +91 80 2527 2527
+  ✗ DUMP (low activity): DR. GAYATHRI V V | ★0.0 (0)
+  ✗ DUMP (low activity): Whistle Aligners - Best Orthodontic in Indiranag | ★0.0 (0)
+  ✓ QUAL: Millenium Dentistry | ★4.3 (6) | 📞 +91 98440 25322
+  ✓ QUAL: Procure Dental- Indiranagar | ★4.9 (29) | 📞 +91 63646 43830
+  ✗ DUMP (low activity): Dr.Paul's Dental Healthcare | ★0.0 (0)
+  ✗ DUMP (low activity): Baba Dental care | ★0.0 (0)
+  ✗ DUMP (low activity): Devaki Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Kanaka | ★0.0 (0)
+  ✗ DUMP (low activity): Aadhi | ★0.0 (0)
+  ✗ DUMP (low activity): Remuka Deltal Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Dr. Supriya's Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Root Canal Center | ★0.0 (0)
+  ✗ DUMP (low activity): Supriya Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): ATR Dental Clinic | ★0.0 (0)
+  ✓ QUAL: KDC Dental Clinic | ★0.0 (0) | 📞 +918296879540
+  ✗ DUMP (low activity): Crowns + Ridges | ★0.0 (0)
+  ✗ DUMP (low activity): Divya Dental clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Dr Paul's Dental Health Care | ★0.0 (0)
+  ✗ DUMP (low activity): Sai Ganesh Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Pari's Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Dhyan Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Golden Blossom Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Ayurvedic Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Ace Dental Care | ★0.0 (0)
+  ✓ QUAL: Banyan Dental Care | ★0.0 (0) | 📞 +918971567992
+  ✗ DUMP (low activity): Dr C Jagadeesh’s Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Kamath Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Laser Dental Health Center | ★0.0 (0)
+
+  ── 101 qualified + 5 phone-icon-needs-enrich | 26 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 53 confirmed no-website
+Pool: 106 candidates
+============================================================
+
+  [1/106] Apollo Dental CMH Road (Indiranagar)...
+     📞 +91 90710 55544 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://apollodentalindiranagar.com/) — 1 so far
+  [2/106] devaki dental and oral health clinic...
+     📞 +91 98459 13898 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (1/53)
+  [3/106] Dental Solutions...
+     📞 +91 63643 12444 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dentalsolutionsclinic.com/) — 2 so far
+  [4/106] Clove Dental Clinic - Indiranagar, Bengaluru...
+     📞 +91 40 3824 5711 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/bengaluru/indiranagar?utm_source=website&utm_medium=gmb&utm_campaign=Indiranagar_GMB) — 3 so far
+  [5/106] Beyond Smiles Dental Clinic...
+     📞 +91 76248 65553 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://beyondsmiles.co.in/) — 4 so far
+  [6/106] Dr C Jagadeesh's Dental Clinic...
+     📞 +91 80 4115 3444 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.drcjagadeesh.com/) — 5 so far
+  [7/106] All Care Dental Centre Indiranagar...
+     📞 +91 98450 79479 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.allcaredentalcentre.in/) — 6 so far
+  [8/106] Dezy Dental...
+     📞 +91 76187 92440 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dezy.com/clinics/bangalore/best-dental-clinic-bangalore-indiranagar-2nd-stage) — 7 so far
+  [9/106] V DENTAL AND IMPLANT CENTER...
+     📞 +91 90371 51894 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://vdentalandimplantcenter.com/) — 8 so far
+  [10/106] Smile Works Dental Clinic...
+     📞 +91 91087 83903 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.rucheet.com/) — 9 so far
+  [11/106] Bangalore Charitable Dental Center...
+     📞 +91 88846 13795 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.bangalorecharitabledentalhospital.org/) — 10 so far
+  [12/106] Dental Care Centre...
+     📞 +91 80 4116 1563 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (2/53)
+  [13/106] Odus Dental & Implant Centre - Indiranagar, B...
+     📞 +91 70029 73244 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://odusdental.com/) — 11 so far
+  [14/106] Dentakraft Dental & Oral Care-Dental Clinic I...
+     📞 +91 80733 33129 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dentakraft.com/) — 12 so far
+  [15/106] DR. PALLAVI'S DENTAL CARE...
+     📞 +91 99085 84300 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://drpallavisdentalcare.com/about-us) — 13 so far
+  [16/106] Smile Station - Indiranagar | Dentist | Denta...
+     📞 +91 91871 15906 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://smilestation.in/?utm_source=GMB&utm_medium=GMB&utm_campaign=listing) — 14 so far
+  [17/106] American Dental Practices...
+     📞 +91 97403 31805 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://americandentalpractices.in/) — 15 so far
+  [18/106] Dental Sanctuary...
+     📞 +91 70194 31864 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.dentalsanctuary.in/) — 16 so far
+  [19/106] DENTAL 360...
+     📞 +91 80089 98997 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dental360bangalore.com/) — 17 so far
+  [20/106] Smile Lounge Dental Care...
+     📞 +91 80 2528 8388 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (3/53)
+  [21/106] Apollo Dental Clinic, Indiranagar | Best Dent...
+     📞 +91 98863 02499 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://apollodentalindiranagar.com/) — 18 so far
+  [22/106] Roots and Grins...
+     📞 +91 63660 40123 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://rootsandgrinsdental.com/) — 19 so far
+  [23/106] Dentalign Indiranagar Dental Clinic...
+     📞 +91 80 2521 3929 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.dentalign.in/) — 20 so far
+  [24/106] Star Dental Clinic...
+     📞 +91 98862 50057 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://stardentalindiranagar.in/) — 21 so far
+  [25/106] Flourish Dental Studio & INVISALIGN- Dr Mrign...
+     📞 +91 96111 14324 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://flourishdental.studio/) — 22 so far
+  [26/106] House Of Smiles Dental & Implant Center...
+     📞 +91 78297 14143 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://houseofsmilesdental.in/#utm_source=GMB&utm_medium=website_button&utm_campaign=gmb_website_button) — 23 so far
+  [27/106] Narayana Specialists Dental and Implant Cente...
+     📞 +91 90083 00001 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://narayanadental.com/) — 24 so far
+  [28/106] Prosmiles Dental...
+     📞 +91 81235 57113 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://prosmilesdentalclinic.com/) — 25 so far
+  [29/106] EXCELLENCE DENTAL...
+     📞 +91 96860 39281 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://theexcellencedental.com/) — 26 so far
+  [30/106] Smyle Dental and Orthodontic Clinic...
+     📞 +91 96115 68833 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drsharanyasmyle.icloudhospital.com/) — 27 so far
+  [31/106] New MANTLE Dental Clinic & Orthodontic Center...
+     📞 +91 99022 67172 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://mantledentalclinic.com/) — 28 so far
+  [32/106] Ridgetop Dental International...
+     📞 +91 78468 89900 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.ridgetopdental.in/) — 29 so far
+  [33/106] Dental Roots...
+     📞 +91 97418 35002 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.dentalrootsclinics.wordpress.com/) — 30 so far
+  [34/106] Gratitude Dental Care (Indiranagar) - Dental ...
+     📞 +91 96205 22434 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://gratitudedentalcare.com/) — 31 so far
+  [35/106] Clove Dental Clinic - Jeevan Bima Nagar, Bang...
+     📞 +91 40 3824 5711 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/bengaluru/indiranagar?utm_source=website&utm_medium=gmb&utm_campaign=Indiranagar_GMB) — 32 so far
+  [36/106] Dental Bliss...
+     📞 +91 80 4371 2712 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/53)
+  [37/106] Small Bites - Indiranagar I Pediatric Dentist...
+     📞 +91 99720 97815 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://smallbites.in/) — 33 so far
+  [38/106] Xaviers Dental - Family Dentistry Bangalore...
+     📞 +91 93807 61781 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.xaviersdental.in/) — 34 so far
+  [39/106] Happiest Pearls...
+     📞 +91 87488 88874 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clinics.happiesthealth.com/clinics/happiest-pearls-indiranagar-branch?id=Happiest%20Pearls-Indiranagar%20Branch) — 35 so far
+  [40/106] Smile Care Dental Clinic...
+     📞 +91 80 4115 4773 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://smilecareclinic.in/) — 36 so far
+  [41/106] Kamakshi Dental Indiranagar...
+     📞 +91 97405 83538 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://kamakshidental.com/) — 37 so far
+  [42/106] Dental Perk Multispeciality Dental and Implan...
+     📞 +91 96009 06503 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.dentalperk.com/) — 38 so far
+  [43/106] Jay Smiles...
+     📞 +91 98450 27120 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.jaysmiles.in/) — 39 so far
+  [44/106] Elysiann...
+     📞 +91 95384 00333 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://elysiannhealthcare.com/) — 40 so far
+  [45/106] Dr. Supriya Rai's Dental Clinic...
+     📞 +91 80 2528 0669 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.supriyaraidentalcare.com/) — 41 so far
+  [46/106] Olive Dental...
+     📞 +91 96878 73434 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://olivedental.net/) — 42 so far
+  [47/106] Tooth Affair Dental Clinic...
+     📞 +91 76762 06206 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://toothaffair.com/) — 43 so far
+  [48/106] Dental De Care | Dr Pramod KM | Invisalign & ...
+     📞 +91 73383 89911 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dentaldecare.com/) — 44 so far
+  [49/106] Clove Dental Clinic - Domlur, Bangalore...
+     📞 +91 40 3824 5711 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/bengaluru/indiranagar?utm_source=website&utm_medium=gmb&utm_campaign=Indiranagar_GMB) — 45 so far
+  [50/106] Dentistree Family Dental Clinic...
+     📞 +91 99015 81004 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://dentistreeclinic.com/) — 46 so far
+  [51/106] Vibha Dental Care Centre...
+     📞 +91 80500 02060 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.vibhadental.com/) — 47 so far
+  [52/106] Pearl dental care...
+     📞 +91 77609 84391 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.drmitali.com/) — 48 so far
+  [53/106] Amar Jyothi Dental Clinic ~ DR RUPA K R...
+     📞 +91 84318 07544 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://rupa.dentist/) — 49 so far
+  [54/106] Dr Dhruv Dental Care...
+     📞 +91 88847 57388 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drdhruv.com/) — 50 so far
+  [55/106] I-Smile Dental & Aesthetic Care...
+     📞 +91 88618 29655 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (5/53)
+  [56/106] ORAL D...
+     📞 +91 80 4093 5266 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.oraldimaging.com/) — 51 so far
+  [57/106] Shree Vinayaka Dental & Health Care Centre...
+     📞 +91 80 2528 9937 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (6/53)
+  [58/106] Invisalign Provider | Dr. Madhusmita Hegde | ...
+     📞 +91 70029 73244 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://invisalignbracesbangalore.com/) — 52 so far
+  [59/106] Meenakshi's Dental Clinic...
+     📞 +91 80 4113 3122 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.meenakshidental.com/) — 53 so far
+  [60/106] Mascot Speciality Dental Clinic...
+     📞 +91 93419 51009 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (7/53)
+  [61/106] Dr. Chahal Aesthetic Clinic, Indiranagar |Den...
+     📞 +91 74834 63698 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/53)
+  [62/106] Yahvi Dental Clinic...
+     📞 +91 93807 10895 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.yahvidentalclinic.com/) — 54 so far
+  [63/106] Ridgetop Dental International | Best dentist ...
+     📞 +91 78468 89900 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.ridgetopdental.in/) — 55 so far
+  [64/106] CVL TOOTH TOWN | Braces, Aligners & Dental Im...
+     📞 +91 80 4205 9104 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://cvltoothtown.com/) — 56 so far
+  [65/106] Dr. Paul's Dental Health Care...
+     📞 +91 99164 70525 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.drpaulsdentalhealth.com/?utm_source=GMBListing&utm_medium=Organic) — 57 so far
+  [66/106] D M Krishna's Dental Care...
+     📞 +91 99867 78251 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (9/53)
+  [67/106] Western Dental & Orthodontics Centre...
+     📞 +91 74832 11870 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://westerndentalandorthodontics.com/) — 58 so far
+  [68/106] Emerald Dental...
+     📞 +91 99198 62462 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://emeralddental.in/) — 59 so far
+  [69/106] Opal dentistry...
+     📞 +91 97314 16900 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.opaldentistry.com/) — 60 so far
+  [70/106] Small Wonders- Your Child's Dental Home...
+     📞 +91 96069 76655 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://smallwondersclinic.com/) — 61 so far
+  [71/106] OrthoSquare Dental Clinic - New Tippasandra, ...
+     📞 +91 8071 821 118 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://dental-clinics.orthosquare.com/near-me/bengaluru/New-Tippasandra/orthosquare-dental-clinic-in-New-Tippasandra-bengaluru--1Sp75c/home) — 62 so far
+  [72/106] Dento Facial Care...
+     📞 +91 80 2527 4727 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (10/53)
+  [73/106] ARS Dental hub...
+     📞 +91 98234 50664 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (11/53)
+  [74/106] Lathika Dental Clinic...
+     📞 +91 80 2526 4149 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (12/53)
+  [75/106] Lakshmi Dental clinic...
+     📞 +91 98863 58714 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://llakshmi.website2.me/) — 63 so far
+  [76/106] Denticare...
+     📞 +91 94480 24457 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (13/53)
+  [77/106] Family Dentacare & Implant Center...
+     📞 +91 96116 67932 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (14/53)
+  [78/106] Dr Tanisha’s Emerge Dental Studio...
+     📞 +91 82968 01240 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://emergedentalstudio.com/) — 64 so far
+  [79/106] Clove Dental Clinic - Halasuru Cambridge Layo...
+     📞 +91 40 3824 5711 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/bengaluru/indiranagar?utm_source=website&utm_medium=gmb&utm_campaign=Indiranagar_GMB) — 65 so far
+  [80/106] Ivory Dental Care...
+     📞 +91 99002 62836 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://click4appointment.com/clinic-details/ivorydentalcare-2422) — 66 so far
+  [81/106] Vignesh Dental Speciality Centre...
+     📞 +91 98452 13698 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.bangaloredentistonline.com/) — 67 so far
+  [82/106] Happy Teeth Happy Faces...
+     📞 +91 92431 02024 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (15/53)
+  [83/106] Dr.Chaitanya’s Dental Care & Implant Centre...
+     📞 +91 99000 97674 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drchaitanyasdental.com/) — 68 so far
+  [84/106] We Little...
+     📞 +91 96068 97510 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.welittle.org/) — 69 so far
+  [85/106] Sage Lifestyle & Dentistry - Dental Clinic...
+     📞 +91 82969 57183 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://sites.google.com/view/sagedentistry/home) — 70 so far
+  [86/106] Dr. Ashwini’s Impladent Multispeciality Denta...
+     📞 +91 95798 08979 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drashwinisimpladent.com/) — 71 so far
+  [87/106] Dr. Raphael Parambi's Dental Surgery...
+     📞 +91 80 2559 7417 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drraphaelparambi.com/) — 72 so far
+  [88/106] Tooth Fairy's Dental Clinic - Best Dentist in...
+     📞 +91 99644 30254 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://toothfairysdentalclinic.whitecoats.com/) — 73 so far
+  [89/106] Dr. Shraddha Bahirwani | Best Dentist Indiran...
+     📞 +91 87488 88874 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clinics.happiesthealth.com/doctors/dr-shraddha-bahirwani?id=HLC-PRAC-2025-00038) — 74 so far
+  [90/106] MM Clinic...
+     📞 +91 96329 44355 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (16/53)
+  [91/106] Apoorva Diagnostic and Health Care...
+     📞 +91 80 4095 4242 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.apoorvahealthcare.com/) — 75 so far
+  [92/106] Practice Of Aesthetic Dentistry & Endodontics...
+     📞 +91 98450 27015 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (17/53)
+  [93/106] Dr Ritika Shanmugam Skin , Hair & Aesthetic C...
+     📞 +91 90362 03006 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.drritikashanmugam.com/) — 76 so far
+  [94/106] The Retina Clinic...
+     📞 +91 80 4126 1776 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.theretinaclinic.com/) — 77 so far
+  [95/106] Sri Vinayaka Enterprises...
+     📞 +91 78957 80931 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://srivinayaka-enterprises.com/) — 78 so far
+  [96/106] Chinmaya Mission Hospital...
+     📞 +91 80 2502 6100 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.cmhblr.com/) — 79 so far
+  [97/106] Dr. Rajesh Hospitals Eye and Dental...
+     📞 +91 80 2527 2527 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://drrajeshhospitals.wordpress.com/about/) — 80 so far
+  [98/106] Millenium Dentistry...
+     📞 +91 98440 25322 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (18/53)
+  [99/106] Procure Dental- Indiranagar...
+     📞 +91 63646 43830 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.procuredental.co.in/) — 81 so far
+  [100/106] KDC Dental Clinic...
+     ✓ CONFIRMED no-website lead (19/53)
+  [101/106] Banyan Dental Care...
+     ★ HAS-WEBSITE LEAD, found via web search (https://banyandentalcarenaples.com/our-services/implant-supported-dentures) — 82 so far
+  [102/106] Lifetime dental Indiranagar...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [103/106] Renuka Dental Clinic...
+     📞 +91 80 2525 8968 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (20/53)
+  [104/106] PATWAL DENTAL...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [105/106] YashChar Dental Studio...
+     📞 +91 96209 00048 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drkomala.drxpro.in/) — 83 so far
+  [106/106] Revive Dental Clinic...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+
+  ── Final: 20/53 confirmed no-website leads, 83 has-website leads (checked 106/106 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Dental Clinics in Indiranagar, Bangalore
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   devaki dental and oral health clinic   +91 98459 13898    4.9   505  
+2   Dental Care Centre                     +91 80 4116 1563   4.9   82   
+3   Smile Lounge Dental Care               +91 80 2528 8388   4.9   80   
+4   Dental Bliss                           +91 80 4371 2712   4.9   69   
+5   I-Smile Dental & Aesthetic Care        +91 88618 29655    5.0   324  
+6   Shree Vinayaka Dental & Health Care    +91 80 2528 9937   4.5   40   
+7   Mascot Speciality Dental Clinic        +91 93419 51009    4.8   10   
+8   Dr. Chahal Aesthetic Clinic, Indiran   +91 74834 63698    5.0   350  
+9   D M Krishna's Dental Care              +91 99867 78251    5.0   3    
+10  Dento Facial Care                      +91 80 2527 4727   4.9   14   
+11  ARS Dental hub                         +91 98234 50664    4.8   95   
+12  Lathika Dental Clinic                  +91 80 2526 4149   4.7   56   
+13  Denticare                              +91 94480 24457    5.0   41   
+14  Family Dentacare & Implant Center      +91 96116 67932    4.8   43   
+15  Happy Teeth Happy Faces                +91 92431 02024    4.9   178  
+16  MM Clinic                              +91 96329 44355    5.0   512  
+17  Practice Of Aesthetic Dentistry & En   +91 98450 27015    5.0   3    
+18  Millenium Dentistry                    +91 98440 25322    4.3   6    
+19  KDC Dental Clinic                      +918296879540      0.0   0    
+20  Renuka Dental Clinic                   +91 80 2525 8968   3.8   24   
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Dental Clinics in Indiranagar, Bangalore
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Apollo Dental CMH Road (Indiranagar)   +91 90710 55544    4.9   433  
+2   Dental Solutions                       +91 63643 12444    4.8   1805 
+3   Clove Dental Clinic - Indiranagar, B   +91 40 3824 5711   4.8   980  
+4   Beyond Smiles Dental Clinic            +91 76248 65553    4.8   721  
+5   Dr C Jagadeesh's Dental Clinic         +91 80 4115 3444   4.9   1693 
+6   All Care Dental Centre Indiranagar     +91 98450 79479    4.7   342  
+7   Dezy Dental                            +91 76187 92440    4.7   514  
+8   V DENTAL AND IMPLANT CENTER            +91 90371 51894    4.8   127  
+9   Smile Works Dental Clinic              +91 91087 83903    4.9   281  
+10  Bangalore Charitable Dental Center     +91 88846 13795    4.9   391  
+11  Odus Dental & Implant Centre - Indir   +91 70029 73244    5.0   125  
+12  Dentakraft Dental & Oral Care-Dental   +91 80733 33129    4.9   328  
+13  DR. PALLAVI'S DENTAL CARE              +91 99085 84300    5.0   203  
+14  Smile Station - Indiranagar | Dentis   +91 91871 15906    4.8   276  
+15  American Dental Practices              +91 97403 31805    4.9   128  
+16  Dental Sanctuary                       +91 70194 31864    4.9   346  
+17  DENTAL 360                             +91 80089 98997    5.0   92   
+18  Apollo Dental Clinic, Indiranagar |    +91 98863 02499    4.5   433  
+19  Roots and Grins                        +91 63660 40123    5.0   127  
+20  Dentalign Indiranagar Dental Clinic    +91 80 2521 3929   4.5   48   
+21  Star Dental Clinic                     +91 98862 50057    4.9   719  
+22  Flourish Dental Studio & INVISALIGN-   +91 96111 14324    5.0   95   
+23  House Of Smiles Dental & Implant Cen   +91 78297 14143    5.0   198  
+24  Narayana Specialists Dental and Impl   +91 90083 00001    4.9   352  
+25  Prosmiles Dental                       +91 81235 57113    4.4   175  
+26  EXCELLENCE DENTAL                      +91 96860 39281    4.9   177  
+27  Smyle Dental and Orthodontic Clinic    +91 96115 68833    4.8   96   
+28  New MANTLE Dental Clinic & Orthodont   +91 99022 67172    4.9   172  
+29  Ridgetop Dental International          +91 78468 89900    5.0   186  
+30  Dental Roots                           +91 97418 35002    4.9   309  
+31  Gratitude Dental Care (Indiranagar)    +91 96205 22434    4.9   49   
+32  Clove Dental Clinic - Jeevan Bima Na   +91 40 3824 5711   4.7   980  
+33  Small Bites - Indiranagar I Pediatri   +91 99720 97815    4.9   499  
+34  Xaviers Dental - Family Dentistry Ba   +91 93807 61781    4.6   24   
+35  Happiest Pearls                        +91 87488 88874    5.0   89   
+36  Smile Care Dental Clinic               +91 80 4115 4773   4.8   309  
+37  Kamakshi Dental Indiranagar            +91 97405 83538    4.9   41   
+38  Dental Perk Multispeciality Dental a   +91 96009 06503    4.9   38   
+39  Jay Smiles                             +91 98450 27120    5.0   77   
+40  Elysiann                               +91 95384 00333    4.9   37   
+41  Dr. Supriya Rai's Dental Clinic        +91 80 2528 0669   4.1   47   
+42  Olive Dental                           +91 96878 73434    5.0   55   
+43  Tooth Affair Dental Clinic             +91 76762 06206    4.2   42   
+44  Dental De Care | Dr Pramod KM | Invi   +91 73383 89911    4.9   133  
+45  Clove Dental Clinic - Domlur, Bangal   +91 40 3824 5711   4.8   980  
+46  Dentistree Family Dental Clinic        +91 99015 81004    4.9   160  
+47  Vibha Dental Care Centre               +91 80500 02060    4.3   109  
+48  Pearl dental care                      +91 77609 84391    4.1   145  
+49  Amar Jyothi Dental Clinic ~ DR RUPA    +91 84318 07544    5.0   109  
+50  Dr Dhruv Dental Care                   +91 88847 57388    5.0   11   
+51  ORAL D                                 +91 80 4093 5266   4.9   712  
+52  Invisalign Provider | Dr. Madhusmita   +91 70029 73244    5.0   22   
+53  Meenakshi's Dental Clinic              +91 80 4113 3122   4.9   106  
+54  Yahvi Dental Clinic                    +91 93807 10895    4.9   155  
+55  Ridgetop Dental International | Best   +91 78468 89900    4.9   186  
+56  CVL TOOTH TOWN | Braces, Aligners &    +91 80 4205 9104   4.8   27   
+57  Dr. Paul's Dental Health Care          +91 99164 70525    4.9   150  
+58  Western Dental & Orthodontics Centre   +91 74832 11870    4.8   55   
+59  Emerald Dental                         +91 99198 62462    5.0   123  
+60  Opal dentistry                         +91 97314 16900    4.9   380  
+61  Small Wonders- Your Child's Dental H   +91 96069 76655    5.0   101  
+62  OrthoSquare Dental Clinic - New Tipp   +91 8071 821 118   4.9   257  
+63  Lakshmi Dental clinic                  +91 98863 58714    5.0   10   
+64  Dr Tanisha’s Emerge Dental Studio      +91 82968 01240    5.0   152  
+65  Clove Dental Clinic - Halasuru Cambr   +91 40 3824 5711   4.9   980  
+66  Ivory Dental Care                      +91 99002 62836    4.7   67   
+67  Vignesh Dental Speciality Centre       +91 98452 13698    4.9   82   
+68  Dr.Chaitanya’s Dental Care & Implant   +91 99000 97674    4.9   257  
+69  We Little                              +91 96068 97510    4.8   133  
+70  Sage Lifestyle & Dentistry - Dental    +91 82969 57183    5.0   14   
+71  Dr. Ashwini’s Impladent Multispecial   +91 95798 08979    4.8   54   
+72  Dr. Raphael Parambi's Dental Surgery   +91 80 2559 7417   4.9   303  
+73  Tooth Fairy's Dental Clinic - Best D   +91 99644 30254    4.7   194  
+74  Dr. Shraddha Bahirwani | Best Dentis   +91 87488 88874    4.6   11   
+75  Apoorva Diagnostic and Health Care     +91 80 4095 4242   3.7   246  
+76  Dr Ritika Shanmugam Skin , Hair & Ae   +91 90362 03006    5.0   296  
+77  The Retina Clinic                      +91 80 4126 1776   4.4   82   
+78  Sri Vinayaka Enterprises               +91 78957 80931    5.0   3    
+79  Chinmaya Mission Hospital              +91 80 2502 6100   4.4   10054
+80  Dr. Rajesh Hospitals Eye and Dental    +91 80 2527 2527   4.3   189  
+81  Procure Dental- Indiranagar            +91 63646 43830    4.9   29   
+82  Banyan Dental Care                     +918971567992      0.0   0    
+83  YashChar Dental Studio                 +91 96209 00048    5.0   18   
+================================================================================
+
+
+  ── Area 'Indiranagar, Bangalore' contributed 19 new no-website leads, 68 new has-website leads (running total: 26/60 no-website, 133 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/blr_dental.csv (26 rows), /workspaces/Hermes-leads/stress_run/blr_dental_has_website.csv (133 rows)
+
+
+######################################################################
+# AREA: Whitefield, Bangalore  (need 34 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Dental Clinics  |  Location: Whitefield, Bangalore  |  Region hint: IN
+#  Target: 34 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Dental Clinics Whitefield, Bangalore
+Cap: 150 listings
+============================================================
+
+  [1] 8/150 listings
+  [2] 16/150 listings
+  [3] 20/150 listings
+  [4] 26/150 listings
+  [5] 34/150 listings
+  [6] 38/150 listings
+  [7] 43/150 listings
+  [8] 49/150 listings
+  [9] 51/150 listings
+  [10] 55/150 listings
+  [11] 62/150 listings
+  [12] 66/150 listings
+  [13] 73/150 listings
+  [14] 81/150 listings
+  [15] 85/150 listings
+  [16] 92/150 listings
+  [17] 100/150 listings
+  [18] 104/150 listings
+  [19] 104/150 listings
+  [20] 104/150 listings
+  [21] 104/150 listings
+  [22] 104/150 listings
+  [23] 104/150 listings
+  [24] 104/150 listings
+  [25] 104/150 listings
+  [26] 104/150 listings
+  [27] 104/150 listings
+  [28] 104/150 listings
+  [29] 104/150 listings
+  [30] 104/150 listings
+
+  ✓ Discovery: 104 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 0 found, 0 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 104
+============================================================
+
+  ── 104 pass (no website) | 0 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ➤ NO-PHONE-SIGNAL: Whitefield Dental Clinic | ★4.8 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Partha Dental Clinic -Whitefield, Bangalore | ★4.7 (0) | will enrich
+  ➤ PHONE-ICON: Clove Dental Clinic - Whitefield, Bangalore | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: Smile Zone Dental Speciality Centre | ★4.8 (0) | need digits
+  ➤ PHONE-ICON: Ivory Smiles Dental Clinic | ★5.0 (0) | need digits
+  ➤ PHONE-ICON: The Smile Clinic | Multispecialty Dental Clinic  | ★4.9 (0) | need digits
+  ➤ PHONE-ICON: Smaya's Dento Care - Whitefield, Bangalore | ★4.9 (0) | need digits
+  ➤ PHONE-ICON: Dentalign Orthodontics | ★4.8 (0) | need digits
+  ➤ PHONE-ICON: My dental world Whitefield (Dental and physiothe | ★4.9 (0) | need digits
+  ➤ PHONE-ICON: Apollo Dental Clinic | ★4.4 (0) | need digits
+  ➤ PHONE-ICON: AS Health - Dental clinic in Whitefield | Skin c | ★4.9 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Sabka dentist | ★4.6 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dentally Yours Dental Clinic - Whitefield | ★5.0 (0) | will enrich
+  ➤ PHONE-ICON: Growing Smiles ® Dental Clinic | ★4.9 (0) | need digits
+  ➤ PHONE-ICON: Microsmiles Dental Care, | ★4.9 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Dentalis Multi-Speciality Dental Clinic Whitefie | ★4.8 (0) | will enrich
+  ➤ PHONE-ICON: You Smile Dental Clinic | ★4.9 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Sweet Tooth Dental Clinic - Best Dental Clinic I | ★5.0 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Reflection Dental Clinic - Best Dental Clinic in | ★4.7 (0) | will enrich
+  ➤ PHONE-ICON: 32 Smiles Multispeciality Dental Clinics | Advan | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: DENTAL SQUARE | ★5.0 (714) | need digits
+  ➤ NO-PHONE-SIGNAL: SmileMax Dental and Aesthetics Studio Whitefield | ★4.9 (120) | will enrich
+  ➤ PHONE-ICON: White Cross Dental | ★4.8 (233) | need digits
+  ➤ PHONE-ICON: Oyster Dental Clinic - Multispeciality Dental Cl | ★4.6 (177) | need digits
+  ➤ PHONE-ICON: Imex Care Clinic | ★4.9 (1644) | need digits
+  ➤ PHONE-ICON: Dr. Batra Dental Care | ★4.7 (464) | need digits
+  ➤ PHONE-ICON: Renuka Cure and Smile Dental Clinic | ★5.0 (188) | need digits
+  ➤ NO-PHONE-SIGNAL: Dentelope Advanced Dental care| Whitefield,Nallu | ★5.0 (23) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mico Dental Clinic (A multi speciality dental, i | ★5.0 (179) | will enrich
+  ➤ NO-PHONE-SIGNAL: Skyline Dental - Multispeciality And Aesthetic C | ★4.9 (207) | will enrich
+  ➤ PHONE-ICON: I Smile Dental Care - Multispecialty dental clin | ★4.8 (243) | need digits
+  ➤ PHONE-ICON: Dental Elements Clinic | ★5.0 (231) | need digits
+  ➤ NO-PHONE-SIGNAL: Octodent Dentistry: Best Dental Clinic in Whitef | ★5.0 (111) | will enrich
+  ➤ NO-PHONE-SIGNAL: Maruthi Dental Clinic | ★4.8 (60) | will enrich
+  ➤ NO-PHONE-SIGNAL: Amrik smile and dental clinic | ★4.7 (28) | will enrich
+  ➤ PHONE-ICON: The Image Dental and Cosmetic Clinic | Hair Face | ★5.0 (22) | need digits
+  ➤ PHONE-ICON: Smilax Dental Clinic – Thubrahalli | Best Dentis | ★4.8 (292) | need digits
+  ➤ PHONE-ICON: Sunshine Dental | ★4.8 (73) | need digits
+  ➤ NO-PHONE-SIGNAL: Sadguru Sai Dental Clinic | ★5.0 (88) | will enrich
+  ➤ NO-PHONE-SIGNAL: NextGen Dental - TMJ Pain Management, Dental Imp | ★5.0 (30) | will enrich
+  ➤ NO-PHONE-SIGNAL: Clove Dental Clinic - Whitefield Vijayanagara, B | ★4.8 (237) | will enrich
+  ➤ NO-PHONE-SIGNAL: KIDZ SMILE DENTAL CARE | ★5.0 (48) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dental Affection | ★4.8 (34) | will enrich
+  ➤ PHONE-ICON: Smile Experts Dental and Facial Aesthetic Clinic | ★4.9 (213) | need digits
+  ➤ PHONE-ICON: WhiteTooth Dental Clinic | ★4.9 (64) | need digits
+  ➤ NO-PHONE-SIGNAL: Dantshaala Paediatric and Family Dental Clinic | ★4.8 (64) | will enrich
+  ➤ NO-PHONE-SIGNAL: NAM DENTAL CARE | ★5.0 (61) | will enrich
+  ✗ DUMP (low activity): CBC - Best Dental Clinics in Whitefield, Bangalo | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Happiest Pearls - Family Dental Care, Whitefield | ★5.0 (8) | will enrich
+  ➤ PHONE-ICON: White Pearls Dental | ★4.9 (95) | need digits
+  ➤ NO-PHONE-SIGNAL: Aadya Dental & Aesthetics | ★4.9 (99) | will enrich
+  ➤ NO-PHONE-SIGNAL: ELV Dental Clinic - Teeth Whitening & Cleaning | | ★4.8 (39) | will enrich
+  ➤ PHONE-ICON: Bridge Health - Dental, Physiotherapy & General  | ★4.8 (23) | need digits
+  ➤ NO-PHONE-SIGNAL: RK Dental Clinic | ★4.8 (26) | will enrich
+  ➤ NO-PHONE-SIGNAL: Invisalign Provider - Whitefield, Bangalore | ★5.0 (62) | will enrich
+  ➤ NO-PHONE-SIGNAL: Sattva Multispeciality Dental Care | ★5.0 (43) | will enrich
+  ➤ PHONE-ICON: KidsDentist ® : Whitefield | Sedation dentistry  | ★4.9 (334) | need digits
+  ➤ PHONE-ICON: Impressions Dental Clinic | ★4.6 (33) | need digits
+  ✗ DUMP (low activity): Best dentist Whitefield- Dr Amruta Dash | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Adam's Dental Clinic | ★5.0 (2) | will enrich
+  ➤ NO-PHONE-SIGNAL: SmileNest Dental Clinic | ★5.0 (21) | will enrich
+  ➤ NO-PHONE-SIGNAL: Janatha Dental Clinic | ★4.9 (58) | will enrich
+  ➤ NO-PHONE-SIGNAL: Invisalign Braces Smile Centre Bangalore - White | ★5.0 (30) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dreamlet Kids Dentistry, Whitefield Bengaluru | ★5.0 (139) | will enrich
+  ➤ PHONE-ICON: Dr. Vivek Aithal - Best Orthodontist and Invisal | ★5.0 (80) | need digits
+  ➤ NO-PHONE-SIGNAL: Dr. Sachin's dental clinic and implant center |  | ★5.0 (8) | will enrich
+  ➤ NO-PHONE-SIGNAL: Mouth Marvels Dental and Implant Centre | ★5.0 (26) | will enrich
+  ➤ PHONE-ICON: Smile Kin Dental Care | ★4.9 (63) | need digits
+  ➤ NO-PHONE-SIGNAL: ಅಮೋಗ dental studio | ★4.5 (366) | will enrich
+  ➤ NO-PHONE-SIGNAL: Apoorva Dental Clinic | ★5.0 (14) | will enrich
+  ✗ DUMP (low activity): Best Paediatric Dentist - Dr.Priya | 4+ Yrs of E | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: SmileMax Dental and Aesthetics Studio - Hagadur  | ★5.0 (24) | will enrich
+  ➤ PHONE-ICON: Milk Tooth | ★5.0 (7) | need digits
+  ✗ DUMP (low activity): Best Dentist - Dr. Tejaswi | 1+ Yrs of Exp. | Be | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Dental works -Root Canal Specialist, Dental impl | ★4.7 (148) | will enrich
+  ➤ NO-PHONE-SIGNAL: G M Dental Clinic Orthodontics & Implantology | ★4.9 (51) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dantoon Dental Clinic & Orthodontic Center | ★5.0 (41) | will enrich
+  ➤ PHONE-ICON: Tooth Lounge A Multispeciality Dental Clinic | ★5.0 (97) | need digits
+  ➤ NO-PHONE-SIGNAL: National Dental Care | ★4.9 (210) | will enrich
+  ➤ NO-PHONE-SIGNAL: Max Smile Orthodontic & Multispeciality Dental C | ★4.9 (88) | will enrich
+  ➤ NO-PHONE-SIGNAL: Smile Needs Dental Group | ★4.7 (158) | will enrich
+  ➤ PHONE-ICON: Clove Dental Clinic in Thubarahalli, Bengaluru | ★4.7 (657) | need digits
+  ➤ NO-PHONE-SIGNAL: Avnee's Dental Clinic | Root Canal Treatment | I | ★5.0 (66) | will enrich
+  ➤ PHONE-ICON: I SMILE DENTAL CARE - Advanced Dental, Root Cana | ★4.8 (649) | need digits
+  ➤ PHONE-ICON: Dr. Gangadhara’s Dental Surgery | ★4.2 (22) | need digits
+  ➤ PHONE-ICON: HealthLand Clinic - Child health care centre in  | ★4.8 (557) | need digits
+  ➤ NO-PHONE-SIGNAL: Vi-Scan Diagnostics Whitefield (Dental - CBCT |  | ★5.0 (2) | will enrich
+  ➤ NO-PHONE-SIGNAL: Tooth Buddy Dental Clinic | ★4.8 (141) | will enrich
+  ➤ PHONE-ICON: T32 Dental Care | ★4.8 (13) | need digits
+  ➤ NO-PHONE-SIGNAL: PriDENT DENTAL CARE | ★5.0 (20) | will enrich
+  ✗ DUMP (low activity): Best Dentist - Dr. Anjuna | 3+ Yrs of Exp. | Ben | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Blossom Dental Clinic | ★5.0 (57) | will enrich
+  ➤ PHONE-ICON: Apollo | ★4.6 (120) | need digits
+  ➤ NO-PHONE-SIGNAL: National Dental Care | Best Dental Clinic in Cha | ★5.0 (2) | will enrich
+  ➤ PHONE-ICON: Konnect Diagnostics - Bangalore | ★4.7 (1439) | need digits
+  ➤ NO-PHONE-SIGNAL: SMAYA’s Kids & Teens Dentistry in Whitefield, Ba | ★5.0 (7) | will enrich
+  ➤ PHONE-ICON: Vydehi Institute of Dental Sciences and Research | ★4.2 (277) | need digits
+  ➤ NO-PHONE-SIGNAL: Dr.ShanmugaPriya Marvel Dental Clinic | ★5.0 (1) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dr. Lokesh Babu KT | Best Dentist in varthur | M | ★5.0 (1) | will enrich
+  ➤ NO-PHONE-SIGNAL: Blossom Dental Clinic (Thubarahalli) | ★4.9 (118) | will enrich
+  ➤ NO-PHONE-SIGNAL: The Smile Clinic | ★4.9 (311) | will enrich
+  ➤ PHONE-ICON: Dr. Shukla's Dental Clinic | ★5.0 (184) | need digits
+  ✗ DUMP (low activity): Best Dentist - Dr. Meyyemmai | 2+ Yrs of Exp. |  | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: ORAL D WHITEFIELD | ★4.1 (10) | will enrich
+
+  ── 0 qualified + 98 phone-icon-needs-enrich | 6 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 34 confirmed no-website
+Pool: 98 candidates
+============================================================
+
+  [1/98] Whitefield Dental Clinic...
+     📞 +91 95917 68216 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (1/34)
+  [2/98] Partha Dental Clinic -Whitefield, Bangalore...
+     📞 +91 81231 30008 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://parthadental.com/dental-skin-hair-clinic-whitefield/?utm_source=google&utm_medium=gmb&utm_campaign=whitefield) — 1 so far
+  [3/98] Clove Dental Clinic - Whitefield, Bangalore...
+     📞 +91 40 3824 5712 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/bengaluru/whitefield?utm_source=website&utm_medium=gmb&utm_campaign=Whitefield_GMB) — 2 so far
+  [4/98] Smile Zone Dental Speciality Centre...
+     📞 +91 99006 00868 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://dentalclinicinwhitefield.com/) — 3 so far
+  [5/98] Ivory Smiles Dental Clinic...
+     📞 +91 96863 28068 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.ivorysmilesdentalclinic.com/) — 4 so far
+  [6/98] The Smile Clinic | Multispecialty Dental Clin...
+     📞 +91 70198 07631 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.thesmileclinic.co.in/best-dental-clinic-whitefield) — 5 so far
+  [7/98] Smaya's Dento Care - Whitefield, Bangalore...
+     📞 +91 73385 49494 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.smayasdentocare.com/) — 6 so far
+  [8/98] Dentalign Orthodontics...
+     📞 +91 80 4112 1192 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.dentalign.in/) — 7 so far
+  [9/98] My dental world Whitefield (Dental and physio...
+     📞 +91 81052 79462 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://mydentalworld-whitefield.com/) — 8 so far
+  [10/98] Apollo Dental Clinic...
+     📞 +91 80500 37070 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://apollodental.in/?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBWhitefield) — 9 so far
+  [11/98] AS Health - Dental clinic in Whitefield | Ski...
+     📞 +91 98801 20961 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://asdentalcare.co.in/) — 10 so far
+  [12/98] Sabka dentist...
+     📞 +91 91083 39321 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://sabkadentist.com/dental-clinics-in-bangalore/whitefield/) — 11 so far
+  [13/98] Dentally Yours Dental Clinic - Whitefield...
+     📞 +91 96118 54058 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dentallyyoursclinic.com/) — 12 so far
+  [14/98] Growing Smiles ® Dental Clinic...
+     📞 +91 93193 73963 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://growingsmilesdentists.com/) — 13 so far
+  [15/98] Microsmiles Dental Care,...
+     📞 +91 99160 92992 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://microsmiles.in/) — 14 so far
+  [16/98] Dentalis Multi-Speciality Dental Clinic White...
+     📞 +91 89516 11570 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://dentalis.in/) — 15 so far
+  [17/98] You Smile Dental Clinic...
+     📞 +91 78928 01584 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.yousmiledentals.com/) — 16 so far
+  [18/98] Sweet Tooth Dental Clinic - Best Dental Clini...
+     📞 +91 99872 58069 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (2/34)
+  [19/98] Reflection Dental Clinic - Best Dental Clinic...
+     📞 +91 80734 09565 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (3/34)
+  [20/98] 32 Smiles Multispeciality Dental Clinics | Ad...
+     📞 +91 99728 71037 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://32smilesdentalclinics.com/whitefield/) — 17 so far
+  [21/98] DENTAL SQUARE...
+     📞 +91 70226 95195 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://dentalsquarewhitefield.in/) — 18 so far
+  [22/98] SmileMax Dental and Aesthetics Studio Whitefi...
+     📞 +91 90363 65358 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://smilemaxdentalclinic.com/) — 19 so far
+  [23/98] White Cross Dental...
+     📞 +91 95153 01603 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/34)
+  [24/98] Oyster Dental Clinic - Multispeciality Dental...
+     📞 +91 80 4482 7012 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://oysterdental.co.in/) — 20 so far
+  [25/98] Imex Care Clinic...
+     📞 +91 99162 20121 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://careimex.com/) — 21 so far
+  [26/98] Dr. Batra Dental Care...
+     📞 +91 90357 08131 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (5/34)
+  [27/98] Renuka Cure and Smile Dental Clinic...
+     📞 +91 98360 64888 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.renukacureandsmiledental.com/) — 22 so far
+  [28/98] Dentelope Advanced Dental care| Whitefield,Na...
+     📞 +91 63646 09627 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (6/34)
+  [29/98] Mico Dental Clinic (A multi speciality dental...
+     📞 +91 96066 92919 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.micodentalclinic.com/) — 23 so far
+  [30/98] Skyline Dental - Multispeciality And Aestheti...
+     📞 +91 63630 94125 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://skylinedentalclinics.com/) — 24 so far
+  [31/98] I Smile Dental Care - Multispecialty dental c...
+     📞 +91 96115 40619 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (7/34)
+  [32/98] Dental Elements Clinic...
+     📞 +91 95910 74680 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://dentalelements.co.in/) — 25 so far
+  [33/98] Octodent Dentistry: Best Dental Clinic in Whi...
+     📞 +91 85508 66055 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.octodent.in/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink) — 26 so far
+  [34/98] Maruthi Dental Clinic...
+     📞 +91 94487 03632 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/34)
+  [35/98] Amrik smile and dental clinic...
+     📞 +91 91820 36895 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (9/34)
+  [36/98] The Image Dental and Cosmetic Clinic | Hair F...
+     📞 +91 87924 56767 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://theimagehospital.com/) — 27 so far
+  [37/98] Smilax Dental Clinic – Thubrahalli | Best Den...
+     📞 +91 73537 24447 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.drkiranssmilegroup.com/) — 28 so far
+  [38/98] Sunshine Dental...
+     📞 +91 80 4215 2929 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://sunshinedental.co.in/) — 29 so far
+  [39/98] Sadguru Sai Dental Clinic...
+     📞 +91 99722 48763 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (10/34)
+  [40/98] NextGen Dental - TMJ Pain Management, Dental ...
+     📞 +91 63640 39528 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.nextgendental.in/) — 30 so far
+  [41/98] Clove Dental Clinic - Whitefield Vijayanagara...
+     📞 +91 40 3824 5712 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/bengaluru/whitefield?utm_source=website&utm_medium=gmb&utm_campaign=Whitefield_GMB) — 31 so far
+  [42/98] KIDZ SMILE DENTAL CARE...
+     📞 +91 90357 77698 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (11/34)
+  [43/98] Dental Affection...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [44/98] Smile Experts Dental and Facial Aesthetic Cli...
+     📞 +91 72043 21003 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://smileexpert.co.in/) — 32 so far
+  [45/98] WhiteTooth Dental Clinic...
+     📞 +91 91480 61568 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://whitetooth.in/) — 33 so far
+  [46/98] Dantshaala Paediatric and Family Dental Clini...
+     📞 +91 72044 10452 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.dantshaala.co.in/) — 34 so far
+  [47/98] NAM DENTAL CARE...
+     📞 +91 80895 09880 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (12/34)
+  [48/98] Happiest Pearls - Family Dental Care, Whitefi...
+     📞 +91 87488 88874 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clinics.happiesthealth.com/clinics/happiest-pearls-whitefield) — 35 so far
+  [49/98] White Pearls Dental...
+     📞 +91 94926 37001 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (13/34)
+  [50/98] Aadya Dental & Aesthetics...
+     📞 +91 63663 60115 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://aadyadental.in/) — 36 so far
+  [51/98] ELV Dental Clinic - Teeth Whitening & Cleanin...
+     📞 +91 95352 64855 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://elvhealthcare.com/) — 37 so far
+  [52/98] Bridge Health - Dental, Physiotherapy & Gener...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [53/98] RK Dental Clinic...
+     📞 +91 90359 18327 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (14/34)
+  [54/98] Invisalign Provider - Whitefield, Bangalore...
+     📞 +91 73385 49494 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://invisiblealignersbangalore.com/) — 38 so far
+  [55/98] Sattva Multispeciality Dental Care...
+     📞 +91 63625 49115 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (15/34)
+  [56/98] KidsDentist ® : Whitefield | Sedation dentist...
+     📞 +91 74117 56644 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://kidsdentist.in/) — 39 so far
+  [57/98] Impressions Dental Clinic...
+     📞 +91 98441 31756 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.impressionsdentalclinic.com/) — 40 so far
+  [58/98] Adam's Dental Clinic...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [59/98] SmileNest Dental Clinic...
+     📞 +91 90364 27576 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.smilenestclinic.com/) — 41 so far
+  [60/98] Janatha Dental Clinic...
+     📞 +91 99167 30519 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (16/34)
+  [61/98] Invisalign Braces Smile Centre Bangalore - Wh...
+     📞 +91 96329 73966 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://invisalignalignersbangalore.com/) — 42 so far
+  [62/98] Dreamlet Kids Dentistry, Whitefield Bengaluru...
+     📞 +91 87920 16969 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://dreamletkidsdentistry.com/) — 43 so far
+  [63/98] Dr. Vivek Aithal - Best Orthodontist and Invi...
+     📞 +91 96329 73966 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://hkdentalclinic.com/dr-vivek-aithal/) — 44 so far
+  [64/98] Dr. Sachin's dental clinic and implant center...
+     📞 +91 88614 46589 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (17/34)
+  [65/98] Mouth Marvels Dental and Implant Centre...
+     📞 +91 90351 14060 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://mouthmarvelsdental.in/) — 45 so far
+  [66/98] Smile Kin Dental Care...
+     📞 +91 99021 18598 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.smilekindentalcare.in/) — 46 so far
+  [67/98] ಅಮೋಗ dental studio...
+     📞 +91 98862 18758 | Owner: — | Claimed: No
+     ✓ CONFIRMED no-website lead (18/34)
+  [68/98] Apoorva Dental Clinic...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [69/98] SmileMax Dental and Aesthetics Studio - Hagad...
+     📞 +91 90363 65358 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://smilemaxdentalclinic.com/) — 47 so far
+  [70/98] Milk Tooth...
+     📞 +91 72599 89709 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://milktooth.co.in/) — 48 so far
+  [71/98] Dental works -Root Canal Specialist, Dental i...
+     📞 +91 78927 89126 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drsamuelsantoshdentistry.com/) — 49 so far
+  [72/98] G M Dental Clinic Orthodontics & Implantology...
+     📞 +91 93429 62359 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (19/34)
+  [73/98] Dantoon Dental Clinic & Orthodontic Center...
+     📞 +91 92897 30451 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dantoondentalclinic.com/) — 50 so far
+  [74/98] Tooth Lounge A Multispeciality Dental Clinic...
+     📞 +91 99961 84345 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.toothloungedentalclinic.com/) — 51 so far
+  [75/98] National Dental Care...
+     📞 +91 92369 52369 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.nationaldentalcare.in/) — 52 so far
+  [76/98] Max Smile Orthodontic & Multispeciality Denta...
+     📞 +91 63642 29407 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drnehasingh33263.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu) — 53 so far
+  [77/98] Smile Needs Dental Group...
+     📞 +91 80955 55653 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.smileneedsdental.in/) — 54 so far
+  [78/98] Clove Dental Clinic in Thubarahalli, Bengalur...
+     📞 +91 40 3824 5712 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/bengaluru/whitefield?utm_source=website&utm_medium=gmb&utm_campaign=Whitefield_GMB) — 55 so far
+  [79/98] Avnee's Dental Clinic | Root Canal Treatment ...
+     📞 +91 72041 60995 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (20/34)
+  [80/98] I SMILE DENTAL CARE - Advanced Dental, Root C...
+     📞 +91 96115 40619 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (21/34)
+  [81/98] Dr. Gangadhara’s Dental Surgery...
+     📞 +91 80503 53544 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (22/34)
+  [82/98] HealthLand Clinic - Child health care centre ...
+     📞 +91 93640 97115 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.healthlandclinics.com/) — 56 so far
+  [83/98] Vi-Scan Diagnostics Whitefield (Dental - CBCT...
+     📞 +91 96069 80274 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.viscandiagnostics.com/) — 57 so far
+  [84/98] Tooth Buddy Dental Clinic...
+     📞 +91 83105 67401 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://toothbuddy.dentostack.com/) — 58 so far
+  [85/98] T32 Dental Care...
+     📞 +91 98864 44266 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (23/34)
+  [86/98] PriDENT DENTAL CARE...
+     📞 +91 96630 61808 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://click4appointment.com/clinic-details/pridentdentalcare-4246) — 59 so far
+  [87/98] Blossom Dental Clinic...
+     📞 +91 78925 60272 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (24/34)
+  [88/98] Apollo...
+     📞 +91 80500 37070 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://apollodental.in/?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBWhitefield) — 60 so far
+  [89/98] National Dental Care | Best Dental Clinic in ...
+     📞 +91 92369 52369 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.nationaldentalcare.in/) — 61 so far
+  [90/98] Konnect Diagnostics - Bangalore...
+     📞 +91 87900 01902 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://konnectdiagnostics.com/) — 62 so far
+  [91/98] SMAYA’s Kids & Teens Dentistry in Whitefield,...
+     📞 +91 72049 49080 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://smayaskidsdentistry.com/) — 63 so far
+  [92/98] Vydehi Institute of Dental Sciences and Resea...
+     📞 +91 80 4906 9000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://vids.ac.in/) — 64 so far
+  [93/98] Dr.ShanmugaPriya Marvel Dental Clinic...
+     📞 — | Owner: — | Claimed: No
+     ✗ No phone found — skipped (not usable for either list)
+  [94/98] Dr. Lokesh Babu KT | Best Dentist in varthur ...
+     📞 +91 1800 102 4647 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (https://www.manipalhospitals.com/varthurroad/hospitals/) — 65 so far
+  [95/98] Blossom Dental Clinic (Thubarahalli)...
+     📞 +91 78925 60272 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (25/34)
+  [96/98] The Smile Clinic...
+     📞 +91 70198 07631 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.thesmileclinic.co.in/best-dental-clinic-whitefield) — 66 so far
+  [97/98] Dr. Shukla's Dental Clinic...
+     📞 +91 90878 87872 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (26/34)
+  [98/98] ORAL D WHITEFIELD...
+     📞 +91 80 4211 4509 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (http://www.oraldimaging.com/) — 67 so far
+
+  ── Final: 26/34 confirmed no-website leads, 67 has-website leads (checked 98/98 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Dental Clinics in Whitefield, Bangalore
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Whitefield Dental Clinic               +91 95917 68216    4.8   220  
+2   Sweet Tooth Dental Clinic - Best Den   +91 99872 58069    5.0   163  
+3   Reflection Dental Clinic - Best Dent   +91 80734 09565    4.7   68   
+4   White Cross Dental                     +91 95153 01603    4.8   233  
+5   Dr. Batra Dental Care                  +91 90357 08131    4.7   464  
+6   Dentelope Advanced Dental care| Whit   +91 63646 09627    5.0   23   
+7   I Smile Dental Care - Multispecialty   +91 96115 40619    4.8   243  
+8   Maruthi Dental Clinic                  +91 94487 03632    4.8   60   
+9   Amrik smile and dental clinic          +91 91820 36895    4.7   28   
+10  Sadguru Sai Dental Clinic              +91 99722 48763    5.0   88   
+11  KIDZ SMILE DENTAL CARE                 +91 90357 77698    5.0   48   
+12  NAM DENTAL CARE                        +91 80895 09880    5.0   61   
+13  White Pearls Dental                    +91 94926 37001    4.9   95   
+14  RK Dental Clinic                       +91 90359 18327    4.8   26   
+15  Sattva Multispeciality Dental Care     +91 63625 49115    5.0   43   
+16  Janatha Dental Clinic                  +91 99167 30519    4.9   58   
+17  Dr. Sachin's dental clinic and impla   +91 88614 46589    5.0   8    
+18  ಅಮೋಗ dental studio                     +91 98862 18758    4.5   366  
+19  G M Dental Clinic Orthodontics & Imp   +91 93429 62359    4.9   51   
+20  Avnee's Dental Clinic | Root Canal T   +91 72041 60995    5.0   66   
+21  I SMILE DENTAL CARE - Advanced Denta   +91 96115 40619    4.8   243  
+22  Dr. Gangadhara’s Dental Surgery        +91 80503 53544    4.2   22   
+23  T32 Dental Care                        +91 98864 44266    4.8   13   
+24  Blossom Dental Clinic                  +91 78925 60272    5.0   57   
+25  Blossom Dental Clinic (Thubarahalli)   +91 78925 60272    4.9   57   
+26  Dr. Shukla's Dental Clinic             +91 90878 87872    5.0   184  
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Dental Clinics in Whitefield, Bangalore
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Partha Dental Clinic -Whitefield, Ba   +91 81231 30008    4.7   684  
+2   Clove Dental Clinic - Whitefield, Ba   +91 40 3824 5712   4.7   768  
+3   Smile Zone Dental Speciality Centre    +91 99006 00868    4.8   307  
+4   Ivory Smiles Dental Clinic             +91 96863 28068    5.0   234  
+5   The Smile Clinic | Multispecialty De   +91 70198 07631    4.9   70   
+6   Smaya's Dento Care - Whitefield, Ban   +91 73385 49494    4.9   505  
+7   Dentalign Orthodontics                 +91 80 4112 1192   4.8   835  
+8   My dental world Whitefield (Dental a   +91 81052 79462    4.9   93   
+9   Apollo Dental Clinic                   +91 80500 37070    4.4   206  
+10  AS Health - Dental clinic in Whitefi   +91 98801 20961    4.9   43   
+11  Sabka dentist                          +91 91083 39321    4.6   944  
+12  Dentally Yours Dental Clinic - White   +91 96118 54058    5.0   164  
+13  Growing Smiles ® Dental Clinic         +91 93193 73963    4.9   619  
+14  Microsmiles Dental Care,               +91 99160 92992    4.9   410  
+15  Dentalis Multi-Speciality Dental Cli   +91 89516 11570    4.8   147  
+16  You Smile Dental Clinic                +91 78928 01584    4.9   252  
+17  32 Smiles Multispeciality Dental Cli   +91 99728 71037    4.7   677  
+18  DENTAL SQUARE                          +91 70226 95195    5.0   714  
+19  SmileMax Dental and Aesthetics Studi   +91 90363 65358    4.9   120  
+20  Oyster Dental Clinic - Multispeciali   +91 80 4482 7012   4.6   177  
+21  Imex Care Clinic                       +91 99162 20121    4.9   1644 
+22  Renuka Cure and Smile Dental Clinic    +91 98360 64888    5.0   188  
+23  Mico Dental Clinic (A multi speciali   +91 96066 92919    5.0   179  
+24  Skyline Dental - Multispeciality And   +91 63630 94125    4.9   207  
+25  Dental Elements Clinic                 +91 95910 74680    5.0   231  
+26  Octodent Dentistry: Best Dental Clin   +91 85508 66055    5.0   111  
+27  The Image Dental and Cosmetic Clinic   +91 87924 56767    5.0   22   
+28  Smilax Dental Clinic – Thubrahalli |   +91 73537 24447    4.8   292  
+29  Sunshine Dental                        +91 80 4215 2929   4.8   73   
+30  NextGen Dental - TMJ Pain Management   +91 63640 39528    5.0   30   
+31  Clove Dental Clinic - Whitefield Vij   +91 40 3824 5712   4.8   768  
+32  Smile Experts Dental and Facial Aest   +91 72043 21003    4.9   213  
+33  WhiteTooth Dental Clinic               +91 91480 61568    4.9   64   
+34  Dantshaala Paediatric and Family Den   +91 72044 10452    4.8   64   
+35  Happiest Pearls - Family Dental Care   +91 87488 88874    5.0   8    
+36  Aadya Dental & Aesthetics              +91 63663 60115    4.9   99   
+37  ELV Dental Clinic - Teeth Whitening    +91 95352 64855    4.8   39   
+38  Invisalign Provider - Whitefield, Ba   +91 73385 49494    5.0   62   
+39  KidsDentist ® : Whitefield | Sedatio   +91 74117 56644    4.9   334  
+40  Impressions Dental Clinic              +91 98441 31756    4.6   33   
+41  SmileNest Dental Clinic                +91 90364 27576    5.0   21   
+42  Invisalign Braces Smile Centre Banga   +91 96329 73966    5.0   30   
+43  Dreamlet Kids Dentistry, Whitefield    +91 87920 16969    5.0   139  
+44  Dr. Vivek Aithal - Best Orthodontist   +91 96329 73966    5.0   80   
+45  Mouth Marvels Dental and Implant Cen   +91 90351 14060    5.0   26   
+46  Smile Kin Dental Care                  +91 99021 18598    4.9   63   
+47  SmileMax Dental and Aesthetics Studi   +91 90363 65358    5.0   120  
+48  Milk Tooth                             +91 72599 89709    5.0   7    
+49  Dental works -Root Canal Specialist,   +91 78927 89126    4.7   148  
+50  Dantoon Dental Clinic & Orthodontic    +91 92897 30451    5.0   41   
+51  Tooth Lounge A Multispeciality Denta   +91 99961 84345    5.0   97   
+52  National Dental Care                   +91 92369 52369    4.9   210  
+53  Max Smile Orthodontic & Multispecial   +91 63642 29407    4.9   88   
+54  Smile Needs Dental Group               +91 80955 55653    4.7   158  
+55  Clove Dental Clinic in Thubarahalli,   +91 40 3824 5712   4.7   768  
+56  HealthLand Clinic - Child health car   +91 93640 97115    4.8   557  
+57  Vi-Scan Diagnostics Whitefield (Dent   +91 96069 80274    5.0   2    
+58  Tooth Buddy Dental Clinic              +91 83105 67401    4.8   141  
+59  PriDENT DENTAL CARE                    +91 96630 61808    5.0   20   
+60  Apollo                                 +91 80500 37070    4.6   206  
+61  National Dental Care | Best Dental C   +91 92369 52369    5.0   210  
+62  Konnect Diagnostics - Bangalore        +91 87900 01902    4.7   1439 
+63  SMAYA’s Kids & Teens Dentistry in Wh   +91 72049 49080    5.0   7    
+64  Vydehi Institute of Dental Sciences    +91 80 4906 9000   4.2   277  
+65  Dr. Lokesh Babu KT | Best Dentist in   +91 1800 102 464   5.0   1    
+66  The Smile Clinic                       +91 70198 07631    4.9   70   
+67  ORAL D WHITEFIELD                      +91 80 4211 4509   4.1   10   
+================================================================================
+
+
+  ── Area 'Whitefield, Bangalore' contributed 24 new no-website leads, 61 new has-website leads (running total: 50/60 no-website, 194 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/blr_dental.csv (50 rows), /workspaces/Hermes-leads/stress_run/blr_dental_has_website.csv (194 rows)
+
+
+######################################################################
+# AREA: Koramangala, Bangalore  (need 10 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Dental Clinics  |  Location: Koramangala, Bangalore  |  Region hint: IN
+#  Target: 10 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Dental Clinics Koramangala, Bangalore
+Cap: 150 listings
+============================================================
+
+  [1] 8/150 listings
+  [2] 16/150 listings
+  [3] 20/150 listings
+  [4] 26/150 listings
+  [5] 34/150 listings
+  [6] 38/150 listings
+  [7] 46/150 listings
+  [8] 54/150 listings
+  [9] 58/150 listings
+  [10] 61/150 listings
+  [11] 65/150 listings
+  [12] 67/150 listings
+  [13] 75/150 listings
+  [14] 82/150 listings
+  [15] 86/150 listings
+  [16] 94/150 listings
+  [17] 102/150 listings
+  [18] 106/150 listings
+  [19] 106/150 listings
+  [20] 106/150 listings
+  [21] 106/150 listings
+  [22] 106/150 listings
+  [23] 106/150 listings
+  [24] 106/150 listings
+  [25] 106/150 listings
+  [26] 106/150 listings
+  [27] 106/150 listings
+  [28] 106/150 listings
+  [29] 106/150 listings
+  [30] 106/150 listings
+
+  ✓ Discovery: 106 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 14 found, 4 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 110
+============================================================
+
+  ── 110 pass (no website) | 0 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ➤ PHONE-ICON: Sky Dental Clinic | ★4.9 (0) | need digits
+  ➤ PHONE-ICON: Chisel Dental Clinic | ★4.7 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Root Care Dental Clinic | ★4.9 (0) | will enrich
+  ➤ PHONE-ICON: Jeevan Dental Clinic | ★4.9 (0) | need digits
+  ➤ PHONE-ICON: Beyond Smiles Dental Clinic | ★4.9 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Dental Diagnostic Centre-DDC Smiles Koramangala | ★5.0 (0) | will enrich
+  ➤ PHONE-ICON: Sabka dentist | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: V Care Dental Speciality Clinic , Koramangala | ★4.9 (0) | need digits
+  ➤ PHONE-ICON: Dr. Sapna DENTAL CARE | ★5.0 (0) | need digits
+  ➤ PHONE-ICON: JP Dental Clinic | Koramangala | | ★4.9 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Smile Dental Clinic | ★4.9 (0) | will enrich
+  ➤ PHONE-ICON: Dr.Sathya's Speciality Dental Care & Implant Cen | ★4.6 (0) | need digits
+  ➤ PHONE-ICON: Ridgetop Dental International | Best dentist in  | ★4.8 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Dezy Dental Clinic - Koramangala - Implant & Ali | ★4.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Vibrant Smiles Dental Clinic | Best Dentist for  | ★4.9 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dental Alliance | ★4.9 (0) | will enrich
+  ➤ PHONE-ICON: Smilekraft Dental Clinic | ★4.9 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Cosmetic Dental Clinic | ★4.8 (0) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dental Health Clinic | ★4.6 (0) | will enrich
+  ➤ PHONE-ICON: Aadhya Dental Care | ★4.9 (0) | need digits
+  ➤ PHONE-ICON: Clove Dental Clinic - Koramangala ST, Bangalore | ★4.7 (606) | need digits
+  ➤ PHONE-ICON: Dental De Care | Dr Pramod KM | Invisalign & Ort | ★4.8 (97) | need digits
+  ➤ NO-PHONE-SIGNAL: Blooms Dental Care Kormangala | Best Dentist for | ★5.0 (62) | will enrich
+  ➤ PHONE-ICON: Vardhana's Dental Clinic In 5th Block Koramangal | ★5.0 (51) | need digits
+  ➤ PHONE-ICON: Smile Center Multispeciality Dental Clinic, Kora | ★5.0 (119) | need digits
+  ➤ NO-PHONE-SIGNAL: Partha Dental Clinic - Koramangala, Bangalore| I | ★4.6 (146) | will enrich
+  ➤ PHONE-ICON: Dr Sheetal Shetty's Dental care | Dentist In Kor | ★5.0 (42) | need digits
+  ➤ NO-PHONE-SIGNAL: Beyond Smiles Dental Clinic Koramangala | ★5.0 (208) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dochome | ★4.8 (59) | will enrich
+  ➤ PHONE-ICON: Apollo Dental Clinic, Koramangala | Best Dental  | ★4.7 (325) | need digits
+  ➤ NO-PHONE-SIGNAL: Elite Dental Care Dental Clinic | ★5.0 (47) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dantastra Dental Hub | ★4.9 (151) | will enrich
+  ➤ NO-PHONE-SIGNAL: Jas Dental Jakkasandra | ★4.9 (496) | will enrich
+  ➤ PHONE-ICON: Dentis Zone | ★5.0 (167) | need digits
+  ➤ NO-PHONE-SIGNAL: Ethicura Dental | ★5.0 (76) | will enrich
+  ➤ NO-PHONE-SIGNAL: Gia Dental Care | ★5.0 (147) | will enrich
+  ➤ NO-PHONE-SIGNAL: Best Smiles Dental - Advanced Aesthetics and Imp | ★5.0 (214) | will enrich
+  ➤ NO-PHONE-SIGNAL: Aditi Oro Dental Care-Pediatric Dentist in Koram | ★4.9 (78) | will enrich
+  ➤ PHONE-ICON: Dr Sudheer's COSMODENT DENTAL HUB, ORTHODONTIC,  | ★4.9 (157) | need digits
+  ➤ NO-PHONE-SIGNAL: Zen Dental and Health Care | ★4.9 (130) | will enrich
+  ➤ NO-PHONE-SIGNAL: OrthoSquare Dental Clinic - Jakkasandra Extensio | ★4.9 (395) | will enrich
+  ➤ PHONE-ICON: Smile Dental Orthodontic & Implant Clinic | ★5.0 (27) | need digits
+  ➤ NO-PHONE-SIGNAL: Devi Dental Clinic | ★4.9 (58) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dr.Kishor’s Dentistry - Invisalign Centre | ★4.7 (78) | will enrich
+  ➤ NO-PHONE-SIGNAL: Priya dental clinic | ★4.4 (67) | will enrich
+  ➤ NO-PHONE-SIGNAL: Ashwati Dental Care - Dentist, Implants, Invisal | ★5.0 (23) | will enrich
+  ➤ PHONE-ICON: Expressions Multi Speciality Dental Clinic | Dr. | ★4.9 (50) | need digits
+  ➤ NO-PHONE-SIGNAL: Sparkling Smiles Dental Clinic | ★4.9 (54) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dr.Vidya Kishore, Handent dental clinic | ★4.8 (16) | will enrich
+  ➤ PHONE-ICON: Blooms Dental Care | ★4.9 (446) | need digits
+  ➤ PHONE-ICON: Dr. Chahal Aesthetic Clinic | ★4.8 (1133) | need digits
+  ➤ PHONE-ICON: The Dental Venue | ★4.9 (156) | need digits
+  ➤ NO-PHONE-SIGNAL: UNIVERSAL SMILES DENTAL CLINIC | ★4.7 (13) | will enrich
+  ➤ NO-PHONE-SIGNAL: Reginolds Dental Clinic | ★4.9 (33) | will enrich
+  ➤ NO-PHONE-SIGNAL: Smiles.ai Kormangala | ★4.5 (17) | will enrich
+  ➤ PHONE-ICON: Sarathy Hospital & Dental Frames Ejipura | ★4.9 (302) | need digits
+  ➤ NO-PHONE-SIGNAL: Golden Proportions Dental Studio | ★4.9 (209) | will enrich
+  ➤ PHONE-ICON: Toothsi by MakeO | Invisible Braces & Aligners | | ★4.3 (839) | need digits
+  ✗ DUMP (low activity): Dr Vishesh - Prosthodontist & Implantologist - D | ★0.0 (0)
+  ✗ DUMP (low activity): Jeevan Home (Dental consultation only) | ★0.0 (0)
+  ➤ PHONE-ICON: A GENTLE TOUCH FAMILY CLINIC | ★5.0 (53) | need digits
+  ➤ NO-PHONE-SIGNAL: N.A Dental & Implant Center | ★4.8 (5) | will enrich
+  ➤ PHONE-ICON: St. John's Dental Clinic | ★3.6 (14) | need digits
+  ➤ NO-PHONE-SIGNAL: Sky Medspa Laser Clinic - Koramangala | ★4.8 (134) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dr. Gazala Anjum | Consult With Best Dentist Doc | ★5.0 (1) | will enrich
+  ✗ DUMP (low activity): Dr. Sukhdeep Chahal | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Sagar Dental Clinic | ★4.8 (75) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dr Dilip Dental Centre | Dental Clinic & OroFaci | ★4.0 (3) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dr Prasad Koramangala Dental Clinic | ★3.3 (39) | will enrich
+  ➤ PHONE-ICON: Dr.Roma Haider | ★4.9 (85) | need digits
+  ➤ PHONE-ICON: Docube Clinic | ★4.8 (616) | need digits
+  ➤ NO-PHONE-SIGNAL: Clove Dental Clinic - Koramangala-SG Palya | ★4.9 (28) | will enrich
+  ➤ PHONE-ICON: Akshatha Skin & Hair Care Centre | ★4.5 (122) | need digits
+  ➤ PHONE-ICON: United Medical Center and Apple Diagnostics - Be | ★4.6 (10) | need digits
+  ➤ NO-PHONE-SIGNAL: Dr.Suprith Dental Clinic | ★2.5 (2) | will enrich
+  ➤ NO-PHONE-SIGNAL: Crown Vet Koramangala | ★4.7 (334) | will enrich
+  ✗ DUMP (low activity): Sri Venkteshwara Digital Dental Clinic | ★0.0 (0)
+  ➤ PHONE-ICON: Apollo Spectra Hospitals - Koramangala, Bengalur | ★4.6 (6512) | need digits
+  ➤ NO-PHONE-SIGNAL: Dental Clinic Implant Centre | ★5.0 (1) | will enrich
+  ✗ DUMP (low activity): Whistle Aligners - Best Orthodontic in Koramanga | ★0.0 (0)
+  ➤ PHONE-ICON: Aesthete Lifestyle Dentistry - HSR Layout, Banga | ★4.9 (194) | need digits
+  ➤ PHONE-ICON: Dental Diagnostic Centre-DDC Smiles HSR Layout | ★4.9 (2406) | need digits
+  ➤ NO-PHONE-SIGNAL: Digital Dental Clinic | ★1.0 (1) | will enrich
+  ➤ NO-PHONE-SIGNAL: Anand Dental Clinic | ★5.0 (9) | will enrich
+  ➤ PHONE-ICON: VLCC BEAUTY CLINIC ( Koramangala 2, Bangalore ) | ★4.4 (828) | need digits
+  ➤ PHONE-ICON: Dental De Care | Dr Pramod KM | Invisalign & Ort | ★4.9 (133) | need digits
+  ➤ PHONE-ICON: My Scans Dental Imaging Center ( Poorna Imaging) | ★4.1 (27) | need digits
+  ✗ DUMP (low activity): Dental | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: JAWS Dental Clinic & Implant Centre | ★4.6 (12) | will enrich
+  ✗ DUMP (low activity): Specialist Dental Clinic | ★0.0 (0)
+  ➤ PHONE-ICON: Jyothi Multispeciality Clinic | ★3.8 (30) | need digits
+  ➤ NO-PHONE-SIGNAL: PEARL CLINIC | ★4.8 (261) | will enrich
+  ➤ NO-PHONE-SIGNAL: Cudur Speciality Clinics | ★3.9 (11) | will enrich
+  ➤ PHONE-ICON: Vinayaka Sai Dental Clinic | ★4.5 (258) | need digits
+  ➤ PHONE-ICON: Ayu Health Hospitals | ★4.8 (207) | need digits
+  ➤ PHONE-ICON: Child Central Clinic | ★4.4 (69) | need digits
+  ➤ NO-PHONE-SIGNAL: Shradha Nursing Home | ★4.6 (605) | will enrich
+  ➤ NO-PHONE-SIGNAL: ARTISTRY CLINICS | ★4.4 (405) | will enrich
+  ➤ PHONE-ICON: Aesthetica Veda Clinic - Koramangala - Skin, Hai | ★5.0 (78) | need digits
+  ➤ PHONE-ICON: Acura Speciality Hospital | ★3.4 (422) | need digits
+  ➤ NO-PHONE-SIGNAL: My Family Dentist | ★4.1 (13) | will enrich
+  ➤ PHONE-ICON: Vetic Pet Clinic Koramangala | ★4.7 (295) | need digits
+  ➤ NO-PHONE-SIGNAL: West Mead Dental & Skin Clinic - Dental Clinic i | ★4.9 (25) | will enrich
+  ✗ DUMP (low activity): Dr Sumant Shetty | Consult With Best Dentist Doc | ★0.0 (0)
+  ➤ PHONE-ICON: SUVIDHA VITAL CARE CLINIC | ★4.8 (29) | need digits
+  ➤ NO-PHONE-SIGNAL: Celio, Ground Flor | ★5.0 (1) | will enrich
+  ✗ DUMP (low activity): Basha Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Tooth N Care | ★0.0 (0)
+  ✗ DUMP (low activity): Sculptura Aesthetic Centre | ★0.0 (0)
+  ✗ DUMP (low activity): Dr. Braces and Faces | ★0.0 (0)
+
+  ── 0 qualified + 98 phone-icon-needs-enrich | 12 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 10 confirmed no-website
+Pool: 98 candidates
+============================================================
+
+  [1/98] Sky Dental Clinic...
+     📞 +91 93532 48386 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://skydentalbengaluru.zoca.com/?utm_source=googlemaps&utm_medium=googlemaps&utm_campaign=googlemaps) — 1 so far
+  [2/98] Chisel Dental Clinic...
+     📞 +91 99721 17009 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.chiseldental.co.in/) — 2 so far
+  [3/98] Root Care Dental Clinic...
+     📞 +91 80568 42222 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://rootcaredental.com/) — 3 so far
+  [4/98] Jeevan Dental Clinic...
+     📞 +91 98868 92438 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.jeevandental.com/) — 4 so far
+  [5/98] Beyond Smiles Dental Clinic...
+     📞 +91 98867 24383 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://beyondsmiles.co.in/) — 5 so far
+  [6/98] Dental Diagnostic Centre-DDC Smiles Koramanga...
+     📞 +91 80 2552 9197 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://ddcsmiles.in/) — 6 so far
+  [7/98] Sabka dentist...
+     📞 +91 97422 10044 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.sabkadentist.com/dental-clinics-in-bangalore/koramangala/) — 7 so far
+  [8/98] V Care Dental Speciality Clinic , Koramangala...
+     📞 +91 80 4096 5600 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://vcaredentist.com/) — 8 so far
+  [9/98] Dr. Sapna DENTAL CARE...
+     📞 +91 99017 63361 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://sapnadentalcare.com/) — 9 so far
+  [10/98] JP Dental Clinic | Koramangala |...
+     📞 +91 70222 47574 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://jpdental.co.in/) — 10 so far
+  [11/98] Smile Dental Clinic...
+     📞 +91 98451 92325 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://ddcsmiles.in/) — 11 so far
+  [12/98] Dr.Sathya's Speciality Dental Care & Implant ...
+     📞 +91 99020 99233 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.drsathyasdentalcare.com/) — 12 so far
+  [13/98] Ridgetop Dental International | Best dentist ...
+     📞 +91 78468 89900 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.ridgetopdental.in/) — 13 so far
+  [14/98] Dezy Dental Clinic - Koramangala - Implant & ...
+     📞 +91 76187 92440 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dezy.com/clinics/bangalore/best-dental-clinic-bangalore-koramangala-6th-block) — 14 so far
+  [15/98] Vibrant Smiles Dental Clinic | Best Dentist f...
+     📞 +91 63600 91572 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.vibrantsmile.in/) — 15 so far
+  [16/98] Dental Alliance...
+     📞 +91 90368 04379 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.practo.com/bangalore/clinic/dental-alliance-koramangala-koramangala-7-block/amp) — 16 so far
+  [17/98] Smilekraft Dental Clinic...
+     📞 +91 88677 57004 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://smilekraftdc.in/) — 17 so far
+  [18/98] Cosmetic Dental Clinic...
+     📞 +91 63661 95959 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.cosmeticdentalclinics.in/) — 18 so far
+  [19/98] Dental Health Clinic...
+     📞 +91 98451 01056 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (1/10)
+  [20/98] Aadhya Dental Care...
+     📞 +91 98861 20415 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://aadhyadentalcare.com/) — 19 so far
+  [21/98] Clove Dental Clinic - Koramangala ST, Bangalo...
+     📞 +91 40 3824 5711 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/bengaluru/koramangala?utm_source=website&utm_medium=gmb&utm_campaign=Koramangala_ST_GMB) — 20 so far
+  [22/98] Dental De Care | Dr Pramod KM | Invisalign & ...
+     📞 +91 96111 26244 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dentaldecare.com/) — 21 so far
+  [23/98] Blooms Dental Care Kormangala | Best Dentist ...
+     📞 +91 81239 82595 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (2/10)
+  [24/98] Vardhana's Dental Clinic In 5th Block Koraman...
+     📞 +91 99162 78993 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (3/10)
+  [25/98] Smile Center Multispeciality Dental Clinic, K...
+     📞 +91 80 4991 2754 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/10)
+  [26/98] Partha Dental Clinic - Koramangala, Bangalore...
+     📞 +91 88857 42392 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://parthadental.com/skin-hair-dental-clinic-koramangala/?utm_source=google&utm_medium=gmb&utm_campaign=koramangala) — 22 so far
+  [27/98] Dr Sheetal Shetty's Dental care | Dentist In ...
+     📞 +91 63667 43749 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.findlocales.com/bangalore/bcontacts/all/details/9029/sky-dental-clinic---dentist-in-koramangala.html) — 23 so far
+  [28/98] Beyond Smiles Dental Clinic Koramangala...
+     📞 +91 98867 24383 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://beyondsmiles.co.in/) — 24 so far
+  [29/98] Dochome...
+     📞 +91 89104 70711 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://dochomeindia.in/) — 25 so far
+  [30/98] Apollo Dental Clinic, Koramangala | Best Dent...
+     📞 +91 80500 27075 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://apollodental.in/?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBKoramangala) — 26 so far
+  [31/98] Elite Dental Care Dental Clinic...
+     📞 +91 94490 51190 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://elitedentalcare.my.canva.site/) — 27 so far
+  [32/98] Dantastra Dental Hub...
+     📞 +91 90191 24389 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dantastradentalhub.com/) — 28 so far
+  [33/98] Jas Dental Jakkasandra...
+     📞 +91 95911 11177 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://jasdental.in/) — 29 so far
+  [34/98] Dentis Zone...
+     📞 +91 91104 42603 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dentiszone.com/) — 30 so far
+  [35/98] Ethicura Dental...
+     📞 +91 98457 28378 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.ethicuradental.in/) — 31 so far
+  [36/98] Gia Dental Care...
+     📞 +91 93809 28080 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (5/10)
+  [37/98] Best Smiles Dental - Advanced Aesthetics and ...
+     📞 +91 90082 84481 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://bestsmilesdentalkoramangala.com/) — 32 so far
+  [38/98] Aditi Oro Dental Care-Pediatric Dentist in Ko...
+     📞 +91 87970 31132 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.aditiorodentalcare.com/) — 33 so far
+  [39/98] Dr Sudheer's COSMODENT DENTAL HUB, ORTHODONTI...
+     📞 +91 98450 02862 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (6/10)
+  [40/98] Zen Dental and Health Care...
+     📞 +91 91089 18009 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://zendental.in/) — 34 so far
+  [41/98] OrthoSquare Dental Clinic - Jakkasandra Exten...
+     📞 +91 8071 820 858 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://dental-clinics.orthosquare.com/near-me/bengaluru/jakkasandra-extension/orthosquare-dental-clinic-in-jakkasandra-extension-bengaluru--7AqUA7/home) — 35 so far
+  [42/98] Smile Dental Orthodontic & Implant Clinic...
+     📞 +91 99809 23724 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://click4appointment.com/clinic-details/smiledentalorthodonticimplantclinic-2687) — 36 so far
+  [43/98] Devi Dental Clinic...
+     📞 +91 98452 91142 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (7/10)
+  [44/98] Dr.Kishor’s Dentistry - Invisalign Centre...
+     📞 +91 99948 40000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://kishorsdentistry.com/) — 37 so far
+  [45/98] Priya dental clinic...
+     📞 +91 95914 40337 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://priyadental.com/) — 38 so far
+  [46/98] Ashwati Dental Care - Dentist, Implants, Invi...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [47/98] Expressions Multi Speciality Dental Clinic | ...
+     📞 +91 63640 00643 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://expressionsdc.in/) — 39 so far
+  [48/98] Sparkling Smiles Dental Clinic...
+     📞 +91 78995 61720 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://sparklingsmiles.in/treatment.php) — 40 so far
+  [49/98] Dr.Vidya Kishore, Handent dental clinic...
+     📞 +91 99800 48828 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/10)
+  [50/98] Blooms Dental Care...
+     📞 +91 81239 82595 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (9/10)
+  [51/98] Dr. Chahal Aesthetic Clinic...
+     📞 +91 63666 46777 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (10/10)
+
+  ── Reached 10 confirmed no-website leads, stopping early
+
+
+  ── Final: 10/10 confirmed no-website leads, 40 has-website leads (checked 51/98 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Dental Clinics in Koramangala, Bangalore
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Dental Health Clinic                   +91 98451 01056    4.6   133  
+2   Blooms Dental Care Kormangala | Best   +91 81239 82595    5.0   62   
+3   Vardhana's Dental Clinic In 5th Bloc   +91 99162 78993    5.0   51   
+4   Smile Center Multispeciality Dental    +91 80 4991 2754   5.0   119  
+5   Gia Dental Care                        +91 93809 28080    5.0   147  
+6   Dr Sudheer's COSMODENT DENTAL HUB, O   +91 98450 02862    4.9   157  
+7   Devi Dental Clinic                     +91 98452 91142    4.9   58   
+8   Dr.Vidya Kishore, Handent dental cli   +91 99800 48828    4.8   16   
+9   Blooms Dental Care                     +91 81239 82595    4.9   62   
+10  Dr. Chahal Aesthetic Clinic            +91 63666 46777    4.8   1133 
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Dental Clinics in Koramangala, Bangalore
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Sky Dental Clinic                      +91 93532 48386    4.9   832  
+2   Chisel Dental Clinic                   +91 99721 17009    4.7   3069 
+3   Root Care Dental Clinic                +91 80568 42222    4.9   559  
+4   Jeevan Dental Clinic                   +91 98868 92438    4.9   1171 
+5   Beyond Smiles Dental Clinic            +91 98867 24383    4.9   594  
+6   Dental Diagnostic Centre-DDC Smiles    +91 80 2552 9197   5.0   3505 
+7   Sabka dentist                          +91 97422 10044    4.5   1148 
+8   V Care Dental Speciality Clinic , Ko   +91 80 4096 5600   4.9   617  
+9   Dr. Sapna DENTAL CARE                  +91 99017 63361    5.0   1075 
+10  JP Dental Clinic | Koramangala |       +91 70222 47574    4.9   366  
+11  Smile Dental Clinic                    +91 98451 92325    4.9   385  
+12  Dr.Sathya's Speciality Dental Care &   +91 99020 99233    4.6   171  
+13  Ridgetop Dental International | Best   +91 78468 89900    4.8   801  
+14  Dezy Dental Clinic - Koramangala - I   +91 76187 92440    4.9   226  
+15  Vibrant Smiles Dental Clinic | Best    +91 63600 91572    4.9   70   
+16  Dental Alliance                        +91 90368 04379    4.9   127  
+17  Smilekraft Dental Clinic               +91 88677 57004    4.9   810  
+18  Cosmetic Dental Clinic                 +91 63661 95959    4.8   174  
+19  Aadhya Dental Care                     +91 98861 20415    4.9   92   
+20  Clove Dental Clinic - Koramangala ST   +91 40 3824 5711   4.7   606  
+21  Dental De Care | Dr Pramod KM | Invi   +91 96111 26244    4.8   97   
+22  Partha Dental Clinic - Koramangala,    +91 88857 42392    4.6   146  
+23  Dr Sheetal Shetty's Dental care | De   +91 63667 43749    5.0   42   
+24  Beyond Smiles Dental Clinic Koramang   +91 98867 24383    5.0   594  
+25  Dochome                                +91 89104 70711    4.8   59   
+26  Apollo Dental Clinic, Koramangala |    +91 80500 27075    4.7   325  
+27  Elite Dental Care Dental Clinic        +91 94490 51190    5.0   47   
+28  Dantastra Dental Hub                   +91 90191 24389    4.9   151  
+29  Jas Dental Jakkasandra                 +91 95911 11177    4.9   496  
+30  Dentis Zone                            +91 91104 42603    5.0   167  
+31  Ethicura Dental                        +91 98457 28378    5.0   76   
+32  Best Smiles Dental - Advanced Aesthe   +91 90082 84481    5.0   214  
+33  Aditi Oro Dental Care-Pediatric Dent   +91 87970 31132    4.9   78   
+34  Zen Dental and Health Care             +91 91089 18009    4.9   130  
+35  OrthoSquare Dental Clinic - Jakkasan   +91 8071 820 858   4.9   395  
+36  Smile Dental Orthodontic & Implant C   +91 99809 23724    5.0   27   
+37  Dr.Kishor’s Dentistry - Invisalign C   +91 99948 40000    4.7   78   
+38  Priya dental clinic                    +91 95914 40337    4.4   67   
+39  Expressions Multi Speciality Dental    +91 63640 00643    4.9   50   
+40  Sparkling Smiles Dental Clinic         +91 78995 61720    4.9   54   
+================================================================================
+
+
+  ── Area 'Koramangala, Bangalore' contributed 9 new no-website leads, 32 new has-website leads (running total: 59/60 no-website, 226 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/blr_dental.csv (59 rows), /workspaces/Hermes-leads/stress_run/blr_dental_has_website.csv (226 rows)
+
+
+######################################################################
+# AREA: Chennai, India  (need 1 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Dental Clinics  |  Location: Chennai, India  |  Region hint: IN
+#  Target: 1 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Dental Clinics Chennai, India
+Cap: 150 listings
+============================================================
+
+  [1] 12/150 listings
+  [2] 20/150 listings
+  [3] 29/150 listings
+  [4] 35/150 listings
+  [5] 47/150 listings
+  [6] 55/150 listings
+  [7] 67/150 listings
+  [8] 75/150 listings
+  [9] 82/150 listings
+  [10] 87/150 listings
+  [11] 96/150 listings
+  [12] 101/150 listings
+  [13] 101/150 listings
+  [14] 101/150 listings
+  [15] 101/150 listings
+  [16] 101/150 listings
+  [17] 101/150 listings
+  [18] 101/150 listings
+  [19] 101/150 listings
+  [20] 101/150 listings
+  [21] 101/150 listings
+  [22] 101/150 listings
+  [23] 101/150 listings
+  [24] 101/150 listings
+  [25] 101/150 listings
+  [26] 101/150 listings
+  [27] 101/150 listings
+  [28] 101/150 listings
+  [29] 101/150 listings
+  [30] 101/150 listings
+
+  ✓ Discovery: 101 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 128 found, 118 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 219
+============================================================
+
+  ── 215 pass (no website) | 4 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ✓ QUAL: RR Dental Hospital | ★4.9 (0) | 📞 +91 95000 17242
+  ✓ QUAL: Malligai Dental Hospital | ★4.9 (0) | 📞 +91 80150 22207
+  ✓ QUAL: Oasis Dental Care - Dr Deepa Shamej | Multispeci | ★4.9 (0) | 📞 +91 72001 53589
+  ✓ QUAL: Clove Dental Clinic in Shanthi Colony, Chennai | ★4.9 (0) | 📞 +91 40 6926 0044
+  ✓ QUAL: Dr.Gupta's Dental Specialities Centre | ★4.9 (0) | 📞 +91 98841 28209
+  ✓ QUAL: Supreme Multi Speciality Dental Centre | ★4.7 (0) | 📞 +91 95511 18120
+  ✓ QUAL: Yash Dental - IIT Madras Branch | ★4.9 (0) | 📞 +91 90942 77000
+  ✓ QUAL: MM Dental Care | ★4.9 (0) | 📞 +91 94440 71251
+  ✓ QUAL: Best Dental Clinic - Dr.N.Deenadayalan in Pondy  | ★4.9 (0) | 📞 +91 91235 35930
+  ✓ QUAL: Dr.Dilip Dental Centre | TMJ, Migraine, Sleep, B | ★4.9 (0) | 📞 +91 98845 20520
+  ✓ QUAL: Dr. Shaik's Dental Clinic & Implant Center | ★5.0 (0) | 📞 +91 90807 64508
+  ✓ QUAL: Acharya Dental | ★4.8 (0) | 📞 +91 44 4950 1100
+  ✓ QUAL: Blue Dental | ★4.9 (0) | 📞 +91 78711 92939
+  ✓ QUAL: Apollo Dental Clinic, Kilpauk | Best Dental Clin | ★4.9 (0) | 📞 +91 40 6906 3461
+  ✓ QUAL: Apollo Dental Clinic, Thousand Lights West - Bes | ★5.0 (0) | 📞 +91 40 6906 3461
+  ✓ QUAL: Clove Dental Clinic in Nungambakkam, Chennai | ★4.8 (0) | 📞 +91 40 6926 0043
+  ✓ QUAL: Rajan Dental | ★4.8 (0) | 📞 +91 44 4010 5050
+  ✓ QUAL: Pulp Dental Hospital | ★4.9 (0) | 📞 +91 91762 10077
+  ✓ QUAL: Clove Dental Clinic - RA Puram, Chennai | ★4.9 (0) | 📞 +91 40 6926 0044
+  ✓ QUAL: Apollo Dental Clinic, T Nagar, Pondy Bazaar | ★4.9 (0) | 📞 +91 98409 83805
+  ✓ QUAL: Partha Dental Clinic -Vadapalani, Chennai | Invi | ★4.9 (307) | 📞 +91 93929 45846
+  ✓ QUAL: csk speciality dental clinic chennai /karaikudi | ★4.9 (297) | 📞 +91 98843 50036
+  ✓ QUAL: Pearls Dentistry | ★5.0 (1870) | 📞 +91 44 4358 1004
+  ✓ QUAL: Radiant Dental Care | Dental Clinic in Adyar | I | ★4.8 (368) | 📞 +91 95134 46188
+  ✓ QUAL: Apollo Dental Clinic, T Nagar | Best Dental Clin | ★4.8 (302) | 📞 +91 99623 11113
+  ✓ QUAL: JGHR Total Dental Care | Dental Clinic in Chenna | ★4.7 (82) | 📞 +91 98410 94195
+  ✓ QUAL: Microsmiles Dental Care | ★4.9 (1509) | 📞 +91 99160 92992
+  ✓ QUAL: H & H Dental clinic | ★4.9 (352) | 📞 +91 72006 65521
+  ✓ QUAL: Thangam's Dental Clinic | ★4.7 (58) | 📞 +91 94440 28540
+  ➤ PHONE-ICON: SG DENTAL CARE CHENNAI | ★4.7 (67) | need digits
+  ✓ QUAL: Tooth N Care Dental Clinic | ★4.6 (59) | 📞 +91 44 4213 3617
+  ✓ QUAL: URBAN DENTAL CENTRE | ★4.8 (47) | 📞 +91 81975 44064
+  ✓ QUAL: The Happy Smile Dental Clinic | ★4.9 (483) | 📞 +91 81443 40033
+  ✓ QUAL: Pushpa Dental Clinic | ★4.9 (263) | 📞 +91 97102 89493
+  ✓ QUAL: Absolute Dental Clinic | ★4.9 (261) | 📞 +91 95000 52275
+  ✓ QUAL: Clove Dental Clinic - Royapettah, Chennai | ★4.9 (565) | 📞 +91 40 6926 0044
+  ✓ QUAL: VK's Dental Clinic | ★5.0 (91) | 📞 +91 44 2434 0809
+  ✓ QUAL: Clove Dental Clinic - Choolaimedu, Chennai | ★4.8 (669) | 📞 +91 40 6926 0043
+  ✓ QUAL: Clove Dental Clinic - Annasalai nagar, Chennai | ★4.9 (191) | 📞 +91 40 6926 0043
+  ✓ QUAL: Sai Sarguru Dental Clinic | ★4.9 (200) | 📞 +91 98843 46664
+  ✓ QUAL: Clove Dental Clinic - KK Nagar, Chennai | ★4.9 (998) | 📞 +91 40 6926 0043
+  ✓ QUAL: Apollo Dental Clinic, Nungambakkam | Best Dental | ★4.8 (451) | 📞 +91 40 6906 3461
+  ✓ QUAL: Yash Dental - Adyar Branch | ★4.9 (1064) | 📞 +91 98400 83283
+  ✓ QUAL: SUN DENTAL CARE | ★4.8 (53) | 📞 +91 94440 45776
+  ✓ QUAL: Dr.Raj's Advanced Dental & Medical Centre | ★5.0 (345) | 📞 +91 97890 55848
+  ✓ QUAL: Shree Annai Dental Clinic | ★4.9 (205) | 📞 +91 81898 97104
+  ✓ QUAL: Apollo Dental, Sterling Rd - Nungambakkam | ★4.9 (1181) | 📞 +91 98846 69077
+  ✓ QUAL: Dr.Kishor’s Dentistry - India's No.1 Diamond Inv | ★5.0 (1614) | 📞 +91 81222 22733
+  ✓ QUAL: iTooth Dental Clinic | ★4.9 (1016) | 📞 +91 72994 00447
+  ✓ QUAL: Laughter Dental Clinic | ★4.9 (163) | 📞 +91 44 4356 3563
+  ✓ QUAL: PureArc Dentistry (Invisalign chennai, Braces, R | ★5.0 (400) | 📞 +91 96008 56624
+  ✓ QUAL: Tanzi Dental Clinic | ★5.0 (488) | 📞 +91 80560 09057
+  ✓ QUAL: Kalaa Dental Care | ★5.0 (564) | 📞 +91 97908 97502
+  ✓ QUAL: Shankar's Dental Clinic | ★4.9 (155) | 📞 +91 93840 47310
+  ✓ QUAL: Lakshmi Roots Dental Hospital and Implant Centre | ★4.8 (68) | 📞 +91 76670 73733
+  ✓ QUAL: Dr. Udhayakumar BDS/ Udhay's Multi Speciality De | ★5.0 (50) | 📞 +91 97903 01942
+  ✓ QUAL: NANDHINI DENTAL CARE - BEST DENTAL CLINIC IN SEV | ★4.9 (78) | 📞 +91 93601 55162
+  ✓ QUAL: VENKATESWARA LASER DENTAL CLINIC & IMPLANT CENTR | ★4.9 (558) | 📞 +91 44 4282 3337
+  ➤ NO-PHONE-SIGNAL: Dental clinics | ★5.0 (1) | will enrich
+  ✓ QUAL: Clove Dental Clinic - Kodambakkam - Rangarajapur | ★4.9 (654) | 📞 +91 40 6926 0043
+  ✓ QUAL: Arudhra Dental Care Implant Speciality (Dr. Shan | ★4.9 (300) | 📞 +91 94444 04336
+  ✓ QUAL: Agny's Dental Care | ★5.0 (845) | 📞 +91 96989 29793
+  ✓ QUAL: Aakash Dental & Aesthetic Clinic | ★5.0 (37) | 📞 +91 90429 64220
+  ✓ QUAL: The Dental Center | ★4.7 (26) | 📞 +91 93845 99781
+  ✓ QUAL: Rayen Dental Care Centre | ★4.9 (705) | 📞 +91 44 2827 7766
+  ✓ QUAL: Apollo Dental Clinic, Ashok Nagar, PT Rajan Sala | ★4.8 (313) | 📞 +91 40 6906 3461
+  ✓ QUAL: Dr Shradha Dental Center - Dentist in Chennai @  | ★4.9 (249) | 📞 +91 80562 22200
+  ✓ QUAL: RAM DENTAL CLINIC | ★5.0 (173) | 📞 +91 80560 17601
+  ✓ QUAL: Global Dental Care (Dr M Shanmugam MDS), Best De | ★4.9 (551) | 📞 +91 94450 00132
+  ✓ QUAL: Clove Dental Clinic - Porur, Chennai | ★4.8 (637) | 📞 +91 40 6926 0043
+  ✓ QUAL: Besant Dental Care - Dental Clinic & Invisalign  | ★4.9 (54) | 📞 +91 70323 33119
+  ✓ QUAL: Arunachala Dental Clinic General, Paediatric and | ★5.0 (120) | 📞 +91 73059 44620
+  ✓ QUAL: Clove Dental Clinic - Vadapalani, Chennai | ★4.8 (752) | 📞 +91 40 6926 0043
+  ✓ QUAL: Clove Dental Clinic - Guindy, Chennai | ★4.8 (560) | 📞 +91 40 6926 0044
+  ✓ QUAL: Implantree Dental Hospital | ★4.8 (336) | 📞 +91 98409 15849
+  ✓ QUAL: Kumaran Dental Clinic | ★4.7 (115) | 📞 +91 98412 95911
+  ✓ QUAL: Dental Corner | Dental clinic in Ashok Nagar Che | ★4.6 (13) | 📞 +91 73584 25251
+  ✓ QUAL: Tooth Craft - Dental Clinic Near You in Saidapet | ★3.9 (31) | 📞 +91 99412 65427
+  ✓ QUAL: Whiteway Dental Clinic | ★4.6 (73) | 📞 +91 73587 44716
+  ➤ PHONE-ICON: A B Dental Clinic | ★4.8 (61) | need digits
+  ✓ QUAL: Dentist In Chennai | ★5.0 (1) | 📞 +91 73580 35187
+  ➤ NO-PHONE-SIGNAL: Alai Dental Clinic | ★5.0 (2) | will enrich
+  ➤ NO-PHONE-SIGNAL: Dr. Sowmya's dental Solution | ★4.9 (15) | will enrich
+  ✓ QUAL: Dr JANA'S Dental & Orthodontic Clinic | ★4.5 (20) | 📞 +91 44 4353 0607
+  ✓ QUAL: Sinora Dental Hospital | ★5.0 (9) | 📞 +91 80564 19529
+  ✓ QUAL: Rajan Dental Clinic | ★4.0 (3) | 📞 +91 98404 28211
+  ✓ QUAL: Invisalign India | Best Invisalign Provider and  | ★4.9 (16) | 📞 +91 93929 45846
+  ➤ NO-PHONE-SIGNAL: C G Dental Clinic | ★4.8 (5) | will enrich
+  ✓ QUAL: Clove Dental Clinic - Kilpauk Garden, Chennai | ★4.9 (552) | 📞 +91 40 6926 0044
+  ➤ NO-PHONE-SIGNAL: Imperial Dental Clinic | ★4.9 (14) | will enrich
+  ✓ QUAL: varsid dental clinic | ★4.9 (16) | 📞 +91 98843 24557
+  ✓ QUAL: SIMS Hospitals - Multi Speciality Hospital in ch | ★4.7 (19046) | 📞 +91 44 2000 2001
+  ✓ QUAL: Charli Dental | ★4.9 (12) | 📞 +91 44 2472 3060
+  ✓ QUAL: Smile One Dental Clinic | ★5.0 (23) | 📞 +91 96774 22683
+  ✓ QUAL: H2O Dental Clinic | ★5.0 (45) | 📞 +91 73586 89495
+  ✓ QUAL: Peach Dental Clinic | ★5.0 (320) | 📞 +91 77859 67785
+  ✓ QUAL: Apollo Dental Clinic Kilpauk, Top Dental Clinic  | ★5.0 (51) | 📞 +91 63814 48406
+  ✓ QUAL: Restore Dental Centre | ★5.0 (63) | 📞 +91 44 2664 2222
+  ➤ NO-PHONE-SIGNAL: Profile Dental Clinic | ★4.4 (37) | will enrich
+  ✓ QUAL: SR Dental Clinic | ★5.0 (7) | 📞 +91 99629 80975
+  ✓ QUAL: Jaya Dental Clinic | Best Dental Clinic in Anna  | ★4.8 (40) | 📞 +91 98842 36264
+  ✗ DUMP (low activity): Smile Care | ★0.0 (0)
+  ✗ DUMP (low activity): Bohra Tooth Palace | ★0.0 (0)
+  ✗ DUMP (low activity): Sha Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Family Dentistry Center | ★0.0 (0)
+  ✗ DUMP (low activity): Parasu Dental Clinic | ★0.0 (0)
+  ✓ QUAL: White Dental Clinic | ★0.0 (0) | 📞 9840093689
+  ✗ DUMP (low activity): Warriers Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Krishna Dental Clinic, Chennai | ★0.0 (0)
+  ✗ DUMP (low activity): Shree Sai Krupa Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Sulochana Dental Care Center | ★0.0 (0)
+  ✗ DUMP (low activity): Caps Dental Clinic and Face and Jaw Centre | ★0.0 (0)
+  ✗ DUMP (low activity): Sri Viveka Institute Of Dental Health | ★0.0 (0)
+  ✗ DUMP (low activity): Glow Dental | ★0.0 (0)
+  ✗ DUMP (low activity): Smile Care Multispeciality Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Sunil's Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): TJ Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Care N Cure Dental Centre | ★0.0 (0)
+  ✗ DUMP (low activity): I Smile Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Dr. Tamilarasi Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Amirdham Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Venu Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Apollo White Dental Clinic & Hospital | ★0.0 (0)
+  ✗ DUMP (low activity): MSR Dentistry | ★0.0 (0)
+  ✗ DUMP (low activity): Kavi Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Apollo White Dental Clinic and Hospital | ★0.0 (0)
+  ✗ DUMP (low activity): Smile and Shine Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Lakshmi Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Vaibhav Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Eternal Smiles Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Mr. and Mrs. Tooth Dental Hospital | ★0.0 (0)
+  ✗ DUMP (low activity): Dr. Naveen's Tooth Care | ★0.0 (0)
+  ✗ DUMP (low activity): Xpressions Dental Hospital | ★0.0 (0)
+  ✗ DUMP (low activity): Danta Raksha Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): 32 Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Dr. Prabha Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Dr. Kavya Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Bharathi Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Mile Stone Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): V.V. Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Vasan Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Vinu's Smile Care Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Star Dental Care and Implant Centre | ★0.0 (0)
+  ✗ DUMP (low activity): Mangalaa Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): N.B Multi Speciality Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Prasanna Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Aura Dentistry | ★0.0 (0)
+  ✗ DUMP (low activity): Signature Smiles | ★0.0 (0)
+  ✗ DUMP (low activity): Rekha Multi Speciality and Dental | ★0.0 (0)
+  ✗ DUMP (low activity): Gold Dental | ★0.0 (0)
+  ✗ DUMP (low activity): Ramya Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Sara Smile Care | ★0.0 (0)
+  ✗ DUMP (low activity): Kumar Dental and Maxillofacial Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Panacae Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Sparkle Dent | ★0.0 (0)
+  ✗ DUMP (low activity): David's Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Mano Dental Clinic and Implant Centre | ★0.0 (0)
+  ✗ DUMP (low activity): Smile Solutions Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Bhavithra Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Best Laser Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Sara Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Padmavathi Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Vaishnavi Dental Care Centre | ★0.0 (0)
+  ✗ DUMP (low activity): Zircon Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Coast Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): C.M. Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Nathan Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Little Smiles Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): R.R. Dental | ★0.0 (0)
+  ✗ DUMP (low activity): Sankara Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): R.K Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Arun Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Rose Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): GV Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Rahul Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Senthil Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Wings Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Bithi Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Dr. Balagopal's Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Dental Icons | ★0.0 (0)
+  ✗ DUMP (low activity): Ranganathan Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Kavinaya Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Thirty 2 Dental Centre | ★0.0 (0)
+  ✗ DUMP (low activity): Kamala Sayee Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Sunday Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Ramchandras Jussmile Dental Clinic & Dental Impl | ★0.0 (0)
+  ✗ DUMP (low activity): Smileworks Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Sastha Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): P.R.K Multispeciality Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): CPL Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Arunz Dental Clinic | ★0.0 (0)
+  ✓ QUAL: Just Smile Dental & ENT Specialities | ★0.0 (0) | 📞 +91 81908 58855;+91 81908 58866
+  ✗ DUMP (low activity): Pratibha Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Sri sai baba | ★0.0 (0)
+  ✗ DUMP (low activity): Fakhri Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Chindamani Dentral Centre | ★0.0 (0)
+  ✗ DUMP (low activity): Dr. S. Aadil Ahamed | ★0.0 (0)
+  ✗ DUMP (low activity): S. R. Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): MS Dental clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Janani dental care | ★0.0 (0)
+  ✗ DUMP (low activity): Gangasri Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Maruti Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Sree Krishna Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Aakash Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): M.K. Dental Clinic | ★0.0 (0)
+  ✗ DUMP (low activity): Broadway Dental & Face Care | ★0.0 (0)
+  ✗ DUMP (low activity): Globe Dental Care | ★0.0 (0)
+  ✗ DUMP (low activity): Smile centre | ★0.0 (0)
+  ✓ QUAL: Kavi Dental Clinic | ★0.0 (0) | 📞 7397398561;7550017331
+  ✗ DUMP (low activity): Elite Dental | ★0.0 (0)
+  ✓ QUAL: MaxHealth Dental Clinic | ★0.0 (0) | 📞 9884838148
+  ✗ DUMP (low activity): JD Dental and Implant center | ★0.0 (0)
+  ✗ DUMP (low activity): Smile Mantra | ★0.0 (0)
+  ✓ QUAL: ஜி.பி.ஆர் பல் மருத்துவமனை | ★0.0 (0) | 📞 +91 9600300929
+  ✓ QUAL: Thanvik Smile Care | ★0.0 (0) | 📞 +919080893176
+
+  ── 99 qualified + 8 phone-icon-needs-enrich | 108 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 1 confirmed no-website
+Pool: 107 candidates
+============================================================
+
+  [1/107] RR Dental Hospital...
+     📞 +91 95000 17242 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.rrdentalhospital.com/) — 1 so far
+  [2/107] Malligai Dental Hospital...
+     📞 +91 80150 22207 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.malligaidental.com/) — 2 so far
+  [3/107] Oasis Dental Care - Dr Deepa Shamej | Multisp...
+     📞 +91 72001 53589 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://oasisdentalcare.co.in/) — 3 so far
+  [4/107] Clove Dental Clinic in Shanthi Colony, Chenna...
+     📞 +91 40 6926 0044 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/chennai/shanthi-colony?utm_source=website&utm_medium=gmb&utm_campaign=Shanthi_Colony_GMB_Chennai) — 4 so far
+  [5/107] Dr.Gupta's Dental Specialities Centre...
+     📞 +91 98841 28209 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://drguptadentalcare.com/) — 5 so far
+  [6/107] Supreme Multi Speciality Dental Centre...
+     📞 +91 95511 18120 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.supremedental.clinic/) — 6 so far
+  [7/107] Yash Dental - IIT Madras Branch...
+     📞 +91 90942 77000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.yashdental.com/) — 7 so far
+  [8/107] MM Dental Care...
+     📞 +91 94440 71251 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.24hoursdentist.in/) — 8 so far
+  [9/107] Best Dental Clinic - Dr.N.Deenadayalan in Pon...
+     📞 +91 91235 35930 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://bestdentalclinicchennai.com/) — 9 so far
+  [10/107] Dr.Dilip Dental Centre | TMJ, Migraine, Sleep...
+     📞 +91 98845 20520 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drdilipdentalcentre.com/) — 10 so far
+  [11/107] Dr. Shaik's Dental Clinic & Implant Center...
+     📞 +91 90807 64508 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://drshaiksdentalclinicandimplantce.website3.me/) — 11 so far
+  [12/107] Acharya Dental...
+     📞 +91 44 4950 1100 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.acharyadental.com/) — 12 so far
+  [13/107] Blue Dental...
+     📞 +91 78711 92939 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://bluedental.in/) — 13 so far
+  [14/107] Apollo Dental Clinic, Kilpauk | Best Dental C...
+     📞 +91 40 6906 3461 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://apollodental.in/?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBKilpauk) — 14 so far
+  [15/107] Apollo Dental Clinic, Thousand Lights West - ...
+     📞 +91 40 6906 3461 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://apollodental.in/?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBKilpauk) — 15 so far
+  [16/107] Clove Dental Clinic in Nungambakkam, Chennai...
+     📞 +91 40 6926 0043 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/chennai/shanthi-colony?utm_source=website&utm_medium=gmb&utm_campaign=Shanthi_Colony_GMB_Chennai) — 16 so far
+  [17/107] Rajan Dental...
+     📞 +91 44 4010 5050 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://rajandental.com/) — 17 so far
+  [18/107] Pulp Dental Hospital...
+     📞 +91 91762 10077 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://pulpdentalhospital.com/?utm_campaign=gmb&utm_medium=organic&utm_source=google) — 18 so far
+  [19/107] Clove Dental Clinic - RA Puram, Chennai...
+     📞 +91 40 6926 0044 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://clovedental.in/dentist-near-me/chennai/shanthi-colony?utm_source=website&utm_medium=gmb&utm_campaign=Shanthi_Colony_GMB_Chennai) — 19 so far
+  [20/107] Apollo Dental Clinic, T Nagar, Pondy Bazaar...
+     📞 +91 98409 83805 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://apollodental.in/?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBKilpauk) — 20 so far
+  [21/107] Partha Dental Clinic -Vadapalani, Chennai | I...
+     📞 +91 93929 45846 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://parthadental.com/dental-skin-hair-clinic-vadapalani/?utm_source=google&utm_medium=gmb&utm_campaign=vadapalani) — 21 so far
+  [22/107] csk speciality dental clinic chennai /karaiku...
+     📞 +91 98843 50036 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (1/1)
+
+  ── Reached 1 confirmed no-website leads, stopping early
+
+
+  ── Final: 1/1 confirmed no-website leads, 21 has-website leads (checked 22/107 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Dental Clinics in Chennai, India
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   csk speciality dental clinic chennai   +91 98843 50036    4.9   297  
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Dental Clinics in Chennai, India
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   RR Dental Hospital                     +91 95000 17242    4.9   1888 
+2   Malligai Dental Hospital               +91 80150 22207    4.9   1419 
+3   Oasis Dental Care - Dr Deepa Shamej    +91 72001 53589    4.9   269  
+4   Clove Dental Clinic in Shanthi Colon   +91 40 6926 0044   4.9   1066 
+5   Dr.Gupta's Dental Specialities Centr   +91 98841 28209    4.9   1567 
+6   Supreme Multi Speciality Dental Cent   +91 95511 18120    4.7   453  
+7   Yash Dental - IIT Madras Branch        +91 90942 77000    4.9   503  
+8   MM Dental Care                         +91 94440 71251    4.9   266  
+9   Best Dental Clinic - Dr.N.Deenadayal   +91 91235 35930    4.9   75   
+10  Dr.Dilip Dental Centre | TMJ, Migrai   +91 98845 20520    4.9   1134 
+11  Dr. Shaik's Dental Clinic & Implant    +91 90807 64508    5.0   786  
+12  Acharya Dental                         +91 44 4950 1100   4.8   1082 
+13  Blue Dental                            +91 78711 92939    4.9   1162 
+14  Apollo Dental Clinic, Kilpauk | Best   +91 40 6906 3461   4.9   197  
+15  Apollo Dental Clinic, Thousand Light   +91 40 6906 3461   5.0   197  
+16  Clove Dental Clinic in Nungambakkam,   +91 40 6926 0043   4.8   1066 
+17  Rajan Dental                           +91 44 4010 5050   4.8   808  
+18  Pulp Dental Hospital                   +91 91762 10077    4.9   206  
+19  Clove Dental Clinic - RA Puram, Chen   +91 40 6926 0044   4.9   1066 
+20  Apollo Dental Clinic, T Nagar, Pondy   +91 98409 83805    4.9   197  
+21  Partha Dental Clinic -Vadapalani, Ch   +91 93929 45846    4.9   307  
+================================================================================
+
+
+  ── Area 'Chennai, India' contributed 1 new no-website leads, 17 new has-website leads (running total: 60/60 no-website, 243 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/blr_dental.csv (60 rows), /workspaces/Hermes-leads/stress_run/blr_dental_has_website.csv (243 rows)
+
+
+✓ Target of 60 already reached — skipping remaining areas: ['Hyderabad, India']
+
+
+================================================================================
+MULTI-AREA SUMMARY — Dental Clinics
+================================================================================
+  Indiranagar, Bangalore                   19 no-website | 68 has-website
+  Whitefield, Bangalore                    24 no-website | 61 has-website
+  Koramangala, Bangalore                   9 no-website | 32 has-website
+  Chennai, India                           1 no-website | 17 has-website
+--------------------------------------------------------------------------------
+  TOTAL: 60/60 confirmed unique no-website leads
+  TOTAL: 243 confirmed unique has-website leads (bonus list)
+
+  ✓ No-website target reached.
+================================================================================
+
+✓ No-website CSV: /workspaces/Hermes-leads/stress_run/blr_dental.csv
+✓ Has-website CSV: /workspaces/Hermes-leads/stress_run/blr_dental_has_website.csv
+✓ Status: /workspaces/Hermes-leads/stress_run/blr_dental.status.json
+

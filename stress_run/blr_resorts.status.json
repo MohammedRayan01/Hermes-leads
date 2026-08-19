@@ -1,0 +1,21 @@
+{
+  "keyword": "Resorts",
+  "areas_configured": [
+    "Bangalore, India",
+    "Coorg, India",
+    "Wayanad, India",
+    "Ooty, India",
+    "Chikmagalur, India"
+  ],
+  "areas_completed": [
+    "Bangalore, India",
+    "Coorg, India",
+    "Wayanad, India",
+    "Ooty, India"
+  ],
+  "target": 60,
+  "no_website_count": 60,
+  "has_website_count": 213,
+  "finished": true,
+  "updated_at": "2026-08-09T15:56:55Z"
+}

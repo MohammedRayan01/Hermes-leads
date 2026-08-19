@@ -1,0 +1,1515 @@
+
+↺ Resuming: loaded 30 existing no-website leads, 110 existing has-website leads from disk
+
+  Skipping areas already fully checked in a previous run: ['Abu Dhabi, UAE', 'Ajman, UAE', 'Dubai, UAE', 'Sharjah, UAE']
+
+
+######################################################################
+# AREA: Riyadh, Saudi Arabia  (need 30 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Restaurants  |  Location: Riyadh, Saudi Arabia  |  Region hint: SA
+#  Target: 30 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Restaurants Riyadh, Saudi Arabia
+Cap: 150 listings
+============================================================
+
+  [1] 8/150 listings
+  [2] 16/150 listings
+  [3] 20/150 listings
+  [4] 28/150 listings
+  [5] 36/150 listings
+  [6] 39/150 listings
+  [7] 47/150 listings
+  [8] 55/150 listings
+  [9] 58/150 listings
+  [10] 66/150 listings
+  [11] 74/150 listings
+  [12] 78/150 listings
+  [13] 86/150 listings
+  [14] 94/150 listings
+  [15] 98/150 listings
+  [16] 106/150 listings
+  [17] 114/150 listings
+  [18] 118/150 listings
+  [19] 118/150 listings
+  [20] 118/150 listings
+  [21] 118/150 listings
+  [22] 118/150 listings
+  [23] 118/150 listings
+  [24] 118/150 listings
+  [25] 118/150 listings
+  [26] 118/150 listings
+  [27] 118/150 listings
+  [28] 118/150 listings
+  [29] 118/150 listings
+  [30] 118/150 listings
+
+  ✓ Discovery: 118 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 161 found, 158 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 276
+============================================================
+
+  ── 270 pass (no website) | 6 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ➤ PHONE-ICON: Zafran Indian Kitchen - The View Mall | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: TOKYO | ★4.4 (0) | need digits
+  ➤ PHONE-ICON: Lusin Centria Mall | ★4.2 (0) | need digits
+  ➤ PHONE-ICON: MYAZU Riyadh | ★4.4 (0) | need digits
+  ➤ PHONE-ICON: مطعم بيراديز الهندي - قرطبه peradiz | ★4.7 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: مطعم فيش فكتوري للمأكولات البحرية‎ | ★4.7 (0) | will enrich
+  ➤ PHONE-ICON: Aseeb Restaurant | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: Zafran Indian Kitchen - Turki Square | ★4.4 (0) | need digits
+  ➤ PHONE-ICON: Zafran Indian Kitchen - Al Nakheel Mall | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: Nozomi Riyadh | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: MOLO | indian cuisine | Roshn Front | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: COYA | ★4.6 (0) | need digits
+  ➤ PHONE-ICON: Al Orjouan | ★4.1 (0) | need digits
+  ➤ PHONE-ICON: Karam Beirut Restaurant - Riyadh Tahlia Street | ★4.1 (0) | need digits
+  ➤ PHONE-ICON: Eataly | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: Gymkhana | ★4.6 (0) | need digits
+  ➤ PHONE-ICON: Vidro | ڨيدرو | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: Sultan's Steakhouse Riyadh | ★4.2 (0) | need digits
+  ➤ PHONE-ICON: The Butcher Shop & Grill | ★4.8 (0) | need digits
+  ➤ PHONE-ICON: Al Mamlaka Social Dining | ★4.4 (0) | need digits
+  ✗ DUMP (low activity): MeNa Restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: Kumar Restaurant Riyadh | ★4.4 (8947) | need digits
+  ✗ DUMP (low activity): PORTERHOUSE | ★0.0 (0)
+  ✗ DUMP (low activity): KAYZŌ | ★0.0 (0)
+  ✗ DUMP (low activity): JW Steakhouse | ★0.0 (0)
+  ➤ PHONE-ICON: Piatto Restaurant | ★4.4 (23361) | need digits
+  ✗ DUMP (low activity): Madeo | ★0.0 (0)
+  ✗ DUMP (low activity): La Petite Maison (LPM) Riyadh | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Riyadh Chinese Restaurant | ★3.9 (2167) | will enrich
+  ➤ PHONE-ICON: fi glbak | ★4.7 (13196) | need digits
+  ➤ PHONE-ICON: Najd Village | ★4.0 (13751) | need digits
+  ➤ PHONE-ICON: Zafran Valley Restaurant | ★4.7 (3708) | need digits
+  ✗ DUMP (low activity): Amar Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): BAITHAK Restaurant Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): Lusin Restaurant - Diyafa Plaza | ★0.0 (0)
+  ✗ DUMP (low activity): Mama Noura | ★0.0 (0)
+  ✗ DUMP (low activity): Diamond | ★0.0 (0)
+  ✗ DUMP (low activity): Calicut Notebook Restaurant - Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): La Brasserie لابراسيري | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Taste of Dilli Restaurant- مطعم مذاق دلّي الهندي | ★4.1 (1920) | will enrich
+  ✗ DUMP (low activity): rbg GRILL Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): San Carlo Cicchetti Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): JW Glass Garden | ★0.0 (0)
+  ➤ PHONE-ICON: Nando's - The View Mall | ★4.8 (3503) | need digits
+  ➤ PHONE-ICON: Fork & Pipe | ★4.6 (141) | need digits
+  ✗ DUMP (low activity): Red Chilli Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Deewaan Restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: Golden Dragon | ★4.2 (1907) | need digits
+  ✗ DUMP (low activity): Machali Kingdom Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): RUHI Indian Cuisine | ★0.0 (0)
+  ✗ DUMP (low activity): The Globe ذا غلوب | ★0.0 (0)
+  ✗ DUMP (low activity): Asador de Aranda - Spanish Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Pinoy Restaurant - Batha, Riyadh, KSA | ★0.0 (0)
+  ✗ DUMP (low activity): Khayyam Restaurant, Riyadh مطعم الخيام مطعم هندي | ★0.0 (0)
+  ✗ DUMP (low activity): The Villa Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): chennai spice kitchen restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: 56th Avenue Diner | ★4.1 (441) | need digits
+  ✗ DUMP (low activity): Fanaa Fusion Multi-Cuisine Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Dish Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Grand Lucky Indian Multi Cuisine Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Olea Cafe, Kitchen & Lounge | ★0.0 (0)
+  ✗ DUMP (low activity): Agio Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): Cherries Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): The CANTEEN - Indian Restaurant and Cafe | ★0.0 (0)
+  ✗ DUMP (low activity): Carbone Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): Bagatelle Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم و لاونج بيريدايزا | ★0.0 (0)
+  ➤ PHONE-ICON: Flavours All Day Dining | ★4.4 (222) | need digits
+  ➤ PHONE-ICON: Chingari| مطعم شينجاري الهندي | Best Indian Cuis | ★4.2 (5762) | need digits
+  ➤ PHONE-ICON: Kitchen On 3 | ★4.6 (57) | need digits
+  ✗ DUMP (low activity): Baaaaa Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Maiz AlKhozama Saudi Fine Dining Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Naya Lebanese Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): ENCORE Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Botanica Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Villa Mamas Restaurant Riyadh | فيلا ماماز | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: SEERA - Indian Cuisine | ★3.9 (1451) | will enrich
+  ✗ DUMP (low activity): Classic Indian Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Byö Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Sadelle's Riyadh | ★0.0 (0)
+  ➤ PHONE-ICON: Steak House | ★4.4 (3991) | need digits
+  ✗ DUMP (low activity): Il Baretto | ★0.0 (0)
+  ➤ PHONE-ICON: مطعم بيراديز الهندي - العليا peradiz | ★4.8 (2552) | need digits
+  ✗ DUMP (low activity): Nomas | ★0.0 (0)
+  ✗ DUMP (low activity): Dera Restaurant Riyadh (Hara) | ★0.0 (0)
+  ✗ DUMP (low activity): Black Pinoy | ★0.0 (0)
+  ➤ PHONE-ICON: Fiestahan Asian & Pinoy Cuisine - Sulaymaniyah | ★4.5 (1280) | need digits
+  ✗ DUMP (low activity): Azzurro | ★0.0 (0)
+  ✗ DUMP (low activity): Chola Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Peacock Restaurant | مطعم طاووس | ★0.0 (0)
+  ✗ DUMP (low activity): Mazaj Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Azal Canteen Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Saudi Rice Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): The 365 | ★0.0 (0)
+  ➤ PHONE-ICON: Yawmiyat By Dalal | ★4.5 (6549) | need digits
+  ✗ DUMP (low activity): Taleed by Michael Mina | ★0.0 (0)
+  ✗ DUMP (low activity): Berenjak Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): Dank Sandwich | ★0.0 (0)
+  ➤ PHONE-ICON: Avril Resto Cafe | ★4.9 (5385) | need digits
+  ✗ DUMP (low activity): moon shell | ★0.0 (0)
+  ✗ DUMP (low activity): Al Saudi Restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: Bellbird | ★4.6 (8945) | need digits
+  ✗ DUMP (low activity): Tikka Masala | ★0.0 (0)
+  ➤ PHONE-ICON: Together & Co Restaurant | ★4.1 (275) | need digits
+  ✗ DUMP (low activity): Bangkok Seafood Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Anjappar Chettinad Indian Restaurant- Riyadh | م | ★0.0 (0)
+  ✗ DUMP (low activity): TATEL Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): Pantera Riyadh | ★0.0 (0)
+  ➤ PHONE-ICON: Phet Phet | ★4.3 (2639) | need digits
+  ➤ PHONE-ICON: مطعم سبايسي هوم الهندي | SPICY HOME INDIAN RESTA | ★3.8 (1492) | need digits
+  ✗ DUMP (low activity): Stella Sky - Lounge | ★0.0 (0)
+  ✗ DUMP (low activity): Desi Kitchen | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: KUY's Grill & Restaurant | ★4.0 (489) | will enrich
+  ✗ DUMP (low activity): Malbriz fusion | ★0.0 (0)
+  ✗ DUMP (low activity): SULTHANA RESTAURANT,RIYADH | ★0.0 (0)
+  ✗ DUMP (low activity): Jackie Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Shalimar Family Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Curry Pot Restaurant (KERALA) | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Firdays | ★0.0 (0)
+  ✗ DUMP (low activity): Shiraz Restaurant (Iranian) | ★0.0 (0)
+  ✗ DUMP (low activity): Al Mansaf | ★0.0 (0)
+  ✗ DUMP (low activity): Shawerma House | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Hashim Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Wooden Bakery | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم باب توما | ★0.0 (0)
+  ✗ DUMP (low activity): Roma Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): بيتزا هت | ★0.0 (0)
+  ✗ DUMP (low activity): Makani | ★0.0 (0)
+  ✗ DUMP (low activity): Lebanon Al Kabeer | ★0.0 (0)
+  ✗ DUMP (low activity): Indonesian | ★0.0 (0)
+  ✗ DUMP (low activity): The Pizza Company | ★0.0 (0)
+  ✗ DUMP (low activity): Chinese Golden Palace | ★0.0 (0)
+  ✗ DUMP (low activity): Gulf Royal Chinese Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Pizza Hut | ★0.0 (0)
+  ✗ DUMP (low activity): Al Rabe'a | ★0.0 (0)
+  ✗ DUMP (low activity): Al Yamamah Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Planet Hollywood | ★0.0 (0)
+  ✗ DUMP (low activity): Shanghai Express | ★0.0 (0)
+  ✗ DUMP (low activity): Aladdin | ★0.0 (0)
+  ✗ DUMP (low activity): Kany Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Finzione | ★0.0 (0)
+  ✗ DUMP (low activity): Barbecue Nation | ★0.0 (0)
+  ✗ DUMP (low activity): Reyash | ★0.0 (0)
+  ✗ DUMP (low activity): Saadiddin Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Forchetta Italian Grill | ★0.0 (0)
+  ✗ DUMP (low activity): Al Kafoura Rest. & Sweets | ★0.0 (0)
+  ✗ DUMP (low activity): Al Nafoura Rest. & Sweets | ★0.0 (0)
+  ✗ DUMP (low activity): Crown Plaza hotel Riyadh | ★0.0 (0)
+  ✗ DUMP (low activity): Quattro | ★0.0 (0)
+  ✗ DUMP (low activity): Yamal Asham | ★0.0 (0)
+  ✗ DUMP (low activity): French Corner | ★0.0 (0)
+  ✗ DUMP (low activity): Italian | ★0.0 (0)
+  ✗ DUMP (low activity): Buffalo | ★0.0 (0)
+  ✗ DUMP (low activity): Vapiano | ★0.0 (0)
+  ✗ DUMP (low activity): Pizza Fusion | ★0.0 (0)
+  ✗ DUMP (low activity): Darbar Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Lucky Cafe | ★0.0 (0)
+  ✗ DUMP (low activity): بر وسمن | ★0.0 (0)
+  ✗ DUMP (low activity): Al Khozana - Garden BBQ | ★0.0 (0)
+  ✗ DUMP (low activity): Koushari Express | ★0.0 (0)
+  ✗ DUMP (low activity): Gad | ★0.0 (0)
+  ✗ DUMP (low activity): Shawaya house | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم هاشم | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم النقاء | ★0.0 (0)
+  ✗ DUMP (low activity): Ghawar | ★0.0 (0)
+  ✗ DUMP (low activity): Al Omda | ★0.0 (0)
+  ✗ DUMP (low activity): Pizza Jarir | ★0.0 (0)
+  ✗ DUMP (low activity): Mama Mashael | ★0.0 (0)
+  ✗ DUMP (low activity): Shawaya House | ★0.0 (0)
+  ✗ DUMP (low activity): Subway | ★0.0 (0)
+  ✗ DUMP (low activity): Golden Saj | ★0.0 (0)
+  ✓ QUAL: الرومانسية | ★0.0 (0) | 📞 920000144
+  ✗ DUMP (low activity): فطيرة هت | ★0.0 (0)
+  ✗ DUMP (low activity): مطاعم الصاج الذهبي | ★0.0 (0)
+  ✗ DUMP (low activity): قصر حلو عبد الرحمن الحلاب وأولاده ١٨٨١ | ★0.0 (0)
+  ✗ DUMP (low activity): Tony Roma's | ★0.0 (0)
+  ✗ DUMP (low activity): كنتاكي | ★0.0 (0)
+  ✗ DUMP (low activity): عمو حمزة | ★0.0 (0)
+  ✗ DUMP (low activity): سلامة | ★0.0 (0)
+  ✗ DUMP (low activity): شيخ البلد | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): كودو | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): المذاق الرومنسي | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): شجرة الصفصاف | ★0.0 (0)
+  ✗ DUMP (low activity): الرشيد للحلويات | ★0.0 (0)
+  ✗ DUMP (low activity): احلى حكاية | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم روتي | ★0.0 (0)
+  ✗ DUMP (low activity): بروستد كوفي | ★0.0 (0)
+  ✗ DUMP (low activity): Hardee's | ★0.0 (0)
+  ✗ DUMP (low activity): Friday's | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم المراسيم | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم ديرتي | ★0.0 (0)
+  ✗ DUMP (low activity): الرومانسية | ★0.0 (0)
+  ✗ DUMP (low activity): كودو | ★0.0 (0)
+  ✗ DUMP (low activity): برجر كنج | ★0.0 (0)
+  ✗ DUMP (low activity): بيتزا وفطائر شامية | ★0.0 (0)
+  ✗ DUMP (low activity): فلافل ابو بشار مطعم سوري | ★0.0 (0)
+  ✗ DUMP (low activity): فوال و فلافل مصري | ★0.0 (0)
+  ✗ DUMP (low activity): B1 burger | ★0.0 (0)
+  ✗ DUMP (low activity): واحد فول | ★0.0 (0)
+  ✗ DUMP (low activity): مايسترو | ★0.0 (0)
+  ✗ DUMP (low activity): صب واي | ★0.0 (0)
+  ✗ DUMP (low activity): هرفي | ★0.0 (0)
+  ✗ DUMP (low activity): العباسية | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم الرومانسيه | ★0.0 (0)
+  ✗ DUMP (low activity): كودو | ★0.0 (0)
+  ✗ DUMP (low activity): الوسام | ★0.0 (0)
+  ✗ DUMP (low activity): بروستد البيه | ★0.0 (0)
+  ✗ DUMP (low activity): بيتزا ان | ★0.0 (0)
+  ✗ DUMP (low activity): الشواية | ★0.0 (0)
+  ✗ DUMP (low activity): الصاج الذهبي | ★0.0 (0)
+  ✗ DUMP (low activity): The Pancake House | ★0.0 (0)
+  ✗ DUMP (low activity): Al al Fandi Brosted | ★0.0 (0)
+  ✗ DUMP (low activity): كنتاكي | ★0.0 (0)
+  ✗ DUMP (low activity): القرية النجدية | ★0.0 (0)
+  ✗ DUMP (low activity): هرفي | ★0.0 (0)
+  ✗ DUMP (low activity): Applebee's | ★0.0 (0)
+  ✗ DUMP (low activity): Bombay Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Express Arabic & Persian Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم اللبنان الكبير | ★0.0 (0)
+  ✗ DUMP (low activity): مطاعم المشوي والشوايه | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم بيتزا روما | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم فول وعدس | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم الشراع | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم الرومانسية | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم كرم العرب | ★0.0 (0)
+  ✗ DUMP (low activity): هرفي | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم نثري | ★0.0 (0)
+  ✗ DUMP (low activity): حلويات ابو أنس | ★0.0 (0)
+  ✗ DUMP (low activity): مطاعم و حلويات النافورة | ★0.0 (0)
+  ✗ DUMP (low activity): شارع سدير | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): توم توم | ★0.0 (0)
+  ✗ DUMP (low activity): بيت الشواية | ★0.0 (0)
+  ✗ DUMP (low activity): مطاعم التنهات | ★0.0 (0)
+  ✗ DUMP (low activity): توم توم | ★0.0 (0)
+  ✗ DUMP (low activity): جست تشل | ★0.0 (0)
+  ✓ QUAL: Shikara Restaurant | ★0.0 (0) | 📞 +966112305333
+  ✗ DUMP (low activity): Akariya 3 Food Court | ★0.0 (0)
+  ✓ QUAL: La Piazza | ★0.0 (0) | 📞 +966114543300
+  ✗ DUMP (low activity): Al Bustan | ★0.0 (0)
+  ✗ DUMP (low activity): أقوس | ★0.0 (0)
+  ✗ DUMP (low activity): Lahore Restaurent | ★0.0 (0)
+  ✗ DUMP (low activity): Bharath Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم السبيعي | ★0.0 (0)
+
+  ── 3 qualified + 45 phone-icon-needs-enrich | 222 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 30 confirmed no-website
+Pool: 48 candidates
+============================================================
+
+  [1/48] الرومانسية...
+     ★ HAS-WEBSITE LEAD, found via web search (https://sa.arabplaces.com/riyadh/192657/2) — 1 so far
+  [2/48] Shikara Restaurant...
+     ✓ CONFIRMED no-website lead (1/30)
+  [3/48] La Piazza...
+     ✓ CONFIRMED no-website lead (2/30)
+  [4/48] Zafran Indian Kitchen - The View Mall...
+     📞 +966 54 390 7905 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.zafranrestaurants.com/) — 2 so far
+  [5/48] TOKYO...
+     📞 +966 9200 09662 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://tokyoarabia.com/) — 3 so far
+  [6/48] Lusin Centria Mall...
+     📞 +966 11 520 0161 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://lusinrestaurant.com/saudi/?utm_source=GMB&utm_medium=organic&utm_campaign=centria_mall) — 4 so far
+  [7/48] MYAZU Riyadh...
+     📞 +966 9200 09686 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.myazu.com/) — 5 so far
+  [8/48] مطعم بيراديز الهندي - قرطبه peradiz...
+     📞 +966 57 024 5766 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (3/30)
+  [9/48] مطعم فيش فكتوري للمأكولات البحرية‎...
+     📞 +966 55 122 0045 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://reviewsaudi.com/riyadh/361685) — 6 so far
+  [10/48] Aseeb Restaurant...
+     📞 +966 9200 28226 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://aseeb-restaurant.goto-where.com/) — 7 so far
+  [11/48] Zafran Indian Kitchen - Turki Square...
+     📞 +966 54 390 7905 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.zafranrestaurants.com/) — 8 so far
+  [12/48] Zafran Indian Kitchen - Al Nakheel Mall...
+     📞 +966 54 390 7905 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.zafranrestaurants.com/) — 9 so far
+  [13/48] Nozomi Riyadh...
+     📞 +966 9200 11923 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://nozomiksa.co/) — 10 so far
+  [14/48] MOLO | indian cuisine | Roshn Front...
+     📞 +966 11 447 7779 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://molo-sa.com/) — 11 so far
+  [15/48] COYA...
+     📞 +966 9200 10352 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://coyarestaurant.com/) — 12 so far
+  [16/48] Al Orjouan...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [17/48] Karam Beirut Restaurant - Riyadh Tahlia Stree...
+     📞 +966 11 416 1717 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.karambeirut.com/) — 13 so far
+  [18/48] Eataly...
+     📞 +966 11 515 3260 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.eatalyarabia.com/stores/eataly-riyadh/?y_source=1_ODA2MzQwMDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D) — 14 so far
+  [19/48] Gymkhana...
+     📞 +966 11 451 6483 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://coolinc.com.sa/experiences/gymkhana/) — 15 so far
+  [20/48] Vidro | ڨيدرو...
+     📞 +966 55 535 1612 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://reach.link/vidro-sa) — 16 so far
+  [21/48] Sultan's Steakhouse Riyadh...
+     📞 +966 55 563 3706 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/30)
+  [22/48] The Butcher Shop & Grill...
+     📞 +966 11 288 5156 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://butchershoparabia.com/?y_source=1_ODIzODUyNDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D) — 17 so far
+  [23/48] Al Mamlaka Social Dining...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [24/48] Kumar Restaurant Riyadh...
+     📞 +966 58 179 7295 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://mkgroup.com.kw/kumar-restaurant-kuwait/) — 18 so far
+  [25/48] Piatto Restaurant...
+     📞 +966 55 788 7754 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.piatto.com.sa/) — 19 so far
+  [26/48] Riyadh Chinese Restaurant...
+     📞 +966 11 465 5451 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD, found via web search (https://riyadh-chinese-restaurant.wheree.com/menu) — 20 so far
+  [27/48] fi glbak...
+     📞 +966 53 562 2657 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://figlbak.com/) — 21 so far
+  [28/48] Najd Village...
+     📞 +966 9200 33511 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://najdvillage.com/) — 22 so far
+  [29/48] Zafran Valley Restaurant...
+     📞 +966 57 005 7571 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://www.zafran-valley.com/) — 23 so far
+  [30/48] Taste of Dilli Restaurant- مطعم مذاق دلّي اله...
+     📞 +966 11 415 8877 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dillirestaurant.com/) — 24 so far
+  [31/48] Nando's - The View Mall...
+     📞 +966 56 478 4519 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (5/30)
+  [32/48] Fork & Pipe...
+     📞 +966 11 511 7889 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.marriott.com/en-us/hotels/ruhjb-jw-marriott-hotel-riyadh/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108) — 25 so far
+  [33/48] Golden Dragon...
+     📞 +966 55 592 5648 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.goldendragon.co/) — 26 so far
+  [34/48] 56th Avenue Diner...
+     📞 +966 11 288 1234 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.hyattrestaurants.com/en/riyadh/restaurant/56th-avenue-diner) — 27 so far
+  [35/48] Flavours All Day Dining...
+     📞 +966 11 447 9888 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.rotana.com/rayhaanhotelandresorts/kingdomofsaudiarabia/riyadh/roshrayhaanbyrotana/diningout/flavoursalldaydining?utm_source=google&utm_medium=local&utm_campaign=flavours) — 28 so far
+  [36/48] Chingari| مطعم شينجاري الهندي | Best Indian C...
+     📞 +966 11 412 8325 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://redchillieshospitality.com/) — 29 so far
+  [37/48] Kitchen On 3...
+     📞 +966 11 511 7890 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.marriott.com/en-us/hotels/ruhjb-jw-marriott-hotel-riyadh/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108) — 30 so far
+  [38/48] SEERA - Indian Cuisine...
+     📞 +966 53 509 0965 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (6/30)
+  [39/48] Steak House...
+     📞 +966 50 182 6663 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (7/30)
+  [40/48] مطعم بيراديز الهندي - العليا peradiz...
+     📞 +966 57 024 5766 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/30)
+  [41/48] Fiestahan Asian & Pinoy Cuisine - Sulaymaniya...
+     📞 +966 50 765 9774 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://fiestahan.com/) — 31 so far
+  [42/48] Yawmiyat By Dalal...
+     📞 +966 50 711 1055 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://yawmiyatfood.com/) — 32 so far
+  [43/48] Avril Resto Cafe...
+     📞 +966 55 563 6805 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.rohnajd.sa/) — 33 so far
+  [44/48] Bellbird...
+     📞 +966 55 083 0061 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (9/30)
+  [45/48] Together & Co Restaurant...
+     📞 +966 11 505 1054 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.hilton.com/en/hotels/ruhskgi-hilton-garden-inn-riyadh-financial-district/) — 34 so far
+  [46/48] Phet Phet...
+     📞 — | Owner: — | Claimed: Unknown
+     ✗ No phone found — skipped (not usable for either list)
+  [47/48] مطعم سبايسي هوم الهندي | SPICY HOME INDIAN RE...
+     📞 +966 11 235 7926 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.spicyhomeksa.com/) — 35 so far
+  [48/48] KUY's Grill & Restaurant...
+     📞 +966 58 240 6854 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (10/30)
+
+  ── Final: 10/30 confirmed no-website leads, 35 has-website leads (checked 48/48 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Restaurants in Riyadh, Saudi Arabia
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Shikara Restaurant                     +966112305333      0.0   0    
+2   La Piazza                              +966114543300      0.0   0    
+3   مطعم بيراديز الهندي - قرطبه peradiz    +966 57 024 5766   4.7   16188
+4   Sultan's Steakhouse Riyadh             +966 55 563 3706   4.2   8461 
+5   Nando's - The View Mall                +966 56 478 4519   4.8   3503 
+6   SEERA - Indian Cuisine                 +966 53 509 0965   3.9   1451 
+7   Steak House                            +966 50 182 6663   4.4   3991 
+8   مطعم بيراديز الهندي - العليا peradiz   +966 57 024 5766   4.8   16188
+9   Bellbird                               +966 55 083 0061   4.6   8945 
+10  KUY's Grill & Restaurant               +966 58 240 6854   4.0   489  
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Restaurants in Riyadh, Saudi Arabia
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   الرومانسية                             920000144          0.0   0    
+2   Zafran Indian Kitchen - The View Mal   +966 54 390 7905   4.7   4025 
+3   TOKYO                                  +966 9200 09662    4.4   9174 
+4   Lusin Centria Mall                     +966 11 520 0161   4.2   5999 
+5   MYAZU Riyadh                           +966 9200 09686    4.4   10743
+6   مطعم فيش فكتوري للمأكولات البحرية‎     +966 55 122 0045   4.7   10074
+7   Aseeb Restaurant                       +966 9200 28226    4.5   17911
+8   Zafran Indian Kitchen - Turki Square   +966 54 390 7905   4.4   4025 
+9   Zafran Indian Kitchen - Al Nakheel M   +966 54 390 7905   4.7   4025 
+10  Nozomi Riyadh                          +966 9200 11923    4.7   3779 
+11  MOLO | indian cuisine | Roshn Front    +966 11 447 7779   4.7   2506 
+12  COYA                                   +966 9200 10352    4.6   5007 
+13  Karam Beirut Restaurant - Riyadh Tah   +966 11 416 1717   4.1   11865
+14  Eataly                                 +966 11 515 3260   4.5   8908 
+15  Gymkhana                               +966 11 451 6483   4.6   2975 
+16  Vidro | ڨيدرو                          +966 55 535 1612   4.7   6832 
+17  The Butcher Shop & Grill               +966 11 288 5156   4.8   11163
+18  Kumar Restaurant Riyadh                +966 58 179 7295   4.4   8947 
+19  Piatto Restaurant                      +966 55 788 7754   4.4   23361
+20  Riyadh Chinese Restaurant              +966 11 465 5451   3.9   2167 
+21  fi glbak                               +966 53 562 2657   4.7   13196
+22  Najd Village                           +966 9200 33511    4.0   13751
+23  Zafran Valley Restaurant               +966 57 005 7571   4.7   3708 
+24  Taste of Dilli Restaurant- مطعم مذاق   +966 11 415 8877   4.1   1920 
+25  Fork & Pipe                            +966 11 511 7889   4.6   141  
+26  Golden Dragon                          +966 55 592 5648   4.2   1907 
+27  56th Avenue Diner                      +966 11 288 1234   4.1   441  
+28  Flavours All Day Dining                +966 11 447 9888   4.4   222  
+29  Chingari| مطعم شينجاري الهندي | Best   +966 11 412 8325   4.2   5762 
+30  Kitchen On 3                           +966 11 511 7890   4.6   57   
+31  Fiestahan Asian & Pinoy Cuisine - Su   +966 50 765 9774   4.5   1280 
+32  Yawmiyat By Dalal                      +966 50 711 1055   4.5   6549 
+33  Avril Resto Cafe                       +966 55 563 6805   4.9   5385 
+34  Together & Co Restaurant               +966 11 505 1054   4.1   275  
+35  مطعم سبايسي هوم الهندي | SPICY HOME    +966 11 235 7926   3.8   1492 
+================================================================================
+
+
+  ── Area 'Riyadh, Saudi Arabia' contributed 9 new no-website leads, 33 new has-website leads (running total: 39/60 no-website, 143 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/dubai_restaurants.csv (39 rows), /workspaces/Hermes-leads/stress_run/dubai_restaurants_has_website.csv (143 rows)
+
+
+######################################################################
+# AREA: Jeddah, Saudi Arabia  (need 21 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Restaurants  |  Location: Jeddah, Saudi Arabia  |  Region hint: SA
+#  Target: 21 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Restaurants Jeddah, Saudi Arabia
+Cap: 150 listings
+============================================================
+
+  [1] 8/150 listings
+  [2] 16/150 listings
+  [3] 20/150 listings
+  [4] 25/150 listings
+  [5] 33/150 listings
+  [6] 37/150 listings
+  [7] 45/150 listings
+  [8] 53/150 listings
+  [9] 57/150 listings
+  [10] 65/150 listings
+  [11] 73/150 listings
+  [12] 77/150 listings
+  [13] 85/150 listings
+  [14] 92/150 listings
+  [15] 96/150 listings
+  [16] 103/150 listings
+  [17] 111/150 listings
+  [18] 115/150 listings
+  [19] 115/150 listings
+  [20] 115/150 listings
+  [21] 115/150 listings
+  [22] 115/150 listings
+  [23] 115/150 listings
+  [24] 115/150 listings
+  [25] 115/150 listings
+  [26] 115/150 listings
+  [27] 115/150 listings
+  [28] 115/150 listings
+  [29] 115/150 listings
+  [30] 115/150 listings
+
+  ✓ Discovery: 115 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 189 found, 169 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 284
+============================================================
+
+  ── 282 pass (no website) | 2 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ➤ PHONE-ICON: MYAZU | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: Sultan's Steakhouse | ★4.2 (0) | need digits
+  ➤ PHONE-ICON: Shababik | ★4.2 (0) | need digits
+  ➤ PHONE-ICON: Khayal Restaurant | ★4.2 (0) | need digits
+  ➤ PHONE-ICON: La Calle | ★4.8 (0) | need digits
+  ➤ PHONE-ICON: Papaya | ★4.2 (0) | need digits
+  ➤ PHONE-ICON: Rasoi by Vineet | ★4.4 (0) | need digits
+  ➤ PHONE-ICON: Makan Indian Restaurant | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: Niyyali | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: Swiss Butter - Le Mall | ★4.6 (0) | need digits
+  ➤ PHONE-ICON: P.F. Chang's | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: Al-Wazzan Restaurant | ★4.0 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Biryani Gate Restaurant Jeddah | ★4.7 (0) | will enrich
+  ➤ PHONE-ICON: Toki Restaurant | ★4.4 (0) | need digits
+  ➤ PHONE-ICON: Fogo de Chão Brazilian Steak House | ★4.6 (0) | need digits
+  ➤ PHONE-ICON: Nino Restaurant | ★4.0 (0) | need digits
+  ➤ PHONE-ICON: Manko Jeddah | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: Shang Palace | ★4.8 (0) | need digits
+  ➤ PHONE-ICON: Brasa de Brazil Jeddah | ★4.3 (0) | need digits
+  ➤ PHONE-ICON: مطعم ذا باي الهندي | The Bay Restaurant | ★4.6 (0) | need digits
+  ➤ PHONE-ICON: Princess Café & Restaurant - Jeddah Vibes Mall | ★4.5 (612) | need digits
+  ➤ PHONE-ICON: Da Bao | ★4.6 (3521) | need digits
+  ✗ DUMP (low activity): Al Nakheel Restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: Cocina La Cantina | ★4.7 (1855) | need digits
+  ✗ DUMP (low activity): Hareed Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Al Ferdaus Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): L’Antica Pizzeria da Michele – Jeddah | ★0.0 (0)
+  ✗ DUMP (low activity): Al-Romansiah | ★0.0 (0)
+  ✗ DUMP (low activity): Kuuru Jeddah | ★0.0 (0)
+  ➤ PHONE-ICON: ذي سبايس روت-مطعم هندي | The Spice Route-Indian  | ★4.9 (515) | need digits
+  ➤ PHONE-ICON: Nando's Red Sea Mall | ★4.5 (3905) | need digits
+  ✗ DUMP (low activity): HOLIDAYS RESTAURANT JEDDAH SHARA TAWBA | ★0.0 (0)
+  ✗ DUMP (low activity): Texas Roadhouse | ★0.0 (0)
+  ✗ DUMP (low activity): Zafiro Restaurant مطعـم زافيرو | ★0.0 (0)
+  ✗ DUMP (low activity): Punjabi Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Tapas | ★0.0 (0)
+  ✗ DUMP (low activity): KL10 Restaurant - jeddah | ★0.0 (0)
+  ✗ DUMP (low activity): San Carlo Cicchetti Jeddah | ★0.0 (0)
+  ✗ DUMP (low activity): Lola Restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: مطعم هنا دمشق | Hona Damascus Restaurant | ★4.1 (7342) | need digits
+  ✗ DUMP (low activity): Fuji Japanese Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Yaza | ★0.0 (0)
+  ✗ DUMP (low activity): Abyssinia | ★0.0 (0)
+  ✗ DUMP (low activity): Dhe Puttu Restaurant Jeddah | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: We Skore Jeddah - مطعم وي سكور | Atelier La Vie | ★4.7 (1676) | will enrich
+  ✗ DUMP (low activity): Sofia’s Bistro | ★0.0 (0)
+  ✗ DUMP (low activity): Baker & Spice | ★0.0 (0)
+  ✗ DUMP (low activity): Al Deira Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Koyikodan Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): The Waterfront Kitchen | ★0.0 (0)
+  ✗ DUMP (low activity): Pampas Latin American Cuisine | ★0.0 (0)
+  ✗ DUMP (low activity): Olive Tree | ★0.0 (0)
+  ➤ PHONE-ICON: Al Fairouz Restaurant | ★3.9 (10252) | need digits
+  ✗ DUMP (low activity): Cashmere Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): gather | ★0.0 (0)
+  ➤ PHONE-ICON: Chili's | ★4.1 (7854) | need digits
+  ✗ DUMP (low activity): Gyro Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Andalusia | ★0.0 (0)
+  ➤ PHONE-ICON: Marhaba Restaurant Jeddah | ★3.8 (1695) | need digits
+  ➤ PHONE-ICON: مطعم في بيروت جدة | At Beirut Jeddah | ★4.5 (2143) | need digits
+  ➤ NO-PHONE-SIGNAL: Cusina Restaurant Jeddah | ★4.4 (89) | will enrich
+  ➤ PHONE-ICON: Mazencito | ★4.5 (2215) | need digits
+  ✗ DUMP (low activity): IKEA Food Court | ★0.0 (0)
+  ✗ DUMP (low activity): Shahnamah شاهنامه | ★0.0 (0)
+  ➤ PHONE-ICON: El Marakby Seafood Restaurant | ★4.7 (4888) | need digits
+  ✗ DUMP (low activity): Arabian Palace Restaurant - مطعم ارابين بالس | ★0.0 (0)
+  ✗ DUMP (low activity): Mehran Restuarant Azizia Jeddah | ★0.0 (0)
+  ✗ DUMP (low activity): Jakarta Oriental Restaurant | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Pattaya Restaurant | ★4.0 (545) | will enrich
+  ➤ PHONE-ICON: White Wood Pizzeria | ★4.6 (6721) | need digits
+  ✗ DUMP (low activity): H Lounge | ★0.0 (0)
+  ➤ PHONE-ICON: The Red Fox | ★4.4 (773) | need digits
+  ✗ DUMP (low activity): Yumaku Ramen | ★0.0 (0)
+  ➤ PHONE-ICON: Cafe Laperouse Jeddah‎ | ★4.8 (6315) | need digits
+  ✗ DUMP (low activity): Al Safina Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Place | ★0.0 (0)
+  ➤ PHONE-ICON: Gloriole Venue جلوريال ڤينيو | ★4.4 (414) | need digits
+  ➤ PHONE-ICON: Dear Duck | ★4.1 (1346) | need digits
+  ✗ DUMP (low activity): The Lucky Llama | ★0.0 (0)
+  ➤ PHONE-ICON: Medrainus Catering & Hospitality | ميدرينيويس لل | ★4.3 (596) | need digits
+  ✗ DUMP (low activity): India Gate Restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: Black Tap LA PAZ | ★4.6 (2667) | need digits
+  ✗ DUMP (low activity): Caffe Aroma | ★0.0 (0)
+  ✗ DUMP (low activity): Ziyada Toum زيادة ثوم | ★0.0 (0)
+  ✗ DUMP (low activity): Praze The Taste برايز | ★0.0 (0)
+  ✗ DUMP (low activity): PALM BEACH RESTAURANTS | ★0.0 (0)
+  ✗ DUMP (low activity): Three in | ثري ان | ★0.0 (0)
+  ✗ DUMP (low activity): Ukiyo By Zn | ★0.0 (0)
+  ✗ DUMP (low activity): KING PALACE INDIAN HYDERABADI RESTAURANT | ★0.0 (0)
+  ✗ DUMP (low activity): New Punjab Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Fatt فات | ★0.0 (0)
+  ✗ DUMP (low activity): Islamabad Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): LE VOYAGEUR | ★0.0 (0)
+  ✗ DUMP (low activity): Spears Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Al Liwan Restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: جينجر ليف | ★4.1 (364) | need digits
+  ✗ DUMP (low activity): SAMAR RESTAURANT - مطعم ثمر | ★0.0 (0)
+  ✗ DUMP (low activity): روما جاوا للمأكولات الاندونيسية Ruma Jawa | ★0.0 (0)
+  ✗ DUMP (low activity): The Chord | ★0.0 (0)
+  ✗ DUMP (low activity): Jeddah Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): ibis Kitchen | ★0.0 (0)
+  ✗ DUMP (low activity): Paplo's | ★0.0 (0)
+  ✗ DUMP (low activity): Albasali seafood restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Reyhana | ★0.0 (0)
+  ✗ DUMP (low activity): Shobak | ★0.0 (0)
+  ✗ DUMP (low activity): Aryaas Indian Restaurant - Jeddah (Olivetree) | ★0.0 (0)
+  ✗ DUMP (low activity): Hungry Buds هينجري بدز | ★0.0 (0)
+  ✗ DUMP (low activity): Baraka Kerala restaurant palestine street | ★0.0 (0)
+  ✗ DUMP (low activity): Makkani Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Poke Bowl | ★0.0 (0)
+  ➤ PHONE-ICON: Handi Dine Restaurant | ★4.4 (365) | need digits
+  ✗ DUMP (low activity): Restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: Bosna Grill بوسنا جريل | ★4.7 (1732) | need digits
+  ✗ DUMP (low activity): Shalimar restaurant Jeddah | ★0.0 (0)
+  ✗ DUMP (low activity): Kerala Hotel مطعم الامان | ★0.0 (0)
+  ✗ DUMP (low activity): جدة جدة | ★0.0 (0)
+  ✗ DUMP (low activity): Thai Thai | ★0.0 (0)
+  ✗ DUMP (low activity): Al Wada'a | ★0.0 (0)
+  ✗ DUMP (low activity): الطازج | ★0.0 (0)
+  ✗ DUMP (low activity): البيك | ★0.0 (0)
+  ✗ DUMP (low activity): Al Tazaj | ★0.0 (0)
+  ✗ DUMP (low activity): البيك | ★0.0 (0)
+  ✗ DUMP (low activity): uno | ★0.0 (0)
+  ✗ DUMP (low activity): friday's | ★0.0 (0)
+  ✗ DUMP (low activity): Zehra Resturant | ★0.0 (0)
+  ✗ DUMP (low activity): Mehran Resturant | ★0.0 (0)
+  ✗ DUMP (low activity): Sushi Yoshi | ★0.0 (0)
+  ✗ DUMP (low activity): Pizza Fusion | ★0.0 (0)
+  ✗ DUMP (low activity): Joe's Burger | ★0.0 (0)
+  ✗ DUMP (low activity): Outback Steakhouse | ★0.0 (0)
+  ✗ DUMP (low activity): Uptown 966 | ★0.0 (0)
+  ✗ DUMP (low activity): Applebee's | ★0.0 (0)
+  ✗ DUMP (low activity): Taj Mahal | ★0.0 (0)
+  ✗ DUMP (low activity): Wing Zone | ★0.0 (0)
+  ✗ DUMP (low activity): Panino's | ★0.0 (0)
+  ✗ DUMP (low activity): Fuddrucker's | ★0.0 (0)
+  ✗ DUMP (low activity): Aseil | ★0.0 (0)
+  ✗ DUMP (low activity): مطاعم البرج المميزة | ★0.0 (0)
+  ✗ DUMP (low activity): قمرية | ★0.0 (0)
+  ✓ QUAL: Koreana | ★0.0 (0) | 📞 +966126604769
+  ✗ DUMP (low activity): Goodies | ★0.0 (0)
+  ✗ DUMP (low activity): IHOP | ★0.0 (0)
+  ✗ DUMP (low activity): P F Chang's China Bistro | ★0.0 (0)
+  ✗ DUMP (low activity): PizzaExpress | ★0.0 (0)
+  ✗ DUMP (low activity): Shake Shack | ★0.0 (0)
+  ✗ DUMP (low activity): The Cheesecake Factory | ★0.0 (0)
+  ✗ DUMP (low activity): Olio | ★0.0 (0)
+  ✗ DUMP (low activity): Chennai Darbar | ★0.0 (0)
+  ✓ QUAL: Bar.B.Q. Tonight | ★0.0 (0) | 📞 +966126769885;+966126769886
+  ✓ QUAL: Royal Plaza | ★0.0 (0) | 📞 +966126709205
+  ✗ DUMP (low activity): Al Seddah | ★0.0 (0)
+  ✗ DUMP (low activity): Al Dawar | ★0.0 (0)
+  ✗ DUMP (low activity): Al Fairwz | ★0.0 (0)
+  ✗ DUMP (low activity): Applebee's | ★0.0 (0)
+  ✗ DUMP (low activity): Makkah | ★0.0 (0)
+  ✗ DUMP (low activity): Garuda | ★0.0 (0)
+  ✗ DUMP (low activity): Goodies | ★0.0 (0)
+  ✗ DUMP (low activity): Mayrig | ★0.0 (0)
+  ✗ DUMP (low activity): Piatto | ★0.0 (0)
+  ✗ DUMP (low activity): Sahareej Aden | ★0.0 (0)
+  ✗ DUMP (low activity): Shada | ★0.0 (0)
+  ✗ DUMP (low activity): Butcher Shop & Grill | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم خيال | ★0.0 (0)
+  ✗ DUMP (low activity): Yummy yummy | ★0.0 (0)
+  ✗ DUMP (low activity): ديما | ★0.0 (0)
+  ✗ DUMP (low activity): Sushi Yoshi | ★0.0 (0)
+  ✗ DUMP (low activity): البيك | ★0.0 (0)
+  ✗ DUMP (low activity): البيك | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Kudu | ★0.0 (0)
+  ✗ DUMP (low activity): Shawermatac | ★0.0 (0)
+  ✓ QUAL: China Villa | ★0.0 (0) | 📞 +966535593951;+966112419099;+966544719777
+  ✗ DUMP (low activity): Abu zaid | ★0.0 (0)
+  ✗ DUMP (low activity): Nasar frnd house aziziya | ★0.0 (0)
+  ✗ DUMP (low activity): Palm Beach شاطئ النخيل | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم هاشم | ★0.0 (0)
+  ✗ DUMP (low activity): المطبخ المديني | ★0.0 (0)
+  ✗ DUMP (low activity): Wazzan Restaurent | ★0.0 (0)
+  ✗ DUMP (low activity): Rahma Restaurent | ★0.0 (0)
+  ✗ DUMP (low activity): كباب الحربي | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم عمو حمزة | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم المجد - عائلات - مندي ... | ★0.0 (0)
+  ✗ DUMP (low activity): شواية البخاري | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): البيك | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم تاج السلطاني | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم منتو وفرموزا عابد | ★0.0 (0)
+  ✗ DUMP (low activity): البيك | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): القرموشي | ★0.0 (0)
+  ✗ DUMP (low activity): البيك | ★0.0 (0)
+  ✗ DUMP (low activity): القرموشي | ★0.0 (0)
+  ✗ DUMP (low activity): بيتزا هت | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): البيك | ★0.0 (0)
+  ✗ DUMP (low activity): كنتاكي | ★0.0 (0)
+  ✗ DUMP (low activity): كنتاكي | ★0.0 (0)
+  ✗ DUMP (low activity): بينزا هت | ★0.0 (0)
+  ✗ DUMP (low activity): دومينوز بيتزا | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم بخاري | ★0.0 (0)
+  ✗ DUMP (low activity): الملحمة الشامية | ★0.0 (0)
+  ✗ DUMP (low activity): كنتاكي | ★0.0 (0)
+  ✗ DUMP (low activity): Baytoti | ★0.0 (0)
+  ✗ DUMP (low activity): Glow | ★0.0 (0)
+  ✗ DUMP (low activity): Fuddruckers | ★0.0 (0)
+  ✗ DUMP (low activity): Ruby Tuesday | ★0.0 (0)
+  ✗ DUMP (low activity): China Gate | ★0.0 (0)
+  ✗ DUMP (low activity): منتو وفرموزا عابد الصحيح | ★0.0 (0)
+  ✗ DUMP (low activity): Abe's Kusina | ★0.0 (0)
+  ✗ DUMP (low activity): معصوب القادري | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم بانعمة | ★0.0 (0)
+  ✗ DUMP (low activity): Century Burger | ★0.0 (0)
+  ✗ DUMP (low activity): Chez Sushi | ★0.0 (0)
+  ✗ DUMP (low activity): شبابيك | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم ريد تشيلي | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): ماكدونالدز | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم الكبسة السعودية | ★0.0 (0)
+  ✗ DUMP (low activity): العامودي للكعك والسمبوسة | ★0.0 (0)
+  ✗ DUMP (low activity): كبدة المعلم | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم المائدة البخاري | ★0.0 (0)
+  ✗ DUMP (low activity): ابو زيد | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم الهاجس | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم الهانم | ★0.0 (0)
+  ✗ DUMP (low activity): التنور للبيتزا والفطائر | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم البيت العدني | ★0.0 (0)
+  ✗ DUMP (low activity): مطاعم أبو زيد المحدودة | ★0.0 (0)
+  ✗ DUMP (low activity): جان برجر | ★0.0 (0)
+  ✗ DUMP (low activity): مايسترو بيتزا | ★0.0 (0)
+  ✗ DUMP (low activity): عصيرات ريماس | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم عادل الحربي للمشويات | ★0.0 (0)
+  ✗ DUMP (low activity): عصائر العرائسي | ★0.0 (0)
+  ✗ DUMP (low activity): مطبخ الجزيرة | ★0.0 (0)
+  ✗ DUMP (low activity): مذاق البسبوسة | ★0.0 (0)
+  ✗ DUMP (low activity): Koki كوكي | ★0.0 (0)
+  ✗ DUMP (low activity): طعمية رشاد | ★0.0 (0)
+  ✗ DUMP (low activity): بطاطس العم فلاح | ★0.0 (0)
+  ✗ DUMP (low activity): بيت المكرونة | ★0.0 (0)
+  ✗ DUMP (low activity): جيوسكو Juiceco | ★0.0 (0)
+  ✗ DUMP (low activity): اسماك السناره Tauhid Room | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم اليماني | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم البركه البخاري | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم ومطبخ الفارس | ★0.0 (0)
+  ✗ DUMP (low activity): مطاعم ومقاهئ الشاطئ | ★0.0 (0)
+  ✗ DUMP (low activity): مطاعم رمسيس المحدودة | ★0.0 (0)
+  ✗ DUMP (low activity): شيزان | ★0.0 (0)
+  ✗ DUMP (low activity): Jeddah Crepe | ★0.0 (0)
+  ✗ DUMP (low activity): شامي | ★0.0 (0)
+  ✗ DUMP (low activity): مطاعم الدرة للرز البخاري | ★0.0 (0)
+  ✗ DUMP (low activity): مذاق زمان | ★0.0 (0)
+  ✗ DUMP (low activity): إل فيلاجيو | ★0.0 (0)
+  ✗ DUMP (low activity): زودياك كويزين | ★0.0 (0)
+  ✗ DUMP (low activity): كابوريا | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم تلة العرائس - تشاملجا | ★0.0 (0)
+  ✗ DUMP (low activity): بنينوس | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم أرز لبنان | ★0.0 (0)
+  ✗ DUMP (low activity): سي لافي | ★0.0 (0)
+  ✗ DUMP (low activity): السرايا | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم مرحبا الباكستاني - جدة | ★0.0 (0)
+  ✗ DUMP (low activity): صيد النورس | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم الصعيدي | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم مندي الحجاز | ★0.0 (0)
+  ✗ DUMP (low activity): مطاعم باشا تركية | ★0.0 (0)
+  ✗ DUMP (low activity): مشويات | ★0.0 (0)
+
+  ── 4 qualified + 45 phone-icon-needs-enrich | 233 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 21 confirmed no-website
+Pool: 49 candidates
+============================================================
+
+  [1/49] Koreana...
+     ✓ CONFIRMED no-website lead (1/21)
+  [2/49] Bar.B.Q. Tonight...
+     ★ HAS-WEBSITE LEAD, found via web search (https://www.barbq-tonight.com/) — 1 so far
+  [3/49] Royal Plaza...
+     ✓ CONFIRMED no-website lead (2/21)
+  [4/49] China Villa...
+     ✓ CONFIRMED no-website lead (3/21)
+  [5/49] MYAZU...
+     📞 +966 9200 10434 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.myazu.com/) — 2 so far
+  [6/49] Sultan's Steakhouse...
+     📞 +966 55 591 9771 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://sultan-steak-jeddah-site.lovable.app/) — 3 so far
+  [7/49] Shababik...
+     📞 +966 9200 03945 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.shababikrestaurant.com/) — 4 so far
+  [8/49] Khayal Restaurant...
+     📞 +966 9200 02223 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.khayalrest.com/) — 5 so far
+  [9/49] La Calle...
+     📞 +966 56 286 1562 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://lacalle-mi.com/) — 6 so far
+  [10/49] Papaya...
+     📞 +966 9200 10164 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://papaya.com.sa/) — 7 so far
+  [11/49] Rasoi by Vineet...
+     📞 +966 12 213 2000 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://restaurantsandbars.accor.com/fr/restaurant/B4X0_R003) — 8 so far
+  [12/49] Makan Indian Restaurant...
+     📞 +966 57 351 4100 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (4/21)
+  [13/49] Niyyali...
+     📞 +966 12 696 8888 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.niyyali.com/) — 9 so far
+  [14/49] Swiss Butter - Le Mall...
+     📞 +966 54 696 0694 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://swissbutter.com/) — 10 so far
+  [15/49] P.F. Chang's...
+     📞 +966 12 261 7021 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.pfchangsme.com/sa/jeddah/le-mall?utm_source=GMB&utm_medium=Yext&y_source=1_MTU0Nzg5ODYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D) — 11 so far
+  [16/49] Al-Wazzan Restaurant...
+     📞 +966 12 660 8909 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://wazzan.com.sa/%D9%81%D8%B1%D9%88%D8%B9%D9%86%D8%A7/#About-Us) — 12 so far
+  [17/49] Biryani Gate Restaurant Jeddah...
+     📞 +966 55 145 8442 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://biryani-gate-restaurant.grexa.site/) — 13 so far
+  [18/49] Toki Restaurant...
+     📞 +966 12 606 0606 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.tokiksa.com/) — 14 so far
+  [19/49] Fogo de Chão Brazilian Steak House...
+     📞 +966 9200 06815 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.fogome.com/) — 15 so far
+  [20/49] Nino Restaurant...
+     📞 +966 55 300 5691 | Owner: — | Claimed: No
+     ★ HAS-WEBSITE LEAD (http://nino-me.com/) — 16 so far
+  [21/49] Manko Jeddah...
+     📞 +966 53 555 7594 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://manko-ksa.com/) — 17 so far
+  [22/49] Shang Palace...
+     📞 +966 800 440 8888 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.shangpalaceksa.com/) — 18 so far
+  [23/49] Brasa de Brazil Jeddah...
+     📞 +966 54 413 1389 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.brasadebrazil.com/OneLink/) — 19 so far
+  [24/49] مطعم ذا باي الهندي | The Bay Restaurant...
+     📞 +966 56 737 6168 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (5/21)
+  [25/49] Princess Café & Restaurant - Jeddah Vibes Mal...
+     📞 +966 53 766 4450 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (6/21)
+  [26/49] Da Bao...
+     📞 +966 56 516 1760 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (7/21)
+  [27/49] Cocina La Cantina...
+     📞 +966 50 766 0556 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.cocinalacantina.com/) — 20 so far
+  [28/49] ذي سبايس روت-مطعم هندي | The Spice Route-Indi...
+     📞 +966 56 950 3289 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://url.mykeeta.com/Aqv264xz) — 21 so far
+  [29/49] Nando's Red Sea Mall...
+     📞 +966 56 175 3826 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://www.redseamall.com/dining/nandos) — 22 so far
+  [30/49] مطعم هنا دمشق | Hona Damascus Restaurant...
+     📞 +966 54 149 2515 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://honadamascus.net/) — 23 so far
+  [31/49] We Skore Jeddah - مطعم وي سكور | Atelier La V...
+     📞 +966 56 853 2181 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.skorerestaurant.com/) — 24 so far
+  [32/49] Al Fairouz Restaurant...
+     📞 +966 54 893 0864 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.alfairouzrestaurants.com/) — 25 so far
+  [33/49] Chili's...
+     📞 +966 12 665 8504 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (8/21)
+  [34/49] Marhaba Restaurant Jeddah...
+     📞 +966 50 463 5668 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://www.marhabarestaurants.com/) — 26 so far
+  [35/49] مطعم في بيروت جدة | At Beirut Jeddah...
+     📞 +966 50 054 7799 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (9/21)
+  [36/49] Cusina Restaurant Jeddah...
+     📞 +966 55 666 8023 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (10/21)
+  [37/49] Mazencito...
+     📞 +966 55 567 4383 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://mazencito.com/) — 27 so far
+  [38/49] El Marakby Seafood Restaurant...
+     📞 +966 55 529 1131 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://elmarakby.com/en) — 28 so far
+  [39/49] Pattaya Restaurant...
+     📞 +966 55 987 4289 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (11/21)
+  [40/49] White Wood Pizzeria...
+     📞 +966 55 674 4548 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.whitewoodpizzeria.com/) — 29 so far
+  [41/49] The Red Fox...
+     📞 +966 56 776 9941 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (12/21)
+  [42/49] Cafe Laperouse Jeddah‎...
+     📞 +966 55 863 4777 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://cafelaperouse-ksa.com/) — 30 so far
+  [43/49] Gloriole Venue جلوريال ڤينيو...
+     📞 +966 50 568 4400 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.getsmartmenu.com/NjA2/MQSMEQSMEQ/ZmFsc2USMEQ) — 31 so far
+  [44/49] Dear Duck...
+     📞 +966 54 905 0593 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.dearduck.co/) — 32 so far
+  [45/49] Medrainus Catering & Hospitality | ميدرينيويس...
+     📞 +966 50 844 7333 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (13/21)
+  [46/49] Black Tap LA PAZ...
+     📞 +966 9200 24304 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.sevenrooms.com/explore/blacktaplapazjeddah/reservations/create/search/) — 33 so far
+  [47/49] جينجر ليف...
+     📞 +966 12 224 4300 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD, found via web search (https://maps24.net/saudi-arabia/jeddah/restaurant/7907093) — 34 so far
+  [48/49] Handi Dine Restaurant...
+     📞 +966 53 415 1719 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://handidine.com/) — 35 so far
+  [49/49] Bosna Grill بوسنا جريل...
+     📞 +966 54 898 7859 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (14/21)
+
+  ── Final: 14/21 confirmed no-website leads, 35 has-website leads (checked 49/49 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Restaurants in Jeddah, Saudi Arabia
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Koreana                                +966126604769      0.0   0    
+2   Royal Plaza                            +966126709205      0.0   0    
+3   China Villa                            +966535593951;+9   0.0   0    
+4   Makan Indian Restaurant                +966 57 351 4100   4.7   13292
+5   مطعم ذا باي الهندي | The Bay Restaur   +966 56 737 6168   4.6   3457 
+6   Princess Café & Restaurant - Jeddah    +966 53 766 4450   4.5   612  
+7   Da Bao                                 +966 56 516 1760   4.6   3521 
+8   Chili's                                +966 12 665 8504   4.1   7854 
+9   مطعم في بيروت جدة | At Beirut Jeddah   +966 50 054 7799   4.5   2143 
+10  Cusina Restaurant Jeddah               +966 55 666 8023   4.4   89   
+11  Pattaya Restaurant                     +966 55 987 4289   4.0   545  
+12  The Red Fox                            +966 56 776 9941   4.4   773  
+13  Medrainus Catering & Hospitality | م   +966 50 844 7333   4.3   596  
+14  Bosna Grill بوسنا جريل                 +966 54 898 7859   4.7   1732 
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Restaurants in Jeddah, Saudi Arabia
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Bar.B.Q. Tonight                       +966126769885;+9   0.0   0    
+2   MYAZU                                  +966 9200 10434    4.5   5373 
+3   Sultan's Steakhouse                    +966 55 591 9771   4.2   3353 
+4   Shababik                               +966 9200 03945    4.2   7822 
+5   Khayal Restaurant                      +966 9200 02223    4.2   38295
+6   La Calle                               +966 56 286 1562   4.8   8155 
+7   Papaya                                 +966 9200 10164    4.2   14334
+8   Rasoi by Vineet                        +966 12 213 2000   4.4   438  
+9   Niyyali                                +966 12 696 8888   4.7   4740 
+10  Swiss Butter - Le Mall                 +966 54 696 0694   4.6   6904 
+11  P.F. Chang's                           +966 12 261 7021   4.7   9559 
+12  Al-Wazzan Restaurant                   +966 12 660 8909   4.0   31954
+13  Biryani Gate Restaurant Jeddah         +966 55 145 8442   4.7   2100 
+14  Toki Restaurant                        +966 12 606 0606   4.4   1972 
+15  Fogo de Chão Brazilian Steak House     +966 9200 06815    4.6   12335
+16  Nino Restaurant                        +966 55 300 5691   4.0   3790 
+17  Manko Jeddah                           +966 53 555 7594   4.7   2480 
+18  Shang Palace                           +966 800 440 888   4.8   1980 
+19  Brasa de Brazil Jeddah                 +966 54 413 1389   4.3   9388 
+20  Cocina La Cantina                      +966 50 766 0556   4.7   1855 
+21  ذي سبايس روت-مطعم هندي | The Spice R   +966 56 950 3289   4.9   515  
+22  Nando's Red Sea Mall                   +966 56 175 3826   4.5   3905 
+23  مطعم هنا دمشق | Hona Damascus Restau   +966 54 149 2515   4.1   7342 
+24  We Skore Jeddah - مطعم وي سكور | Ate   +966 56 853 2181   4.7   1676 
+25  Al Fairouz Restaurant                  +966 54 893 0864   3.9   10252
+26  Marhaba Restaurant Jeddah              +966 50 463 5668   3.8   1695 
+27  Mazencito                              +966 55 567 4383   4.5   2215 
+28  El Marakby Seafood Restaurant          +966 55 529 1131   4.7   4888 
+29  White Wood Pizzeria                    +966 55 674 4548   4.6   6721 
+30  Cafe Laperouse Jeddah‎                 +966 55 863 4777   4.8   6315 
+31  Gloriole Venue جلوريال ڤينيو           +966 50 568 4400   4.4   414  
+32  Dear Duck                              +966 54 905 0593   4.1   1346 
+33  Black Tap LA PAZ                       +966 9200 24304    4.6   2667 
+34  جينجر ليف                              +966 12 224 4300   4.1   364  
+35  Handi Dine Restaurant                  +966 53 415 1719   4.4   365  
+================================================================================
+
+
+  ── Area 'Jeddah, Saudi Arabia' contributed 14 new no-website leads, 35 new has-website leads (running total: 53/60 no-website, 178 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/dubai_restaurants.csv (53 rows), /workspaces/Hermes-leads/stress_run/dubai_restaurants_has_website.csv (178 rows)
+
+
+######################################################################
+# AREA: Doha, Qatar  (need 7 more no-website leads to hit target)
+######################################################################
+
+############################################################
+#  GOOGLE MAPS LEAD SCRAPER v3 (BROWSER)
+#  Niche: Restaurants  |  Location: Doha, Qatar  |  Region hint: QA
+#  Target: 7 leads (no website, active)
+############################################################
+
+============================================================
+STEP 1: DISCOVERY — Browser-based Google Maps search
+Search: Restaurants Doha, Qatar
+Cap: 150 listings
+============================================================
+
+  [1] 7/150 listings
+  [2] 15/150 listings
+  [3] 20/150 listings
+  [4] 24/150 listings
+  [5] 31/150 listings
+  [6] 35/150 listings
+  [7] 41/150 listings
+  [8] 49/150 listings
+  [9] 53/150 listings
+  [10] 61/150 listings
+  [11] 69/150 listings
+  [12] 73/150 listings
+  [13] 81/150 listings
+  [14] 89/150 listings
+  [15] 93/150 listings
+  [16] 101/150 listings
+  [17] 109/150 listings
+  [18] 113/150 listings
+  [19] 113/150 listings
+  [20] 113/150 listings
+  [21] 113/150 listings
+  [22] 113/150 listings
+  [23] 113/150 listings
+  [24] 113/150 listings
+  [25] 113/150 listings
+  [26] 113/150 listings
+  [27] 113/150 listings
+  [28] 113/150 listings
+  [29] 113/150 listings
+  [30] 113/150 listings
+
+  ✓ Discovery: 113 raw listings
+
+============================================================
+STEP 1B: OSM AUGMENT — cross-checking OpenStreetMap
+============================================================
+
+  ── OSM: 168 found, 111 new (not already in Maps results)
+
+============================================================
+STEP 2: WEBSITE FILTER — Input: 224
+============================================================
+
+  ── 219 pass (no website) | 5 disqualified
+
+============================================================
+STEP 3: ACTIVITY VERIFICATION
+Requirements: Phone icon/num ✓ | Rating ≥ 3.0 | Reviews ≥ 0
+============================================================
+
+  ➤ PHONE-ICON: REBERU Contemporary Cuisine | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: Jamavar Doha | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: Yasmine Palace Restaurant | ★4.6 (0) | need digits
+  ➤ PHONE-ICON: SMAT Restaurant | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: Saffron Doha | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: La Mar Doha by Gastón Acurio | ★4.7 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: DEQADA Restaurant | ★4.8 (0) | will enrich
+  ➤ PHONE-ICON: Il Galante - Authentic Italian Restaurant | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: Saasna | ★4.4 (0) | need digits
+  ➤ PHONE-ICON: Sabai Thai Restaurant | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: Al Nahham Restaurant | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: Bayt El Talleh Restaurant | ★4.6 (0) | need digits
+  ➤ PHONE-ICON: Sora Rooftop | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: Ipanema | ★4.5 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: Mosavali Doha | ★4.8 (0) | will enrich
+  ➤ PHONE-ICON: Qalamkarri | ★4.4 (0) | need digits
+  ➤ PHONE-ICON: STK Doha | ★4.5 (0) | need digits
+  ➤ PHONE-ICON: Desert Rose Restaurant, Doha | ★4.7 (0) | need digits
+  ➤ PHONE-ICON: IZU at Mandarin Oriental, Doha | ★4.4 (0) | need digits
+  ➤ NO-PHONE-SIGNAL: View Restaurant | ★4.9 (0) | will enrich
+  ✗ DUMP (low activity): Millie’s Lounge | ★0.0 (0)
+  ✗ DUMP (low activity): Mr. & Mrs. Hawker | ★0.0 (0)
+  ✗ DUMP (low activity): Teatro Doha | ★0.0 (0)
+  ✗ DUMP (low activity): Plaza Dine Restaurant doha | ★0.0 (0)
+  ✗ DUMP (low activity): Nac Doha | ★0.0 (0)
+  ✗ DUMP (low activity): Baith Maryam Brothers Restaurant, Qatar | ★0.0 (0)
+  ✗ DUMP (low activity): Mykonos Doha | ★0.0 (0)
+  ✗ DUMP (low activity): Benjarong Doha - Thai Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Sel & Miel Doha | ★0.0 (0)
+  ✗ DUMP (low activity): Lemon Garden Restaurant & Cafe | ★0.0 (0)
+  ✗ DUMP (low activity): Sushi Library Doha City Center | ★0.0 (0)
+  ➤ PHONE-ICON: COYA Doha | ★4.5 (467) | need digits
+  ✗ DUMP (low activity): Le Petit Chef - Doha | ★0.0 (0)
+  ➤ PHONE-ICON: Q Lounge & Restaurant | ★4.4 (344) | need digits
+  ➤ PHONE-ICON: CECCONI’S | ★4.7 (359) | need digits
+  ➤ NO-PHONE-SIGNAL: Chingari | ★4.8 (0) | will enrich
+  ✗ DUMP (low activity): Off the Hook Seafood Restaurant - B ring Road, A | ★0.0 (0)
+  ➤ PHONE-ICON: Lucia's Doha | ★4.2 (725) | need digits
+  ✗ DUMP (low activity): Pochana Thai Restaurant Qatar | ★0.0 (0)
+  ✗ DUMP (low activity): Al Terrace Traditional Qatari Local Cuisine Rest | ★0.0 (0)
+  ✗ DUMP (low activity): The Asian Kitchen | ★0.0 (0)
+  ✗ DUMP (low activity): Uzman Turkish Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Nusr-Et Steakhouse | ★0.0 (0)
+  ✗ DUMP (low activity): The Restaurant at The Chedi Katara | ★0.0 (0)
+  ✗ DUMP (low activity): Chabrat Al Mina | ★0.0 (0)
+  ✗ DUMP (low activity): Max's Restaurant - B Ring Road, Doha | ★0.0 (0)
+  ➤ PHONE-ICON: Iksha360 | ★4.5 (877) | need digits
+  ✗ DUMP (low activity): Thai Kitchen Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Damasca One Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Sprezzi | ★0.0 (0)
+  ✗ DUMP (low activity): Nobu Doha | ★0.0 (0)
+  ✗ DUMP (low activity): Dgrill Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Liang at Mandarin Oriental, Doha | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Malibu Kitchen | ★4.8 (0) | will enrich
+  ✗ DUMP (low activity): Thalatheen | ★0.0 (0)
+  ✗ DUMP (low activity): Public House Doha | ★0.0 (0)
+  ✗ DUMP (low activity): Wild & The Moon | ★0.0 (0)
+  ➤ PHONE-ICON: Gymkhana Qatar | ★4.4 (540) | need digits
+  ✗ DUMP (low activity): Pure Eats Co. | ★0.0 (0)
+  ✗ DUMP (low activity): Turkey Central Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Rotana Restaurant - Al Nasr Street | ★0.0 (0)
+  ✗ DUMP (low activity): Jasmine Thai Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): New Roti & Boti Fine Dining Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Kalian Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Barbeque Fusion | ★0.0 (0)
+  ✗ DUMP (low activity): Mama Rozie Restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: Hunters Room and Grill | ★4.6 (493) | need digits
+  ✗ DUMP (low activity): Era Restaurant & Cafe | ★0.0 (0)
+  ✗ DUMP (low activity): Dar Yema Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Tropicana 360 | ★0.0 (0)
+  ✗ DUMP (low activity): Crust Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Riviera Lounge Doha | ★0.0 (0)
+  ➤ PHONE-ICON: Berenjak Doha - Al Maha Island | ★4.8 (2055) | need digits
+  ➤ NO-PHONE-SIGNAL: La Bodega Negra Doha | ★4.8 (0) | will enrich
+  ➤ PHONE-ICON: Kai's Songbird | ★4.6 (328) | need digits
+  ➤ PHONE-ICON: Koo Madame | ★4.4 (89) | need digits
+  ✗ DUMP (low activity): Carbone Doha | ★0.0 (0)
+  ✗ DUMP (low activity): Bandar Aden Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Planet Hollywood Doha | ★0.0 (0)
+  ✗ DUMP (low activity): Electric Diner | ★0.0 (0)
+  ✗ DUMP (low activity): Seventy west restaurant | ★0.0 (0)
+  ➤ PHONE-ICON: Curiosa by Jean-Georges | ★4.6 (183) | need digits
+  ✗ DUMP (low activity): MURU | ★0.0 (0)
+  ✗ DUMP (low activity): Polka | ★0.0 (0)
+  ➤ PHONE-ICON: Belhambar Qatar | ★4.7 (301) | need digits
+  ✗ DUMP (low activity): Isaan | ★0.0 (0)
+  ✗ DUMP (low activity): La Marsa | ★0.0 (0)
+  ✗ DUMP (low activity): Bhojan Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Bianco Ristorante | ★0.0 (0)
+  ✗ DUMP (low activity): Kabalen Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Afaque Shinwari Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Signor Sassi Qatar | ★0.0 (0)
+  ✗ DUMP (low activity): Seaside Restaurant | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: The Lagoon Restaurant Doha | ★4.8 (0) | will enrich
+  ✗ DUMP (low activity): Desi Fusion Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Vine Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): The Real Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Taj Maharaja Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Spuntino | ★0.0 (0)
+  ✗ DUMP (low activity): Cipriani Doha | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Central Cafe and Restaurant change name to MAHAR | ★4.6 (38) | will enrich
+  ✗ DUMP (low activity): Al Akeel Restaurant مطعم الأكيل | ★0.0 (0)
+  ✗ DUMP (low activity): Chili's - Al Sadd | ★0.0 (0)
+  ✗ DUMP (low activity): Alaturca Turkish Restaurant | ★0.0 (0)
+  ✗ DUMP (low activity): Ginger Club Pearl Qatar | ★0.0 (0)
+  ➤ PHONE-ICON: SAID Dal 1923 - Doha | ★4.2 (788) | need digits
+  ✗ DUMP (low activity): Shiraz Garden (Iranian Restaurant) حدائق شيراز | ★0.0 (0)
+  ➤ PHONE-ICON: Seasons Restaurant | ★4.1 (281) | need digits
+  ✗ DUMP (low activity): Argan Moroccan Cuisine | ★0.0 (0)
+  ➤ NO-PHONE-SIGNAL: Restaurant | ★4.3 (87) | will enrich
+  ➤ PHONE-ICON: Sawa by Sanad | ★4.6 (296) | need digits
+  ➤ PHONE-ICON: ALBA | ★4.8 (358) | need digits
+  ✗ DUMP (low activity): Aroma Restaurant Doha | ★0.0 (0)
+  ✗ DUMP (low activity): Tandoor Express | ★0.0 (0)
+  ✗ DUMP (low activity): La Gourmandise | ★0.0 (0)
+  ✓ QUAL: Al Shami Home | ★0.0 (0) | 📞 +974 44501117
+  ✗ DUMP (low activity): Royal Istanbul | ★0.0 (0)
+  ✗ DUMP (low activity): Chilli's | ★0.0 (0)
+  ✗ DUMP (low activity): Thai Chi | ★0.0 (0)
+  ✗ DUMP (low activity): Ponderosa Steakhouse | ★0.0 (0)
+  ✗ DUMP (low activity): Pizza Hut | ★0.0 (0)
+  ✗ DUMP (low activity): T.G.I. Friday's @ Villaggio Mall | ★0.0 (0)
+  ✗ DUMP (low activity): The Butcher Shop | ★0.0 (0)
+  ✓ QUAL: Asia Live! | ★0.0 (0) | 📞 +974 4429 8472
+  ✗ DUMP (low activity): Venice | ★0.0 (0)
+  ✗ DUMP (low activity): La Spaghetto | ★0.0 (0)
+  ✗ DUMP (low activity): Asiana | ★0.0 (0)
+  ✗ DUMP (low activity): Barath | ★0.0 (0)
+  ✗ DUMP (low activity): Ponderosa @ Al Meera West Bay | ★0.0 (0)
+  ✗ DUMP (low activity): Vasanta Bhavan | ★0.0 (0)
+  ✗ DUMP (low activity): Aryas Restraurent | ★0.0 (0)
+  ✗ DUMP (low activity): Aryas Restraurent | ★0.0 (0)
+  ✗ DUMP (low activity): Chow King | ★0.0 (0)
+  ✗ DUMP (low activity): LeNotre Paris | ★0.0 (0)
+  ✗ DUMP (low activity): Nook | ★0.0 (0)
+  ✗ DUMP (low activity): Fuddruckers | ★0.0 (0)
+  ✗ DUMP (low activity): Bennigan's | ★0.0 (0)
+  ✗ DUMP (low activity): Baba Ghanouj | ★0.0 (0)
+  ✗ DUMP (low activity): Anjappar | ★0.0 (0)
+  ✗ DUMP (low activity): Maharshtra Pride | ★0.0 (0)
+  ✗ DUMP (low activity): Applebee's | ★0.0 (0)
+  ✗ DUMP (low activity): Bukhara | ★0.0 (0)
+  ✗ DUMP (low activity): Star of India | ★0.0 (0)
+  ✗ DUMP (low activity): Red Lobster | ★0.0 (0)
+  ✗ DUMP (low activity): Nando's | ★0.0 (0)
+  ✗ DUMP (low activity): Applebee's | ★0.0 (0)
+  ✗ DUMP (low activity): Afghan Brothers | ★0.0 (0)
+  ✗ DUMP (low activity): Lifestyle | ★0.0 (0)
+  ✗ DUMP (low activity): McDonal | ★0.0 (0)
+  ✗ DUMP (low activity): Baba Chapa-Tea | ★0.0 (0)
+  ✗ DUMP (low activity): Pizza Hut | ★0.0 (0)
+  ✗ DUMP (low activity): Hot Chicken | ★0.0 (0)
+  ✗ DUMP (low activity): Marmaris Turkish Restaurent | ★0.0 (0)
+  ✗ DUMP (low activity): Mazz | ★0.0 (0)
+  ✗ DUMP (low activity): Asiana | ★0.0 (0)
+  ✗ DUMP (low activity): Domino's Pizza, Wakra | ★0.0 (0)
+  ✗ DUMP (low activity): Le Vesuvio | ★0.0 (0)
+  ✗ DUMP (low activity): Food Court in Sidra | ★0.0 (0)
+  ✗ DUMP (low activity): Sidra Food Court | ★0.0 (0)
+  ✗ DUMP (low activity): Sidra Food Court | ★0.0 (0)
+  ✗ DUMP (low activity): Downtown | ★0.0 (0)
+  ✗ DUMP (low activity): Taxi Hotel | ★0.0 (0)
+  ✗ DUMP (low activity): Bollywood Masala | ★0.0 (0)
+  ✗ DUMP (low activity): CUPPA CAFE TEA | ★0.0 (0)
+  ✓ QUAL: ASIANA | ★0.0 (0) | 📞 0097444626600
+  ✗ DUMP (low activity): Tandoor Express | ★0.0 (0)
+  ✗ DUMP (low activity): A'la Turkish Cuisine | ★0.0 (0)
+  ✓ QUAL: مطعم بندر عدن | ★0.0 (0) | 📞 44375503
+  ✗ DUMP (low activity): TGIF | ★0.0 (0)
+  ✗ DUMP (low activity): Waga Mama | ★0.0 (0)
+  ✗ DUMP (low activity): Chilli's | ★0.0 (0)
+  ✗ DUMP (low activity): Applebee's | ★0.0 (0)
+  ✗ DUMP (low activity): Jones The Grocer | ★0.0 (0)
+  ✗ DUMP (low activity): Zafaran | ★0.0 (0)
+  ✗ DUMP (low activity): MRA | ★0.0 (0)
+  ✗ DUMP (low activity): Kuwait House | ★0.0 (0)
+  ✗ DUMP (low activity): Canteen | ★0.0 (0)
+  ✗ DUMP (low activity): Hunters Grill | ★0.0 (0)
+  ✗ DUMP (low activity): The Italian job | ★0.0 (0)
+  ✓ QUAL: Casa Paco | ★0.0 (0) | 📞 +974 5573 6839
+  ✗ DUMP (low activity): Royal Tandoor | ★0.0 (0)
+  ✗ DUMP (low activity): Twinky | ★0.0 (0)
+  ✗ DUMP (low activity): Cicchetti | ★0.0 (0)
+  ✓ QUAL: Belgium Café | ★0.0 (0) | 📞 +974 4484 4919
+  ✗ DUMP (low activity): Pizza Hut | ★0.0 (0)
+  ✓ QUAL: شجاع | ★0.0 (0) | 📞 55867897
+  ✗ DUMP (low activity): مطعم امرجان سوتيش تركي | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم خوش كباب | ★0.0 (0)
+  ✗ DUMP (low activity): Evergreen Organics | ★0.0 (0)
+  ✗ DUMP (low activity): suger and spice | ★0.0 (0)
+  ✗ DUMP (low activity): وقت الشاي | ★0.0 (0)
+  ✗ DUMP (low activity): مزون | ★0.0 (0)
+  ✓ QUAL: Taj Rasoi | ★0.0 (0) | 📞 +974 4429 8470
+  ✓ QUAL: Corniche | ★0.0 (0) | 📞 +974 4429 8404
+  ✗ DUMP (low activity): الساحة | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم الساحة | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم الشاطر عباس | ★0.0 (0)
+  ✗ DUMP (low activity): حضرموت | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم برج الحمام | ★0.0 (0)
+  ✗ DUMP (low activity): مطعم بحر الخليج | ★0.0 (0)
+  ✗ DUMP (low activity): Restoran kita | ★0.0 (0)
+  ✗ DUMP (low activity): Nusantara restoran | ★0.0 (0)
+  ✗ DUMP (low activity): Warteg nusantara | ★0.0 (0)
+  ✗ DUMP (low activity): Soul Curry | ★0.0 (0)
+  ✗ DUMP (low activity): Bharath | ★0.0 (0)
+  ✗ DUMP (low activity): Afia | ★0.0 (0)
+  ✗ DUMP (low activity): Nice | ★0.0 (0)
+  ✗ DUMP (low activity): Anatolian | ★0.0 (0)
+  ✗ DUMP (low activity): King | ★0.0 (0)
+  ✗ DUMP (low activity): Ali Baba | ★0.0 (0)
+  ✗ DUMP (low activity): Asian Chef | ★0.0 (0)
+  ✗ DUMP (low activity): Eat Out | ★0.0 (0)
+  ✗ DUMP (low activity): Taste Mantra | ★0.0 (0)
+  ✗ DUMP (low activity): Green Tea | ★0.0 (0)
+  ✗ DUMP (low activity): Tea World | ★0.0 (0)
+  ✗ DUMP (low activity): The Taste of Gulf | ★0.0 (0)
+  ✗ DUMP (low activity): Pizza Hut | ★0.0 (0)
+  ✗ DUMP (low activity): Petra Kitchen | ★0.0 (0)
+  ✗ DUMP (low activity): Turkey Anadolu Rest & Sweets | ★0.0 (0)
+
+  ── 9 qualified + 42 phone-icon-needs-enrich | 168 dumped
+
+============================================================
+STEP 4: ENRICHMENT — verifying candidates, need 7 confirmed no-website
+Pool: 51 candidates
+============================================================
+
+  [1/51] Al Shami Home...
+     ✓ CONFIRMED no-website lead (1/7)
+  [2/51] Asia Live!...
+     ✓ CONFIRMED no-website lead (2/7)
+  [3/51] ASIANA...
+     ★ HAS-WEBSITE LEAD, found via web search (https://flyasiana.com/) — 1 so far
+  [4/51] مطعم بندر عدن...
+     ★ HAS-WEBSITE LEAD, found via web search (https://qatarcafes.com/2021/مطعم-بندر-عدن-الدوحة/) — 2 so far
+  [5/51] Casa Paco...
+     ✓ CONFIRMED no-website lead (3/7)
+  [6/51] Belgium Café...
+     ✓ CONFIRMED no-website lead (4/7)
+  [7/51] شجاع...
+     ★ HAS-WEBSITE LEAD, found via web search (https://moovitapp.com/index/ar/النقل_العام-محمد_بن_شجاع-Doha-street_16858785-5877) — 3 so far
+  [8/51] Taj Rasoi...
+     ✓ CONFIRMED no-website lead (5/7)
+  [9/51] Corniche...
+     ✓ CONFIRMED no-website lead (6/7)
+  [10/51] REBERU Contemporary Cuisine...
+     📞 +974 4427 5365 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://www.reberu.qa/) — 4 so far
+  [11/51] Jamavar Doha...
+     📞 +974 4485 4535 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (https://jamavarrestaurants.com/indian-restaurant-doha/) — 5 so far
+  [12/51] Yasmine Palace Restaurant...
+     📞 +974 7711 1504 | Owner: — | Claimed: Unknown
+     ★ HAS-WEBSITE LEAD (http://yasminepalace.com/) — 6 so far
+  [13/51] SMAT Restaurant...
+     📞 +974 6666 4448 | Owner: — | Claimed: Unknown
+     ✓ CONFIRMED no-website lead (7/7)
+
+  ── Reached 7 confirmed no-website leads, stopping early
+
+
+  ── Final: 7/7 confirmed no-website leads, 6 has-website leads (checked 13/51 candidates)
+
+
+================================================================================
+NO-WEBSITE LEAD TABLE — Restaurants in Doha, Qatar
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   Al Shami Home                          +974 44501117      0.0   0    
+2   Asia Live!                             +974 4429 8472     0.0   0    
+3   Casa Paco                              +974 5573 6839     0.0   0    
+4   Belgium Café                           +974 4484 4919     0.0   0    
+5   Taj Rasoi                              +974 4429 8470     0.0   0    
+6   Corniche                               +974 4429 8404     0.0   0    
+7   SMAT Restaurant                        +974 6666 4448     4.5   898  
+================================================================================
+
+
+================================================================================
+HAS-WEBSITE LEAD TABLE — Restaurants in Doha, Qatar
+================================================================================
+#   Business Name                          Phone              ★     Rev  
+--- -------------------------------------- ------------------ ----- -----
+1   ASIANA                                 0097444626600      0.0   0    
+2   مطعم بندر عدن                          44375503           0.0   0    
+3   شجاع                                   55867897           0.0   0    
+4   REBERU Contemporary Cuisine            +974 4427 5365     4.7   1152 
+5   Jamavar Doha                           +974 4485 4535     4.5   422  
+6   Yasmine Palace Restaurant              +974 7711 1504     4.6   9089 
+================================================================================
+
+
+  ── Area 'Doha, Qatar' contributed 7 new no-website leads, 6 new has-website leads (running total: 60/60 no-website, 184 has-website)
+
+  💾 Saved progress: /workspaces/Hermes-leads/stress_run/dubai_restaurants.csv (60 rows), /workspaces/Hermes-leads/stress_run/dubai_restaurants_has_website.csv (184 rows)
+
+
+================================================================================
+MULTI-AREA SUMMARY — Restaurants
+================================================================================
+  Riyadh, Saudi Arabia                     9 no-website | 33 has-website
+  Jeddah, Saudi Arabia                     14 no-website | 35 has-website
+  Doha, Qatar                              7 no-website | 6 has-website
+--------------------------------------------------------------------------------
+  TOTAL: 60/60 confirmed unique no-website leads
+  TOTAL: 184 confirmed unique has-website leads (bonus list)
+
+  ✓ No-website target reached.
+================================================================================
+
+✓ No-website CSV: /workspaces/Hermes-leads/stress_run/dubai_restaurants.csv
+✓ Has-website CSV: /workspaces/Hermes-leads/stress_run/dubai_restaurants_has_website.csv
+✓ Status: /workspaces/Hermes-leads/stress_run/dubai_restaurants.status.json
+

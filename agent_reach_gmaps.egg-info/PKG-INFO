@@ -1,0 +1,307 @@
+Metadata-Version: 2.4
+Name: agent-reach-gmaps
+Version: 0.1.0
+Summary: Google Maps lead scraper for businesses without websites (agent-reach architecture)
+Author-email: Your Name <you@example.com>
+License: MIT
+Project-URL: Homepage, https://github.com/yourusername/agent-reach-gmaps
+Project-URL: Repository, https://github.com/yourusername/agent-reach-gmaps
+Project-URL: Issues, https://github.com/yourusername/agent-reach-gmaps/issues
+Keywords: lead-generation,google-maps,scraping,playwright,sales,prospecting
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: playwright>=1.40
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: ruff>=0.8; extra == "dev"
+Requires-Dist: mypy>=1.12; extra == "dev"
+
+# Agent Reach Google Maps — Lead Scraper
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10+-green.svg)
+
+**Find businesses without websites on Google Maps** — Perfect for web development agencies, digital marketing firms, and lead generation businesses.
+
+Built using the **agent-reach architecture** for modularity, maintainability, and easy extensibility.
+
+---
+
+## 🎯 What It Does
+
+Automatically discovers businesses that:
+- ✅ **Don't have a website** (prime prospects!)
+- ✅ Have a valid phone number
+- ✅ Are actively operating (min rating & review threshold)
+- ✅ Match your keyword + location search
+
+## 🚀 Quick Start
+
+### 1. Install
+
+```bash
+# Install the package
+pip install -e .
+
+# Install Playwright browsers
+playwright install chromium
+```
+
+### 2. Run
+
+```bash
+# CLI usage
+gmaps-scraper scrape --keyword "Plumbers" --location "Austin, TX" --leads 10
+
+# Python usage
+python3 -c "
+from agent_reach_gmaps import scrape_leads_sync
+leads = scrape_leads_sync('Plumbers', 'Austin, TX', count=10)
+print(f'Found {len(leads)} leads')
+"
+```
+
+### 3. Check Health
+
+```bash
+gmaps-scraper doctor
+```
+
+---
+
+## 📚 Usage Examples
+
+### CLI Interface
+
+```bash
+# Basic usage
+gmaps-scraper scrape -k "Dentists" -l "Seattle, WA" -n 15
+
+# Adjust quality thresholds
+gmaps-scraper scrape \
+  --keyword "HVAC Services" \
+  --location "Phoenix, AZ" \
+  --leads 20 \
+  --min-rating 4.0 \
+  --min-reviews 10
+
+# Custom output file
+gmaps-scraper scrape -k "Restaurants" -l "Portland, OR" -o my_leads.csv
+
+# Run in headed mode (show browser)
+gmaps-scraper scrape -k "Auto Repair" -l "Denver, CO" --headed
+```
+
+### Python API
+
+```python
+from agent_reach_gmaps import scrape_leads_sync, GoogleMapsScraperConfig
+
+# Simple usage
+leads = scrape_leads_sync(
+    keyword="Plumbers",
+    location="Austin, TX",
+    count=10
+)
+
+# Advanced configuration
+config = GoogleMapsScraperConfig(
+    keyword="Dentists",
+    location="Seattle, WA",
+    target_leads=15,
+    discovery_cap=100,  # Scan more listings
+    min_rating=4.5,     # Higher quality threshold
+    min_reviews=20,
+    headless=False,     # Show browser
+    output_file="premium_dentists.csv"
+)
+
+from agent_reach_gmaps.scrapers.google_maps import GoogleMapsScraper
+scraper = GoogleMapsScraper(config)
+
+# Async usage
+import asyncio
+leads = asyncio.run(scraper.scrape())
+scraper.save_to_csv(leads)
+```
+
+---
+
+## 📊 Output Format
+
+Generated CSV includes:
+
+| Column | Description | Example |
+|--------|-------------|---------|
+| **business_name** | Full business name | "Johnson Plumbing Services" |
+| **contact_person** | Owner/Manager name | "Dr. Sarah Johnson" |
+| **phone_number** | Verified contact | "(512) 555-0123" |
+| **location** | Full address | "123 Main St, Austin, TX" |
+| **google_rating** | Star rating (1.0-5.0) | 4.7 |
+| **review_count** | Total reviews | 156 |
+| **profile_claimed** | Claim status | "Yes" / "No" / "Unknown" |
+
+---
+
+## 🏗️ Architecture
+
+Built on **agent-reach** design principles:
+
+```
+agent_reach_gmaps/
+├── __init__.py              # Package entry point
+├── cli.py                   # CLI interface (doctor, scrape, config)
+├── probe.py                 # Command availability checking
+├── channels/
+│   ├── __init__.py
+│   └── google_maps.py       # Channel definition & health checks
+└── scrapers/
+    ├── __init__.py
+    └── google_maps.py       # Core Playwright scraper
+```
+
+### Design Features
+
+- **Modular Backends**: Playwright (default) with SerpApi fallback
+- **Health Checking**: `gmaps-scraper doctor` validates setup
+- **Channel System**: Extensible for other platforms
+- **Clean Separation**: Channel checks vs. actual scraping logic
+
+---
+
+## 🔧 Configuration
+
+### CLI Commands
+
+```bash
+# Scrape leads
+gmaps-scraper scrape --keyword <NICHE> --location <CITY>
+
+# Check health
+gmaps-scraper doctor
+
+# Show config help
+gmaps-scraper config
+```
+
+### Parameters
+
+| Parameter | Type | Default | Description |
+|-----------|------|---------|-------------|
+| `--keyword` | str | *required* | Business type (e.g., "Plumbers") |
+| `--location` | str | *required* | Target city/region |
+| `--leads` | int | 10 | Number of qualified leads |
+| `--discovery-cap` | int | 60 | Max listings to scan |
+| `--min-rating` | float | 3.0 | Minimum Google rating |
+| `--min-reviews` | int | 3 | Minimum review count |
+| `--headed` | flag | False | Show browser (debugging) |
+| `--output` | str | auto | Output CSV filename |
+
+---
+
+## 💼 Use Cases
+
+### Web Development Agencies
+Find local businesses needing websites → Pitch design services → Close deals
+
+### Digital Marketing Firms
+Discover clients with no online presence → Offer SEO/PPC/Social → Onboard
+
+### Lead Generation Companies
+Build industry-specific lists → Sell to agencies → Recurring revenue
+
+### Business Consultants
+Identify underserved markets → Google Business Profile optimization → Consulting
+
+---
+
+## 🎨 Example Niches
+
+| Niche | Why It Works | Typical Close Rate |
+|-------|--------------|-------------------|
+| **Plumbers** | High-value services, often lack web presence | 15-20% |
+| **Dentists** | Premium market, good budgets for sites | 10-15% |
+| **HVAC** | Seasonal demand, always need leads | 12-18% |
+| **Auto Repair** | Technical services, web-shy owners | 15-25% |
+| **Restaurants** | Menu updates, online ordering critical | 8-12% |
+| **Landscaping** | Local SEO dependent, simple needs | 18-25% |
+
+---
+
+## 🐛 Troubleshooting
+
+### `gmaps-scraper: command not found`
+
+```bash
+# Reinstall the package
+pip install -e .
+
+# Or run directly
+python3 -m agent_reach_gmaps.cli scrape -k "Plumbers" -l "Austin, TX"
+```
+
+### Playwright Not Installed
+
+```bash
+playwright install chromium
+```
+
+### No Leads Found
+
+- **Try different location**: Suburbs often have more businesses without sites
+- **Lower thresholds**: `--min-rating 2.5 --min-reviews 1`
+- **Increase discovery**: `--discovery-cap 100`
+
+### Browser Launch Fails
+
+```bash
+# Check Playwright installation
+python3 -c "from playwright.sync_api import sync_playwright; \
+  p = sync_playwright().start(); \
+  print('Chromium:', p.chromium.executable_path); \
+  p.stop()"
+```
+
+---
+
+## 🔮 Roadmap
+
+- [ ] **Email extraction** from About sections
+- [ ] **Social media detection** (Facebook, Instagram links)
+- [ ] **Multi-city batch processing**
+- [ ] **CRM integrations** (HubSpot, Salesforce)
+- [ ] **SerpApi backend** for paid alternative
+- [ ] **Duplicate detection** across runs
+- [ ] **Advanced filtering** (hours, services, photos)
+
+---
+
+## 📄 License
+
+MIT License — Free for commercial use.
+
+---
+
+## 🙏 Credits
+
+- Built on **[agent-reach](https://github.com/Panniantong/agent-reach)** architecture
+- Uses **[Playwright](https://playwright.dev/)** for browser automation
+- Inspired by the need for better lead gen tools
+
+---
+
+## 📞 Support
+
+- **Issues**: [GitHub Issues](https://github.com/yourusername/agent-reach-gmaps/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/yourusername/agent-reach-gmaps/discussions)
+
+---
+
+**Happy lead hunting! 🎯**

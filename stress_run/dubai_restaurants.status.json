@@ -1,0 +1,26 @@
+{
+  "keyword": "Restaurants",
+  "areas_configured": [
+    "Dubai, UAE",
+    "Abu Dhabi, UAE",
+    "Sharjah, UAE",
+    "Ajman, UAE",
+    "Riyadh, Saudi Arabia",
+    "Jeddah, Saudi Arabia",
+    "Doha, Qatar"
+  ],
+  "areas_completed": [
+    "Dubai, UAE",
+    "Abu Dhabi, UAE",
+    "Sharjah, UAE",
+    "Ajman, UAE",
+    "Riyadh, Saudi Arabia",
+    "Jeddah, Saudi Arabia",
+    "Doha, Qatar"
+  ],
+  "target": 60,
+  "no_website_count": 60,
+  "has_website_count": 184,
+  "finished": true,
+  "updated_at": "2026-08-09T16:08:56Z"
+}
